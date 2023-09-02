@@ -1,0 +1,12 @@
+<div id="contenedor">
+  <button (click)="mostrarImagenes()" [ngClass] = "mostrada?'si':'no'">{{mostrada?editar:noEditar}}</button>
+<div class="tarjetas">
+  <div *ngFor="let pelicula of peliculas;
+   let i = index;" [pelicula]="pelicula"
+       tarjeta-pelicula
+       [editar]="mostrada">
+  </div>
+</div>
+
+</div>
+

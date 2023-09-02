@@ -1,0 +1,16 @@
+@font-face {
+  font-family: street;
+  src: url("../assets/fuente.ttf");
+}
+nav{
+  font-family: street;
+  font-weight: bold;
+  font-size: xx-large;
+}
+a:hover{
+  background: #BBCF3A;
+  background: linear-gradient(to top, #BBCF3A 21%, #F21915 62%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+

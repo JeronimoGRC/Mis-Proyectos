@@ -1,0 +1,36 @@
+.fondo{
+  width: 1000px;
+  height: 350px;
+  border-radius: 8px;
+}
+h3{
+  color: #cd0000;
+  text-shadow: -7px 1px 0px rgba(243,108,3,0.69);
+  font-weight: bold;
+  font-family: 'Street Fighter', sans-serif;
+}
+div.vs > img{
+  height: 300px;
+}
+div.random > img{
+  transform: scaleX(-1);
+}
+.containerPersonajes{
+  display: grid;
+  grid-template-rows: repeat(1,auto);
+  grid-template-columns: repeat(3,1fr);
+  grid-template-areas: "seleccionado vs random";
+  align-items: end;
+  width:300px;
+  margin-left: 100px;
+  margin-bottom: 50px;
+}
+.seleccionado{
+  grid-area: seleccionado;
+}
+.vs{
+  grid-area: vs;
+}
+.random{
+  grid-area: random;
+}

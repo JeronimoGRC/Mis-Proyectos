@@ -1,0 +1,15 @@
+<div class="fondo mx-auto">
+  <div class="containerPersonajes">
+      <div class="seleccionado">
+      <img *ngIf="personaje" src="{{personaje[id].animacion}}" width="150px" alt="">
+      <h3 *ngIf="personaje">{{personaje[id].nombre}}</h3>
+    </div>
+    <div class="vs">
+      <img src="assets/vs.png">
+    </div>
+    <div class="random">
+      <img *ngIf="personaje" src="{{personaje[random].animacion}}" width="150px" alt="">
+      <h3 *ngIf="personaje">{{personaje[random].nombre}}</h3>
+    </div>
+  </div>
+</div>

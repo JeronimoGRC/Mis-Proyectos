@@ -1,0 +1,35 @@
+.fondo{
+  width: 1200px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+.container-personajes{
+  display: grid;
+  grid-template-rows: repeat(1,auto);
+  grid-template-columns: repeat(3,1fr);
+  grid-template-areas: "personaje gif caracteristicas";
+  width:300px;
+  margin-top: 55px;
+}
+
+.personajes{
+  grid-area: personaje;
+  display: flex;
+  flex-wrap: wrap;
+  width: 350px;
+  border: #b18400 solid 5px;
+  border-radius: 3px;
+  background-color: #444444;
+  justify-content: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-right: 5px;
+}
+.gifLuchador{
+  grid-area: gif;
+  width: 200px;
+}
+.atributos{
+  grid-area: caracteristicas;
+}
+

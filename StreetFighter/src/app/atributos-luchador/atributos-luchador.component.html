@@ -1,0 +1,20 @@
+<div class="atributosLuchador">
+  <div class="caracteristicas">
+    <h3 class="nombre">{{nombreLuchador}}</h3>
+    <div class="carac">
+      <div class="stat"  style='width:{{fuerza}}0%'></div>
+      <h3>Fuerza</h3>
+    </div>
+    <div class="carac">
+      <div class="stat"  style='width:{{destreza}}0%'></div>
+      <h3>Destreza</h3>
+    </div>
+    <div class="carac">
+      <div class="stat" style='width:{{vida}}0%'></div>
+      <h3>Vida</h3>
+    </div>
+    <div class="botonSeleccion p-2 bg-dark" (click)="reproducir()" [routerLink]="['/antesLuchador/'+id]">
+      Seleccion
+    </div>
+  </div>
+</div>

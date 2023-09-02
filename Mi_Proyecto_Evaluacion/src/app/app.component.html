@@ -1,0 +1,15 @@
+<div class="m-auto">
+  <h1>{{ title }}</h1>
+</div>
+<nav class="navbar navbar-expand navbar-light mb-4">
+  <ul class="navbar-nav mr-auto">
+    <li class="nav-item">
+      <a class="nav-link" [routerLink]="['/inicio']" [routerLinkActive]="['active']">Inicio</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" [routerLink]="['/anadir']" [routerLinkActive]="['active']">Añadir</a>
+    </li>
+  </ul>
+</nav>
+<router-outlet>
+</router-outlet>

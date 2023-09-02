@@ -1,0 +1,24 @@
+<div class="content">
+  <h2>Editar: </h2>
+  <form action="" [formGroup]="formulario" >
+    <label for="">Nombre: </label>
+    <input type="text" formControlName="nombre">
+    <br>
+    <label for="">Calificacion: </label>
+    <input type="number" formControlName="calificacion">
+    <br>
+    <label for="">Género: </label>
+    <input type="text" formControlName="genero">
+    <br>
+    <label for="">Director: </label>
+    <input type="text" formControlName="director">
+    <br>
+    <label for="">Portada: </label>
+    <div class="fichero">
+      <input type="file" formControlName="portada" id="portada" (change)="cogerImagen($event)">
+    </div>
+  </form>
+    <div class="enviar">
+      <button type="submit" (click)="editar()">Enviar</button>
+    </div>
+</div>

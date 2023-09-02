@@ -1,0 +1,5 @@
+<img src="{{personaje.retrato}}" title="{{personaje.nombre}}" width="150px"
+     (click)="seleccionarLuchador(); reproducir()"
+     [ngClass]="hover?personaje.colorAsociado:''|| numLuchador === indiceSeleccionado?personaje.colorAsociado:''"
+     (mouseenter)="alternar()" (mouseleave)="alternar()">
+<!-- si el num del Luchador coincide con el indiceSeleccionado-->

@@ -1,0 +1,18 @@
+<div class="col-auto text-center">
+  <nav class="navbar navbar-expand">
+    <ul class="navbar-nav">
+      <li class="nav-item" (click)="reproducir()">
+        <a class="nav-link" [routerLink]="['/bienvenida']" [routerLinkActive]="['active']">Bienvenida</a>
+      </li>
+      <li class="nav-item" (click)="reproducir()">
+        <a class="nav-link" [routerLink]="['/seleccion']" [routerLinkActive]="['active']">Seleccion</a>
+      </li>
+    </ul>
+  </nav>
+  <h1 class="text-primary">
+    <img src="../assets/letras.png">
+  </h1>
+  <router-outlet>
+  </router-outlet>
+</div>
+

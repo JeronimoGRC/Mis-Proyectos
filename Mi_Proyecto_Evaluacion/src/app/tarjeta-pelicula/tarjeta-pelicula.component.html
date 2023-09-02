@@ -1,0 +1,37 @@
+<div class="tarjeta" *ngIf="pelicula">
+    <div class="titulo">
+      <p [routerLink]="['/editar',pelicula.id]">{{pelicula.nombre}}</p>
+    </div>
+    <div class="poster">
+
+      <img src="{{pelicula.portada}}" height="200px" *ngIf="!imageSrc"  alt="">
+
+      <img [src]="imageSrc" *ngIf="imageSrc" style="height: 200px;">
+
+      <div class="edit" *ngIf="editar">
+        <form action="" [formGroup]="myForm" (submit)="enviar()">
+          <input type="file" formControlName="file" (change)="cambiar($event)">
+          <button type="submit">Enviar</button>
+        </form>
+      </div>
+
+    </div>
+    <div class="caracteristicas">
+      <ul>
+        <li>
+          <span>Genero:</span> {{this.pelicula.genero}}
+        </li>
+        <li>
+          <span>Director:</span> {{this.pelicula.director}}
+        </li>
+        <li>
+          <calificacion-estrellas
+            [puntuacion]="this.pelicula.calificacion">
+          </calificacion-estrellas>
+        </li>
+      </ul>
+      <div class="eliminarBox" (click)="borrar()">
+        <span class="eliminar">X</span>
+      </div>
+    </div>
+</div>

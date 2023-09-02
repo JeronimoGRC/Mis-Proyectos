@@ -1,0 +1,60 @@
+form{
+  border: #07c4ea 2px solid;
+  border-radius: 8px;
+  width: 400px;
+  height: 400px;
+  margin: auto;
+  margin-top: 10px;
+  padding-top: 10px;
+}
+label{
+  width: max-content;
+  color: #2ec5ea;
+  font-weight: bolder;
+}
+input{
+  background-color: #444444;
+  border: #0368d1 1px solid;
+  border-radius: 5px;
+  color: #07c4ea;
+  height: 25px;
+  width: 200px;
+}
+label,input{
+  display: block;
+  margin: auto;
+}
+.enviar{
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+button{
+
+  padding: 10px;
+  color: #2ec5ea;
+  width: 65px;
+  background-color: #5c5b5b;
+  font-weight: bold;
+  border: transparent 2px solid;
+  border-radius: 5px;
+}
+button:hover{
+  border: #0368d1 3px solid;
+  cursor: pointer;
+  transition: 1s;
+}
+.fichero{
+  background-color:#2ec5ea;
+  cursor: pointer;
+  width: 200px;
+  margin: auto;
+  border-radius: 5px;
+}
+#portada{
+  cursor: pointer;
+  margin: auto;
+  width: 200px;
+  opacity: 0;
+}

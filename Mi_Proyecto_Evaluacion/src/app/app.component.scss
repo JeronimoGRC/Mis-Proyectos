@@ -1,0 +1,28 @@
+nav{
+  border-bottom: white 1px solid;
+  width: 100%;
+}
+h1{
+  font-family: "Candara Light";
+  text-align: center;
+}
+li{
+  list-style: none;
+  display: inline-block;
+  padding: 15px;
+  font-family: "Candara Light";
+  font-weight: bolder;
+  font-size: x-large;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+a:link{
+  color: white;
+}
+a:hover{
+  color: #07c4ea;
+  cursor: pointer;
+  transition: 0.6s;
+}

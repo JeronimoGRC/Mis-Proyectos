@@ -1,0 +1,70 @@
+
+h2{
+  width: 100%;
+  text-align: center;
+  background-color: #f1c13e;
+  color: black;
+  border-radius: 8px 8px 0 0;
+}
+.content{
+  margin: auto;
+  border: 2px solid #2ec5ea;
+  width: 450px;
+  height: 500px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+form{
+  width: 400px;
+  height: 400px;
+  margin: auto;
+  margin-top: 10px;
+  padding-top: 10px;
+}
+label{
+  width: max-content;
+  color: #2ec5ea;
+  font-weight: bolder;
+}
+input{
+  background-color: #444444;
+  border: #0368d1 1px solid;
+  border-radius: 5px;
+  color: #07c4ea;
+  height: 25px;
+  width: 200px;
+}
+label,input{
+  display: block;
+  margin: auto;
+}
+.enviar{
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+button{
+  padding: 10px;
+  color: black;
+  width: 65px;
+  background-color: #f1c13e;
+  font-weight: bold;
+  border: transparent 2px solid;
+  border-radius: 5px;
+}
+button:hover{
+  cursor: pointer;
+}
+.fichero{
+  cursor: pointer;
+  background-color:#2ec5ea;
+  width: 200px;
+  margin: auto;
+  border-radius: 5px;
+}
+#portada{
+  cursor: pointer;
+  margin: auto;
+  width: 200px;
+  opacity: 0;
+}

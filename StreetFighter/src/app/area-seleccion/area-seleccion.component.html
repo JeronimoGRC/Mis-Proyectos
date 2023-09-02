@@ -1,0 +1,21 @@
+<div class="fondo mx-auto p-4">
+  <div class="container-personajes">
+    <div class="personajes">
+      <div *ngFor="let personaje of personajes; let i = index" imagen-personajes
+           [personaje]="personaje" [indiceSeleccionado]="indiceSeleccionado"
+           [numLuchador]="i" (luchadorSeleccionado)="indiceSeleccionado = $event"><!-- El valor del indiceSeleccionado se cambia por lo que se emite en el evento de luchadorSeleccionado-->
+      </div>
+    </div>
+    <div *ngIf="indiceSeleccionado > -1" class="gifLuchador"><!-- Si hay un luchador seleccionado aparece la imagen -->
+      <img src="{{personajes[indiceSeleccionado].animacion}}" alt="" height="400px">
+    </div>
+    <div *ngIf="indiceSeleccionado > -1" class="atributos" atributos-luchador
+         [nombreLuchador]="personajes[indiceSeleccionado].nombre"
+         [fuerza]="personajes[indiceSeleccionado].fuerza"
+         [destreza]="personajes[indiceSeleccionado].destreza"
+         [vida]="personajes[indiceSeleccionado].vida"
+         [id]="indiceSeleccionado">
+    </div>
+  </div>
+
+</div>
