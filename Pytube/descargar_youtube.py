@@ -12,7 +12,7 @@ def Download(link):
         nombre_archivo = descarga.split("\\")[-1]
         destino = os.path.join("C:\\Users\\Usuario\\Desktop\\Jero\\Memos",nombre_archivo) #Esta será la ruta especificada
         #Es necesario que tenga las dobles barras invertidas
-        os.rename(descarga,destino) #Movemo y renombramos el archivo
+        os.rename(descarga,destino) #Movemos y renombramos el archivo
         print("Se ha incluido en la carpeta correctamente")
     except Exception as e:
         #Capturamos el error, en caso de que salte mostraremos el mensaje
