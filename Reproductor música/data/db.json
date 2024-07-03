@@ -1,0 +1,40 @@
+{
+    "canciones":[
+        {
+            "id": 1,
+            "nombre": "ANBU",
+            "portada":"src/portada_canciones/ANBU.png",
+            "musica":"src/musica/ANBU.mp4"
+        },
+        {
+            "id": 2,
+            "nombre": "AMG",
+            "portada":"src/portada_canciones/Avenida-Rafael-y-barra.png",
+            "musica":"src/musica/AMG.mp4"
+        },
+        {
+            "id": 3,
+            "nombre": "Riquelme & Okocha",
+            "portada":"src/portada_canciones/Riquelme-y-okocha.png",
+            "musica":"src/musica/Riquelme & Okocha.mp4"
+        },
+        {
+            "id": 4,
+            "nombre": "La Connect",
+            "portada":"src/portada_canciones/La-Connect.png",
+            "musica":"src/musica/La Connect.mp4"
+        },
+        {
+            "id": 5,
+            "nombre": "Un Dia Cualquiera",
+            "portada":"src/portada_canciones/Un-dia-cualquiera.png",
+            "musica":"src/musica/Un Día Cualquiera.mp4"
+        },
+        {
+            "id": 6,
+            "nombre": "Navajas y Percebes 2",
+            "portada":"src/portada_canciones/Navajas-y-Percebes.png",
+            "musica":"src/musica/Navajas y Percebes 2.mp4"
+        }
+    ]
+}
