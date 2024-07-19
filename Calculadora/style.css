@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(8, 8, 8);
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.calculadora{
+    width: max-content;
+    height: max-content;
+    margin: auto;
+    padding: 20px;
+    background-color: rgb(48, 48, 48);    
+    border-radius: 3px;
+}
+
+.boton{
+    height: 15px;
+    width: 10px;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 25%;
+    text-align: center;
+}
+
+.boton.signo{
+    background-color: orange;
+}
+
+.boton.numero{
+    background-color: white;
+}
+
+.boton:hover{
+    cursor: pointer;
+}
+
+.fila{
+    display: flex;
+    flex-direction: row;
+}
+
+#salida{
+    width: 300px;
+    height: 35px;
+    display: flex;
+    flex-direction: row;
+    margin: 5px;
+    background-color: rgb(93, 95, 95);
+    border-radius: 3px;
+    color: white;
+}
+
+#teclas{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
