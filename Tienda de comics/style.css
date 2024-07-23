@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(54, 54, 54);
+    margin: 0;
+}
+nav{
+    border: 1px solid transparent;
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+    width: max-content;
+
+    margin: auto;
+}
+nav > ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    padding-left: 0;   
+    margin: 0;
+}
+nav > ul > li:nth-of-type(1){
+    border-bottom: 2px solid rgb(65, 65, 255);
+    text-align: center;
+    width: 100px;
+    padding: 10px;
+}
+nav > ul > li:nth-of-type(2){
+    border-bottom: 2px solid red;
+    text-align: center;
+    width: 100px;
+    padding: 10px;
+}
+nav > ul > li:nth-of-type(3){
+    border-bottom: 2px solid rgb(223, 223, 0);
+    text-align: center;
+    width: 100px;
+    padding: 10px;
+}
+nav > ul > li:nth-of-type(1):hover{
+    cursor: pointer;
+    background-color: rgb(65, 65, 255);
+    color: white;
+    transition: 0.9s;
+}
+nav > ul > li:nth-of-type(2):hover{
+    cursor: pointer;
+    background-color: red;
+    color: white;
+    transition: 0.9s;
+}
+nav > ul > li:nth-of-type(3):hover{
+    cursor: pointer;
+    background-color: rgb(223, 223, 0);
+    transition: 0.9s;
+}
+
+aside{
+    float: right;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 200px;
+}
+aside > h2{
+    background-color: white;
+    padding-left: 10px;
+    border-radius: 5px 0 0 0;
+    margin-bottom: 0;
+}
+
+#carrito{
+    background-color: rgb(207, 207, 207);
+    border-radius: 0 0 0 5px;
+}
