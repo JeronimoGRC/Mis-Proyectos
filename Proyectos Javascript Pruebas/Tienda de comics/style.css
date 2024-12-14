@@ -1,5 +1,7 @@
 body{
-    background-color: rgb(54, 54, 54);
+    background-image: url(src/src/fondo.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
     margin: 0;
 }
 nav{
@@ -8,7 +10,6 @@ nav{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: 700;
     width: max-content;
-
     margin: auto;
 }
 nav > ul{
@@ -53,7 +54,6 @@ nav > ul > li:nth-of-type(3):hover{
     background-color: rgb(223, 223, 0);
     transition: 0.9s;
 }
-
 aside{
     float: right;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -65,8 +65,57 @@ aside > h2{
     border-radius: 5px 0 0 0;
     margin-bottom: 0;
 }
-
 #carrito{
     background-color: rgb(207, 207, 207);
     border-radius: 0 0 0 5px;
+}
+main{
+    margin-top: 25px;
+    margin-left: 20px;
+}
+.catalogo{
+    display: flex;
+    width: 850px;
+    gap: 10px;
+    margin: auto;
+    flex-wrap: wrap;
+}
+.comicCompra{
+    border: 1px solid black;
+    width: 150px;
+    height: 300px;
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+}
+.comicCompra > img{
+    width: 150px;
+}
+.pago{
+    display: flex;
+    flex-direction: row;
+    width: 100px;
+    height: 20px;
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+}
+.pago > img{
+    height: 24px;
+    margin-right: 5px;
+}
+.pago > p{
+    color: rgb(10, 150, 10);
+}
+
+.comprado{
+    display: flex;
+    flex-direction: row;
+}
+
+.comprado > img{
+    margin: 8px 5px 5px 8px;
 }

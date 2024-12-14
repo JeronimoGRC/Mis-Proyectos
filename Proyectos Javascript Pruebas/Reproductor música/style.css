@@ -16,29 +16,22 @@ h2{
     border-radius: 5px;
 }
 
-.botones{
-    margin-right: 30px;
-}
-
-.botones > ul{
-    list-style: none;
-    display: flex;
-    flex-direction: row;
-    gap: 50px;
-    float: right;
-}
-
 main > ul{
-    padding-top: 80px;
+    padding-top: 10px;
     list-style: none;
     padding-left: 0;
-
+    width: 810px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 main > ul > li{
     color: white;
     display: flex;
     margin-bottom: 30px;
+    margin: 5px;
+    width: 370px;
     background-color: rgb(19, 19, 19);
     padding: 10px;
     border-radius: 5px;

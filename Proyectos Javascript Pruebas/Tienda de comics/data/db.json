@@ -1,0 +1,100 @@
+{
+  "comics": [
+    {
+      "id": "2",
+      "portada": "src/src/portadas/Caballero Blanco.jpg",
+      "titulo": "La maldición del Caballero Blanco",
+      "stock": 5,
+      "precio": 14.95,
+      "marca": "DC"
+    },
+    {
+      "id": "3",
+      "portada": "src/src/portadas/Dias Futuro Pasado.jpg",
+      "titulo": "X-Men Días de Futuro Pasado",
+      "stock": 6,
+      "precio": 35,
+      "marca": "Marvel"
+    },
+    {
+      "id": "4",
+      "portada": "src/src/portadas/DoomWar.jpg",
+      "titulo": "DoomWar",
+      "stock": 10,
+      "precio": 12.75,
+      "marca": "Marvel"
+    },
+    {
+      "id": "5",
+      "portada": "src/src/portadas/Ghost Rider Nº50.jpg",
+      "titulo": "Ghost Rider #50",
+      "stock": 4,
+      "precio": 120,
+      "marca": "Marvel"
+    },
+    {
+      "id": "6",
+      "portada": "src/src/portadas/Infinity War.jpg",
+      "titulo": "Avengers Infinity War",
+      "stock": 15,
+      "precio": 24.75,
+      "marca": "Marvel"
+    },
+    {
+      "id": "7",
+      "portada": "src/src/portadas/JLA.jpg",
+      "titulo": "Brave and the bold #28 Justice league of America",
+      "stock": 1,
+      "precio": 1200,
+      "marca": "DC"
+    },
+    {
+      "id": "8",
+      "portada": "src/src/portadas/Mister Milagro.jpg",
+      "titulo": "Mister Miracle 12",
+      "stock": 9,
+      "precio": 14.65,
+      "marca": "DC"
+    },
+    {
+      "id": "9",
+      "portada": "src/src/portadas/Muerte en la Familia.jpg",
+      "titulo": "Batman Death in the Family",
+      "stock": 5,
+      "precio": 22.75,
+      "marca": "DC"
+    },
+    {
+      "id": "10",
+      "portada": "src/src/portadas/Secret-Wars.webp",
+      "titulo": "Avengers Secret War #8",
+      "stock": 6,
+      "precio": 90,
+      "marca": "Marvel"
+    },
+    {
+      "id": "11",
+      "portada": "src/src/portadas/Spawn.jpg",
+      "titulo": "Spawn #272",
+      "stock": 35,
+      "precio": 2.99,
+      "marca": "Otros"
+    },
+    {
+      "id": "12",
+      "portada": "src/src/portadas/Spawn.webp",
+      "titulo": "Spawn #1",
+      "stock": 7,
+      "precio": 34.65,
+      "marca": "Otros"
+    },
+    {
+      "id": "13",
+      "portada": "src/src/portadas/Xmen.webp",
+      "titulo": "X-men #1",
+      "stock": 1,
+      "precio": 2500,
+      "marca": "Marvel"
+    }
+  ]
+}

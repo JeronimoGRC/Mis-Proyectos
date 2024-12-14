@@ -5,7 +5,9 @@ import os
 
 def Download(link):
     yt = YouTube(link)
-    yt = yt.streams.get_highest_resolution()#Obtenemos la resolución con mayor calidad del vídeo
+#    yt = yt.streams.get_highest_resolution()#Obtenemos la resolución con mayor calidad del vídeo
+    yt = yt.streams.filter(progressive=True, file_extension='mp4').first()
+
     try:
         descarga = yt.download() #Ejecutamos la descarga habiendo pasado el link por parámetros
         #Con el modulo de os marcaremos un destino para los video que descarguemos 

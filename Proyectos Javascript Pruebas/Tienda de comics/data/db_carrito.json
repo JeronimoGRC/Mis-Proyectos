@@ -1,0 +1,12 @@
+{
+  "carrito": [
+    {
+      "id": "1",
+      "portada": "src/src/portadas/Batman.jpg",
+      "titulo": "Batman #9",
+      "stock": 2,
+      "precio": 500,
+      "marca": "DC"
+    }
+  ]
+}

@@ -28,12 +28,14 @@ function cargarEvento(song,imgPlay){
     var audio = new Audio(song.musica)
     imgPlay.addEventListener('click', ()=>{
         reproduciendo = !reproduciendo
+        console.log("imgPlay.musica",imgPlay.id);
+        console.log("song.musica",song.id);        
         if (reproduciendo == true){
             audio.currentTime = 0
             audio.play()
-            console.log("Play",reproduciendo);
+            console.log("Play",reproduciendo,"->",imgPlay );
         }else{
-            console.log("Pausa",reproduciendo);
+            console.log("Pausa",reproduciendo,"->",imgPlay );
             audio.pause()
             reproduciendo = false
         }
@@ -57,7 +59,9 @@ function pintarListaCanciones(song) {
         li.appendChild(img)
         li.appendChild(imgPlay)
         ul.appendChild(li)
+        
     }
+ 
     main.appendChild(ul)
 }
 
