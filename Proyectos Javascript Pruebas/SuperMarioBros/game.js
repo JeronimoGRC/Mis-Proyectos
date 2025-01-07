@@ -167,7 +167,7 @@ function collectItem(mario, item) {
 
         mario.isBlocked = true
         mario.isGrown = true
-        
+         
         setTimeout(() =>{
             mario.setScale(1,1)
             mario.body.setSize(18,32)
@@ -182,7 +182,7 @@ function collectItem(mario, item) {
     }
         
 }
-
+ 
 function addScore(origin, scoreNumber, game) {
     const score = game.add.text(
         origin.x,
