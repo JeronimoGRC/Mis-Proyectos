@@ -72,4 +72,31 @@ export const createAnimations = (game) => {
         key: 'mario-grown-jump',
         frames: [{key: 'mario-grown', frame: 5}]
     })
+
+
+    // Mario di fogo 
+
+    game.anims.create({
+        key: 'mario-fire-idle',
+        frames: [{key: 'mario-fire', frame: 0}],
+    })
+
+    game.anims.create({
+        key: 'mario-fire-walk',
+        frames: game.anims.generateFrameNumbers(
+            'mario-fire',
+            {start: 1, end: 3}
+        ),
+        frameRate: 10
+    })
+
+    game.anims.create({
+        key: 'mario-fire-jump',
+        frames: [{key: 'mario-fire', frame: 5}]
+    })
+
+    game.anims.create({
+        key: 'mario-fire-ball',
+        frames: [{key: 'mario-fire', frame: 6}]
+    })
 }

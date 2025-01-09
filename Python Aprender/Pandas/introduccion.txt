@@ -1,0 +1,27 @@
+Pandas es una biblioteca de Python que nos permite visualizar, analizar y comprender
+datos ya sea de un excel como de un SQL o CSV.
+
+Ofrece metodos para reordenar, dividir y combinar datos.
+
+¿Por que utilizar Pandas?
+Nos ayuda a su uso por su simpleza, ya que podremos ver los datos mediante a gráficas
+realizando a la vez un analisis de la misma
+
+SERIES
+Conjunto de elementos en los que almacenaremos cualquier tipo de dato
+Tienen secuencia ordenada que comienza en 0
+
+pd.Series() #Generar una serie, hay que introducir un parametro, tiene que ser un array
+
+.size : Devuelve el número de elementos de la serie 
+.index : Devuelve una lista con los nombres de las filas de DataFrame
+.dtype : Devuelve el tipo de datos de los elementos de la serie
+
+Acceder a un dato de una SERIE
+colores[1:2] -> Accedes al dato de la segunda posición
+colores[2:4] -> Visualizaras los elementos 3 y 4, ya que el dos no lo cuentas
+
+DATAFRAME
+Son un conjunto de SERIES, son una estructura bidimensional con columnas que pueden ser 
+de cualquier tipo.
+

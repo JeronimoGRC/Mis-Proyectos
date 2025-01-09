@@ -67,8 +67,20 @@ function preload() {
     )
 
     this.load.spritesheet(
+        'fire-flower',
+        'assets/collectibles/overworld/fire-flower.png',
+        {frameWidth: 16, frameHeight: 16}
+    )
+
+    this.load.spritesheet(
         'mario-grown',
         'assets/entities/mario-grown.png',
+        {frameWidth: 18, frameHeight: 32}
+    )
+
+    this.load.spritesheet(
+        'mario-fire',
+        'assets/entities/mario-fire.png',
         {frameWidth: 18, frameHeight: 32}
     )
 
@@ -114,6 +126,11 @@ function create() {
     .setOrigin(0, 0.5)
     .refreshBody()
 
+    this.floor  
+    .create(280,config.height - 16,'floorbricks')
+    .setOrigin(0, 0.5)
+    .refreshBody()
+    
     // Cargar al enemigo
     this.goomba = this.physics.add.sprite(120,config.height - 64,'goomba')
     .setOrigin(0,1)
@@ -125,6 +142,7 @@ function create() {
     this.collectibles.create(150,150,'coin').anims.play('coin-movement',true)
     this.collectibles.create(250,150,'coin').anims.play('coin-movement',true)
     this.collectibles.create(175,204,'mushroom')
+    this.collectibles.create(205,204,'fire-flower')
     this.physics.add.overlap(this.mario, this.collectibles, collectItem, null, this)
 
     this.physics.world.setBounds(0,0,2000,config.height) // Establecemos el límite del mundo y hacemos que se extienda
@@ -167,7 +185,9 @@ function collectItem(mario, item) {
 
         mario.isBlocked = true
         mario.isGrown = true
-         
+        
+        console.log('Grown -> '+mario.isGrown);
+
         setTimeout(() =>{
             mario.setScale(1,1)
             mario.body.setSize(18,32)
@@ -178,10 +198,75 @@ function collectItem(mario, item) {
             this.anims.resumeAll()
             this.physics.world.resume()            
         },1000)
+
         addScore(item,1000,this)
+
+    }else if(key == 'fire-flower'){
+
+        if(!mario.isGrown){
+            item.destroy();
+            this.physics.world.pause();
+            this.anims.pauseAll()
+            this.sound.add('powerup', {volume: 0.1}).play()
+            
+            let i = 0
+            const interval = setInterval(() => {
+                i++;
+                mario.anims.play(i % 2 == 0
+                    ? 'mario-fire-idle'
+                    : 'mario-grown-idle'
+                )
+            },100)
+
+            mario.isBlocked = true
+            mario.isFire = true
+            
+            setTimeout(() =>{
+                mario.setScale(1,1)
+                mario.body.setSize(18,32)
+                mario.body.setOffset(0,0)
+                mario.y -= 16
+                mario.isBlocked = false
+                clearInterval(interval)
+                this.anims.resumeAll()
+                this.physics.world.resume()            
+            },1000)
+            addScore(item,2000,this)
+
+        }else{
+            item.destroy();
+            this.physics.world.pause();
+            this.anims.pauseAll()
+            this.sound.add('powerup', {volume: 0.1}).play()
+            
+            let i = 0
+            const interval = setInterval(() => {
+                i++;
+                mario.anims.play(i % 2 == 0
+                    ? 'mario-fire-idle'
+                    : 'mario-grown-idle'
+                )
+            },100)
+
+            mario.isBlocked = true
+            mario.isFire = true
+            
+            console.log(mario);
+
+            setTimeout(() =>{
+                mario.isBlocked = false
+                clearInterval(interval)
+                this.anims.resumeAll()
+                this.physics.world.resume()            
+            },1000)
+            addScore(item,2000,this)
+        }
+        
     }
         
 }
+        
+
  
 function addScore(origin, scoreNumber, game) {
     const score = game.add.text(
@@ -224,25 +309,49 @@ function onHitEnemy(mario, enemy) {
     } else {
         if (mario.isDead) return 
 
-        mario.isDead = true
-        mario.anims.play('mario-dead')
-        mario.setCollideWorldBounds(false)
-        // Activa el audio de la muerte reduciendo el volumen
-        this.sound.add('dead', {volume: 0.2}).play()
+        if (mario.isGrown) {
+            mario.isGrown = false
+            mario.isDead = false        
+            
+            let i = 0
+            const interval = setInterval(() => {
+                i++;
+                mario.setVisible(i % 2 === 0)
+            },100)
+            
+            
+            setTimeout(() => {
+                mario.body.setSize(18,16)
+                mario.body.setOffset(0,0)
+                mario.setY(mario.y - 16)
+                clearInterval(interval);
+                mario.setVisible(true);
+            }, 1500);
+            
+            mario.anims.play('mario-idle')
 
-        mario.body.checkCollision.none = true
-        mario.setVelocityX(0)
-
-        setTimeout(()=>{
-            mario.setVelocityY(-150)
-        },90)
-
-        // Se reinicia el programa 2seg después de morir
-        setTimeout(()=>{
-            this.scene.restart()
-        },1000)
-
-        enemy.setVelocityX(0)
+        } else {
+            mario.isDead = true
+            mario.anims.play('mario-dead')
+            mario.setCollideWorldBounds(false)
+            // Activa el audio de la muerte reduciendo el volumen
+            this.sound.add('dead', {volume: 0.2}).play()
+    
+            mario.body.checkCollision.none = true
+            mario.setVelocityX(0)
+    
+            setTimeout(()=>{
+                mario.setVelocityY(-150)
+            },90)
+    
+            // Se reinicia el programa 2seg después de morir
+            setTimeout(()=>{
+                this.scene.restart()
+            },1000)
+    
+            enemy.setVelocityX(0)    
+        }
+        
     }
 }
 

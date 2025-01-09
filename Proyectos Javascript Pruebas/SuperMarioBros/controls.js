@@ -1,4 +1,10 @@
 const MARIO_ANIMATIONS = {
+    fire:{
+        idle: 'mario-fire-idle',
+        walk: 'mario-fire-walk',
+        jump: 'mario-fire-jump',
+        fire_ball: 'mario-fire-ball'
+    },
     grown:{
         idle: 'mario-grown-idle',
         walk: 'mario-grown-walk',
@@ -16,13 +22,12 @@ export function checkControls({mario, keys, sound, scene},config){
     const isLeftKeyIsDown = keys.left.isDown
     const isRightKeyIsDown = keys.right.isDown
     const isUpKeyIsDown = keys.up.isDown
+    const isSpaceKeyisDown = keys.space.isDown
 
     if (mario.isDead) return
     if (mario.isBlocked) return 
     
-    const marioAnimations = mario.isGrown ? 
-    MARIO_ANIMATIONS.grown :
-    MARIO_ANIMATIONS.normal
+    const marioAnimations = mario.isFire ? MARIO_ANIMATIONS.fire : mario.isGrown ? MARIO_ANIMATIONS.grown : MARIO_ANIMATIONS.normal
     // Condiciones de los movimientos
     if (isLeftKeyIsDown){
         mario.x -= 2
@@ -44,6 +49,10 @@ export function checkControls({mario, keys, sound, scene},config){
         mario.anims.play(marioAnimations.idle,true)
     }
     
+    if(isSpaceKeyisDown && mario.isFire){
+        mario.anims.play(marioAnimations.fire_ball,true)
+    }
+
     // Animación de muerte de Mario
     if (mario.y >= config.height) {
         mario.isDead = true
