@@ -1,0 +1,9 @@
+Metodos:
+.upper() -> Pone los caracteres en mayúsculas
+.capitalize() -> Pone la primera letra en mayúsculas
+.lower() -> Pone todos los caracteres en minúsculas
+len(string) -> Cuenta los caracteres que hay en el string
+.find(string) -> Encuentra la posición en la que se encuentra la letra que le pedimos
+.count(string) -> Cuenta todos los caracteres que hay del string que se encuentre en el parentesis
+.isupper() -> Comprueba si todo el string está en mayúsculas
+.islower() -> Comprueba si todo el string está en minúsculas 

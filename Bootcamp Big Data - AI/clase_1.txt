@@ -1,0 +1,57 @@
+¿Que es Data Science?
+- Nos permite la gestión de diferentes tipos de datos, analizando y extrayendo conocimiento de los datos
+- Sus usos principales son el descubrimiento de patrones, extracción de información valiosa, hacer predicciones
+
+Machines Learning: Desarrollo de algoritmos capaces de aprender da datos y hacer predicciones, utilizando
+la matemática y la estadistica.
+
+Big Data: Gestión y procesamiento de datos de grandes volúmenes.
+
+Aplicaciones de DS:
+- Finanzas
+- RRSS y Tecnología
+- Salud
+
+Habilidades:
+- Matemáticas y Estadística: Probabilidad, álgebra lineal, estadística
+- Programación -> Python y R
+- Machine Learning -> conocimiento de algoritmos supervisados y no supervisados
+- Bases de datos -> SQL y NoSQL
+- Visualización de Datos -> Power BI, matplotib, seaborn
+- Big Data -> Apache Spark, Hadoop
+- Plataformas Cloud -> AWS, Google Cloud
+
+Profesiones:
+- Ingeniero de Datos -> Se encarga del proceso de almacenamiento de datos 
+- Analista de Datos -> Se encarga de hacer entender los datos 
+- Cientifico de Datos -> Se encarga del estudio del dato para los procesos predictivos
+
+Flujo de trabajo
+- Definición del problema
+- Obtencion de datos 
+- Analisis Exploratorio de datos
+- Preprocesamiento de datos
+- Entrenamiento del Modelo
+- Evaluación del Modelo
+- Despliegue de resultados
+
+Obtención de Datos
+
+- Datos Estructurados
+- Datos No Estructurados
+- Datos Semiestructurados
+
+Preprocesamiento de datos
+- Eliminación de valores no relevantes.
+    - Duplicados
+    - Valores únicos
+- Corrección de valores atípicos
+    - Eliminación directa
+    - Transformaciones Matemáticas
+    - Modelos estadísticos
+- Tratamiento de valores faltantes
+    - Eliminación de registros incompletos
+    - Imputación con valores estadísticos
+    - Sustitución con valores específicos
+- Selección de Características
+    - Analisis de correlación

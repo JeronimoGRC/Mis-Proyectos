@@ -84,6 +84,12 @@ function preload() {
         {frameWidth: 18, frameHeight: 32}
     )
 
+    this.load.spritesheet(
+        'fire-ball',
+        'assets/entities/fireball.png',
+        {frameWidth: 16, frameHeight: 16}
+    )
+
 //  -- Audio -- 
 
     this.load.audio(
@@ -112,7 +118,7 @@ function create() {
     this.mario = this.physics.add.sprite(50, 100, 'mario')
     .setOrigin(0,1)
     .setCollideWorldBounds(true) // Marca que el personaje delimite el movimiento en el espacio del mundo
-    .setGravityY(300)
+    .setGravityY(300)    
 
     this.floor = this.physics.add.staticGroup() // Establece las fisicas solidas al suelo
 
@@ -142,7 +148,7 @@ function create() {
     this.collectibles.create(150,150,'coin').anims.play('coin-movement',true)
     this.collectibles.create(250,150,'coin').anims.play('coin-movement',true)
     this.collectibles.create(175,204,'mushroom')
-    this.collectibles.create(205,204,'fire-flower')
+    this.collectibles.create(205,204,'fire-flower').anims.play('fire-flower-movement',true)
     this.physics.add.overlap(this.mario, this.collectibles, collectItem, null, this)
 
     this.physics.world.setBounds(0,0,2000,config.height) // Establecemos el límite del mundo y hacemos que se extienda
@@ -154,6 +160,18 @@ function create() {
     // Configuración de la camara
     this.cameras.main.setBounds(0,0,2000,config.height) // Marcamos a la camara para que tenga los mismos limites que el mundo
     this.cameras.main.startFollow(this.mario)
+
+    let posicionX = this.mario.x
+    let posicionY = this.mario.y
+
+    if (this.mario.throwingFire) {
+        console.log("Lanza fuego");
+        this.fireBall = this.physics.add.sprite(posicionX, posicionY, 'fire-ball')
+        this.fireBall.anims.play('fire-ball-rotating')
+        this.fireBall.setVelocityX(this.mario.flipX ? -100 : 100)
+    }else{
+        console.log("NO Lanza fuego");
+    }
 
     // Importamos las animaciones
     createAnimations(this)
@@ -251,8 +269,6 @@ function collectItem(mario, item) {
             mario.isBlocked = true
             mario.isFire = true
             
-            console.log(mario);
-
             setTimeout(() =>{
                 mario.isBlocked = false
                 clearInterval(interval)
@@ -264,9 +280,7 @@ function collectItem(mario, item) {
         
     }
         
-}
-        
-
+}        
  
 function addScore(origin, scoreNumber, game) {
     const score = game.add.text(
@@ -359,4 +373,15 @@ function onHitEnemy(mario, enemy) {
 function update() {
     checkControls(this,config)
     
+    let posicionX = this.mario.x
+    let posicionY = this.mario.y
+
+    if (this.mario.throwingFire) {
+        console.log("Lanza fuego");
+        this.fireBall = this.physics.add.sprite(posicionX, posicionY, 'fire-ball')
+        this.fireBall.anims.play('fire-ball-rotating')
+        this.fireBall.setVelocityX(this.mario.flipX ? -100 : 100)
+    }else{
+        console.log("NO Lanza fuego");
+    }
 }

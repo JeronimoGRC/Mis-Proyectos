@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Proyecto Final</title>
+</head>
+<body>
+    <header>
+        <h2>Proyecto Final mi app</h2>
+        <nav>
+            <ul id="navegacion">
+                <li><a href="#tareas">Tareas</a></li>
+                <li><a href="#carrito">Carrito de compras</a></li>
+                <li><a href="#notas">Notas</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <div id="tareas" class="seccion">
+            <h3>Lista de Tareas</h3>
+            <input type="text" placeholder="Escribe tu tarea" id="tarea">
+            <button id="agregar_tarea" class="agregar">Agregar Tarea</button>
+            <ul id="lista_tareas">
+        
+            </ul>
+        </div>
+        <div id="carrito" class="seccion">
+            <div id="titulo">
+                <h3>Carrito de Compras</h3>
+            </div>            
+           <div id="operaciones">
+            <div id="disponibles">
+                <p>Productos disponibles</p>
+                <ul>
+                    <li>Camiseta - $20 <button class="agregar agregar_prod" id="camiseta">Agregar</button></li>
+                    <li>Pantalón - $35 <button class="agregar agregar_prod" id="pantalon">Agregar</button></li>
+                    <li>Zapatos - $50 <button class="agregar agregar_prod" id="zapatos">Agregar</button></li>
+                    <li>Sombrero - $15 <button class="agregar agregar_prod" id="sombrero">Agregar</button></li>
+                </ul>
+            </div>
+            <div id="seleccionados">
+                <p>Tu Carrito</p>
+                <ul id="mi_carrito">
+                    
+                </ul>
+                <p>Total: <span id="total"></span>€</p>
+            </div>
+           </div>
+        </div>
+        <div id="notas" class="seccion">
+            <h3>Notas</h3>
+            <div id="inputs">
+                <input type="text" id="titulo_nota" placeholder="Titulo:">
+                <input type="text" id="descripcion_nota" placeholder="Descripción:">
+                <button id="agregar_notas" class="agregar">Agregar nota</button>
+            </div>
+            <div id="lista_notas">
+                
+            </div>
+        </div>
+    </main>
+    <footer></footer>
+    <script src="app.js"></script>
+</body>
+</html>

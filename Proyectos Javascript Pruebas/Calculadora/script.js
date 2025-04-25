@@ -3,90 +3,79 @@ let numeros = document.querySelectorAll(".numero");
 let signos = document.querySelectorAll(".signo");
 let salida = document.querySelector("#salida");
 let cuenta = "";
+let caracter = "";
 let signoPulsado = false;
-let resuelto = false;
 
-function gestionNumero(event) {
-    if (signoPulsado) {
-        if (salida.innerText == "x") {
-            cuenta += "*"
-        }else{
-            cuenta += salida.innerText
-        }
+function escribirNum(event) {
+    if (signoPulsado == true) {
         salida.innerText = ""
-        signoPulsado = !signoPulsado
-    }
-    caracteres = salida.innerText
-    if (caracteres.length <= 20) {
-        salida.innerText += event.target.innerText        
+        caracter = event.target.innerText
+        salida.innerText += caracter
+        cuenta += caracter
+        signoPulsado = false
+    } else {
+        caracter = event.target.innerText
+        salida.innerText += caracter
+        cuenta += caracter
     }
 }
-    
 
 function gestionSignos(event) {
-    if(cuenta == ""){
-        alert("Debes introducir un número")
-    }else{
-        cuenta += salida.innerText
-        salida.innerText = event.target.innerText
-        signoPulsado = true
+    let signo = event.target.innerText
+    if (cuenta == "") {
+        alert("Debe haber numeros introducidos para hacer la cuenta")
+    } else {
+        if (signo == "x") {
+            signo = "*"
+            signoPulsado = true
+            salida.innerText = signo
+            cuenta += signo
+        }else{
+            signoPulsado = true
+            salida.innerText = signo
+            cuenta += signo 
+        }
     }
-    
 }
 
 function gestionIgual() {
-    if(cuenta == ""){
-        alert("Debes introducir un número")
-    }else{
-        cuenta += salida.innerText
-        let resultado = calcularCuenta(cuenta)
-        pintarResultado(resultado)
+    if (cuenta == "") {
+        alert("¡No hay ninguna cuenta en proceso!")
+    } else {
+        calcularCuenta(cuenta)
     }
-    
 }
 
 function calcularCuenta(cuenta) {
-        resultado = eval(cuenta)
-        return resultado
-}
-
-function pintarResultado(resultado) {
-    salida.innerText = ""
-    salida.innerText = resultado
-    resuelto = true
-    cuenta = ""
+    console.log(cuenta);    
+    salida.innerText = eval(cuenta)
 }
 
 function borrarSalida() {
     salida.innerText = ""
+    cuenta = "";
+    signoPulsado = false;
 }
 
 function gestionDeBotones(event) {
-    if (!resuelto) {
-        let boton = event.target.className
-        switch (boton) {
-            case "boton numero":
-                gestionNumero(event)
-            break;
+    let boton = event.target.className
+    switch (boton) {
+        case "boton numero":
+            escribirNum(event)
+        break;
             
-            case "boton signo":
-                gestionSignos(event)
-            break;
+        case "boton signo":
+            gestionSignos(event)
+        break;
             
-            case "boton signo igual":
-                gestionIgual()
-            break;
-    
-            case "boton signo c":
-                borrarSalida()
-            break;
-        }
-    }else{
-        salida.innerText = ""
-        resuelto = !resuelto
-    }
+        case "boton signo igual":
+            gestionIgual()
+        break;
 
-    
+        case "boton signo c":
+            borrarSalida()
+        break;
+    }    
 }
 
 botones.forEach(boton => {

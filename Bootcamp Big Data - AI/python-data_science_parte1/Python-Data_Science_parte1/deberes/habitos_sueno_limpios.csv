@@ -1,0 +1,1921 @@
+Puntuacion,Veces_despertado,Horas_sueño_profundo,Temperatura,Porcentaje_humedad,Deporte_diario,Tipo_alimentacion,Ha_bebido_alcohol,Mes,Edad,Estacion,Hora_acostarse,Hora_despertar
+7.5,2,6.0,42.2,75.5,medio,equilibrada,No,junio,29,verano,22:45,6:00
+4.5,3,6.0,30.9,33.1,medio,muy procesada,No,septiembre,4,otoño,20:30,6:45
+7.2,1,6.0,18.5,76.2,medio,muy procesada,No,diciembre,73,invierno,20:00,8:00
+6.6,1,1.0,36.3,69.4,poco,procesada,No,septiembre,73,otoño,20:00,7:00
+2.1,4,3.0,29.4,77.2,medio,equilibrada,Si,enero,40,invierno,2:00,8:30
+5.4,2,3.0,41.0,34.1,medio,equilibrada,Si,marzo,18,primavera,0:45,7:45
+4.4,2,5.0,19.9,45.3,medio,sana,Si,julio,39,verano,0:15,6:30
+8.2,1,1.0,10.3,60.8,poco,procesada,No,octubre,34,otoño,22:30,6:45
+9.4,0,2.0,13.0,49.2,mucho,sana,No,mayo,20,primavera,1:45,9:30
+7.8,0,7.0,18.7,36.7,mucho,equilibrada,Si,marzo,47,primavera,20:45,5:00
+4.9,3,4.0,28.0,66.2,poco,procesada,No,octubre,75,otoño,0:45,7:00
+4.7,3,1.0,37.6,58.5,medio,muy procesada,No,octubre,24,otoño,2:30,9:15
+7.2,2,1.0,42.0,59.7,mucho,ayuno,No,mayo,37,primavera,21:30,8:15
+4.6,4,4.0,27.1,38.3,nada,equilibrada,No,noviembre,30,otoño,22:15,7:00
+8.1,1,7.0,26.0,63.0,mucho,sana,No,agosto,73,verano,21:00,6:30
+7.5,1,8.0,31.1,46.1,nada,equilibrada,No,septiembre,54,otoño,21:30,6:15
+5.1,2,6.0,12.4,51.1,poco,muy procesada,No,diciembre,11,invierno,22:15,6:00
+3.4,4,8.0,39.4,49.6,nada,muy procesada,No,diciembre,44,invierno,20:15,10:15
+1.1,4,6.0,36.5,26.2,medio,ayuno,Si,agosto,75,verano,2:45,9:45
+10.0,0,3.0,27.2,79.5,mucho,ayuno,No,marzo,16,primavera,1:30,7:15
+5.1,2,1.0,43.7,50.8,medio,equilibrada,Si,mayo,1,primavera,0:30,6:00
+6.5,2,5.0,22.3,30.8,mucho,ayuno,No,junio,20,verano,1:00,8:30
+8.4,1,4.0,34.3,77.3,mucho,ayuno,No,junio,48,verano,21:15,5:30
+4.4,2,4.0,42.1,77.8,medio,procesada,Si,febrero,41,invierno,0:00,6:45
+5.0,1,1.0,38.3,44.1,medio,muy procesada,Si,diciembre,76,invierno,23:30,6:45
+1.6,4,1.0,38.4,66.5,medio,equilibrada,Si,agosto,4,verano,20:30,6:15
+3.8,3,4.0,34.7,50.3,nada,muy procesada,No,enero,6,invierno,22:00,9:00
+3.5,2,4.0,36.8,26.0,nada,procesada,Si,febrero,4,invierno,0:30,6:15
+1.0,4,1.0,43.6,26.1,poco,procesada,Si,septiembre,34,otoño,20:30,8:30
+3.1,4,10.0,11.5,55.9,medio,ayuno,No,mayo,65,primavera,20:30,7:45
+5.3,3,6.0,40.0,79.6,medio,ayuno,No,abril,63,primavera,1:45,8:30
+7.1,1,2.0,13.2,59.3,medio,equilibrada,No,julio,68,verano,21:30,7:45
+7.6,2,2.0,26.4,48.0,mucho,ayuno,No,junio,69,verano,1:30,6:00
+1.0,4,3.0,36.2,65.5,medio,procesada,Si,octubre,9,otoño,23:15,5:45
+4.6,4,7.0,21.1,79.1,poco,equilibrada,No,octubre,7,otoño,1:30,9:30
+8.4,1,6.0,17.2,46.2,medio,ayuno,No,marzo,49,primavera,2:00,9:45
+1.1,4,9.0,40.5,73.3,poco,equilibrada,Si,octubre,78,otoño,21:15,10:15
+6.4,2,3.0,33.5,46.5,nada,equilibrada,No,octubre,61,otoño,23:15,7:00
+4.6,3,3.0,35.9,48.7,poco,procesada,No,febrero,38,invierno,23:15,5:45
+6.5,2,2.0,29.4,71.9,medio,sana,No,marzo,47,primavera,21:15,7:30
+4.5,4,5.0,34.1,74.5,medio,equilibrada,No,diciembre,5,invierno,0:00,6:30
+8.4,1,3.0,38.4,40.1,mucho,equilibrada,No,junio,27,verano,22:30,6:00
+4.5,3,5.0,29.5,35.1,medio,equilibrada,No,diciembre,62,invierno,2:45,8:30
+3.7,3,1.0,30.3,57.3,nada,muy procesada,No,diciembre,6,invierno,0:15,6:00
+9.2,0,7.0,44.2,32.0,mucho,sana,No,marzo,37,primavera,21:00,9:15
+10.0,0,1.0,32.3,41.7,mucho,equilibrada,No,mayo,5,primavera,23:00,5:15
+6.7,2,1.0,19.9,65.9,medio,sana,No,abril,11,primavera,1:45,9:15
+7.0,0,3.0,15.6,63.8,mucho,ayuno,Si,agosto,74,verano,0:30,8:45
+7.6,1,2.0,16.5,62.1,nada,equilibrada,No,febrero,27,invierno,1:15,6:45
+6.3,1,3.0,18.9,60.8,nada,muy procesada,Si,enero,59,invierno,2:00,7:45
+7.3,1,1.0,44.5,52.0,mucho,ayuno,Si,mayo,77,primavera,21:15,5:45
+6.2,2,4.0,23.8,53.0,poco,equilibrada,No,noviembre,3,otoño,21:00,7:30
+9.1,0,4.0,35.8,63.1,mucho,ayuno,No,marzo,50,primavera,20:15,6:00
+4.9,3,4.0,12.9,70.3,poco,equilibrada,No,enero,4,invierno,0:00,5:00
+8.7,0,2.0,31.8,32.5,mucho,ayuno,Si,abril,45,primavera,1:00,8:45
+7.2,2,8.0,35.4,69.5,medio,equilibrada,No,noviembre,56,otoño,20:45,8:15
+5.4,3,1.0,30.5,47.8,medio,muy procesada,No,septiembre,75,otoño,1:15,8:45
+2.1,4,3.0,14.4,61.5,medio,ayuno,Si,agosto,60,verano,23:15,6:00
+1.0,4,3.0,11.5,67.2,poco,muy procesada,Si,noviembre,30,otoño,23:30,7:30
+3.1,4,2.0,11.0,74.7,nada,procesada,No,noviembre,67,otoño,21:15,10:30
+7.9,2,2.0,43.7,52.4,medio,ayuno,No,mayo,68,primavera,0:15,7:45
+6.4,2,6.0,10.2,47.1,poco,procesada,No,noviembre,61,otoño,2:45,9:45
+2.1,4,2.0,44.7,34.2,poco,procesada,No,enero,55,invierno,1:00,6:45
+4.6,3,3.0,13.0,54.4,medio,ayuno,No,marzo,66,primavera,2:30,7:30
+5.6,1,5.0,27.4,56.2,poco,procesada,Si,diciembre,8,invierno,1:00,9:00
+6.8,2,5.0,40.5,33.6,poco,muy procesada,No,noviembre,5,otoño,1:45,8:30
+1.4,4,5.0,15.0,28.9,medio,sana,Si,junio,76,verano,2:00,10:45
+9.3,0,1.0,19.1,60.5,mucho,sana,No,julio,44,verano,2:30,8:45
+5.7,2,3.0,25.1,59.4,medio,equilibrada,Si,abril,22,primavera,23:30,5:15
+1.7,3,4.0,34.6,30.7,medio,muy procesada,Si,febrero,41,invierno,22:00,6:00
+1.5,3,6.0,24.7,25.5,nada,procesada,Si,octubre,2,otoño,23:15,7:15
+5.2,2,5.0,14.2,74.0,medio,ayuno,Si,mayo,16,primavera,23:15,6:30
+9.2,1,3.0,23.4,77.0,medio,equilibrada,No,marzo,17,primavera,1:30,6:00
+8.1,0,1.0,26.9,70.5,medio,equilibrada,No,julio,47,verano,1:00,8:45
+8.6,1,2.0,14.6,66.1,medio,sana,No,marzo,41,primavera,2:00,8:00
+3.5,3,4.0,42.5,78.0,medio,equilibrada,Si,septiembre,43,otoño,0:15,6:15
+7.3,2,9.0,24.9,57.7,mucho,equilibrada,No,marzo,45,primavera,21:00,9:00
+5.5,3,1.0,16.7,59.9,nada,muy procesada,No,enero,16,invierno,21:00,8:15
+8.2,0,4.0,24.5,43.7,mucho,ayuno,Si,marzo,10,primavera,1:15,9:45
+4.9,2,4.0,40.0,45.6,medio,equilibrada,No,diciembre,30,invierno,22:30,5:15
+3.1,3,4.0,39.3,53.1,poco,muy procesada,Si,febrero,10,invierno,20:15,5:45
+4.3,4,3.0,12.3,32.3,nada,equilibrada,No,noviembre,70,otoño,20:15,8:00
+6.2,2,2.0,27.7,79.4,nada,procesada,No,octubre,72,otoño,2:30,8:15
+6.7,2,4.0,37.9,31.3,nada,muy procesada,No,enero,79,invierno,0:45,6:30
+1.5,4,2.0,38.7,39.4,medio,muy procesada,Si,Desconocido,69,invierno,0:15,5:15
+8.0,1,2.0,10.2,57.3,medio,muy procesada,No,noviembre,14,otoño,22:00,5:45
+9.4,1,4.0,14.5,26.0,mucho,ayuno,No,agosto,38,verano,2:00,7:15
+8.8,1,3.0,12.3,75.4,mucho,ayuno,No,abril,66,primavera,0:30,6:15
+8.0,1,2.0,43.1,59.5,mucho,equilibrada,No,agosto,21,verano,23:30,7:15
+5.5,3,4.0,34.8,43.6,medio,equilibrada,No,enero,52,invierno,2:00,7:15
+8.9,1,3.0,26.3,64.8,medio,equilibrada,No,abril,51,primavera,0:30,8:15
+6.5,1,1.0,24.2,32.2,medio,muy procesada,No,septiembre,56,otoño,0:00,5:15
+2.6,3,2.0,12.4,39.0,medio,procesada,Si,octubre,13,otoño,0:30,8:15
+4.2,4,2.0,23.3,57.1,nada,equilibrada,No,enero,26,invierno,0:15,6:15
+9.0,1,7.0,32.2,27.8,medio,ayuno,No,mayo,37,primavera,23:15,7:30
+6.8,2,5.0,14.7,68.8,medio,equilibrada,No,diciembre,80,invierno,0:15,7:45
+5.7,2,2.0,36.5,35.9,nada,procesada,No,septiembre,19,otoño,23:15,5:30
+4.4,3,5.0,10.1,30.1,poco,procesada,No,septiembre,63,otoño,22:15,5:45
+3.3,4,2.0,42.2,43.3,nada,muy procesada,No,octubre,47,otoño,1:45,7:00
+8.6,1,5.0,15.8,55.1,medio,sana,No,junio,17,verano,2:15,8:45
+6.4,2,4.0,10.1,30.4,poco,equilibrada,No,diciembre,39,invierno,23:15,7:00
+7.3,1,4.0,11.6,29.3,mucho,sana,Si,agosto,70,verano,21:15,11:00
+1.0,4,3.0,25.2,47.9,nada,muy procesada,Si,octubre,20,otoño,23:30,6:45
+4.4,2,3.0,44.3,37.5,poco,muy procesada,Si,septiembre,57,otoño,22:00,6:00
+8.4,1,1.0,26.5,67.0,mucho,ayuno,No,junio,48,verano,22:30,6:15
+3.1,4,4.0,40.7,32.9,medio,equilibrada,No,abril,21,primavera,23:15,5:15
+10.0,0,1.0,17.9,41.7,mucho,ayuno,No,agosto,46,verano,21:00,5:15
+4.1,2,3.0,37.1,47.8,poco,muy procesada,Si,diciembre,54,invierno,21:45,6:15
+6.3,2,14.0,10.7,78.6,nada,procesada,No,octubre,12,otoño,20:00,11:00
+6.7,2,1.0,28.8,38.2,medio,ayuno,No,junio,73,verano,20:15,5:45
+7.8,2,2.0,26.7,79.8,mucho,equilibrada,No,junio,29,verano,1:30,6:30
+8.4,1,3.0,22.9,27.2,medio,procesada,No,noviembre,20,otoño,1:00,7:30
+4.7,2,1.0,14.2,39.5,medio,ayuno,Si,marzo,53,primavera,23:30,10:45
+6.8,1,6.0,38.2,68.0,medio,sana,Si,agosto,55,verano,23:30,6:45
+8.4,1,4.0,39.6,33.5,mucho,ayuno,No,junio,41,verano,2:45,8:45
+8.2,1,1.0,38.0,53.5,nada,procesada,No,enero,36,invierno,1:30,7:45
+4.4,2,5.0,40.1,42.8,poco,muy procesada,Si,diciembre,38,invierno,23:45,5:15
+8.5,1,1.0,41.9,65.9,mucho,equilibrada,No,junio,0,verano,0:30,6:15
+5.9,3,3.0,31.2,41.1,medio,ayuno,No,mayo,28,primavera,22:30,6:30
+7.0,1,2.0,26.8,64.5,medio,ayuno,Si,marzo,36,primavera,22:00,11:00
+8.0,1,5.0,36.9,72.4,mucho,sana,No,junio,8,verano,1:00,9:00
+5.7,1,2.0,21.5,46.0,medio,muy procesada,No,noviembre,68,otoño,2:45,9:00
+7.1,0,10.0,40.8,71.5,mucho,sana,Si,marzo,67,primavera,20:45,10:30
+8.1,1,5.0,18.0,54.6,nada,equilibrada,No,febrero,26,invierno,1:00,9:15
+4.4,3,4.0,30.5,35.0,nada,equilibrada,Si,noviembre,8,otoño,2:45,8:00
+6.4,3,4.0,42.1,68.9,medio,equilibrada,No,noviembre,57,otoño,2:45,7:15
+8.8,0,1.0,14.9,25.3,mucho,ayuno,Si,julio,54,verano,21:45,11:00
+8.3,1,5.0,34.6,59.2,mucho,equilibrada,No,Desconocido,49,verano,21:30,9:00
+1.7,4,6.0,20.9,54.6,medio,equilibrada,Si,julio,8,verano,0:45,7:30
+4.7,1,2.0,15.1,34.2,poco,procesada,Si,diciembre,40,invierno,0:30,8:00
+5.0,3,7.0,35.4,37.5,poco,muy procesada,No,enero,50,invierno,2:30,10:30
+7.9,1,4.0,20.2,43.5,poco,procesada,No,noviembre,10,otoño,0:15,5:15
+4.7,3,2.0,30.5,34.1,medio,equilibrada,No,mayo,46,primavera,21:00,6:00
+8.4,1,4.0,35.8,49.8,mucho,ayuno,No,mayo,69,primavera,0:15,8:45
+7.6,2,4.0,28.2,38.1,medio,equilibrada,No,julio,35,verano,1:15,9:30
+8.6,1,7.0,11.3,68.2,mucho,ayuno,No,julio,53,verano,20:00,10:15
+9.1,1,5.0,22.1,56.9,medio,sana,No,abril,69,primavera,2:00,9:00
+9.7,0,10.0,31.2,72.7,mucho,sana,No,junio,67,verano,20:15,8:15
+5.2,2,4.0,17.7,46.4,medio,ayuno,Si,junio,61,verano,1:45,9:15
+9.3,1,12.0,20.1,30.1,medio,ayuno,No,julio,46,verano,20:00,9:30
+10.0,0,5.0,31.2,39.9,mucho,equilibrada,No,junio,75,verano,2:15,10:15
+1.6,4,1.0,37.2,56.1,nada,procesada,Si,febrero,43,invierno,21:30,6:45
+7.7,1,1.0,22.3,46.4,nada,procesada,No,octubre,62,otoño,1:15,9:00
+4.4,2,1.0,13.2,56.1,poco,equilibrada,Si,enero,47,invierno,1:15,8:30
+4.9,3,5.0,12.1,64.6,medio,sana,No,abril,30,primavera,22:30,11:00
+6.1,2,4.0,16.5,39.7,mucho,equilibrada,No,agosto,63,verano,0:30,5:30
+7.3,1,1.0,17.4,67.2,medio,muy procesada,No,octubre,76,otoño,22:45,5:15
+3.2,4,4.0,28.9,55.2,medio,equilibrada,No,marzo,46,primavera,20:45,8:15
+9.4,0,1.0,43.2,39.7,medio,ayuno,No,agosto,25,verano,1:15,6:45
+7.9,1,2.0,13.9,69.0,medio,equilibrada,No,julio,59,verano,2:00,8:30
+8.1,1,1.0,26.3,69.6,mucho,ayuno,No,agosto,73,verano,20:30,8:15
+7.9,1,6.0,42.0,48.0,medio,equilibrada,No,mayo,40,primavera,23:30,6:30
+4.4,4,4.0,36.5,70.8,medio,ayuno,No,julio,68,verano,2:30,8:30
+4.0,3,1.0,18.3,54.6,medio,procesada,No,diciembre,41,invierno,0:45,7:30
+9.4,1,1.0,36.5,45.7,mucho,ayuno,No,junio,56,verano,20:45,7:15
+4.9,3,6.0,18.6,38.5,nada,procesada,No,enero,79,invierno,2:30,9:30
+4.4,4,6.0,44.3,25.2,poco,equilibrada,No,diciembre,47,invierno,21:15,9:30
+9.0,1,5.0,42.5,70.3,mucho,sana,No,marzo,78,primavera,21:45,6:45
+6.3,3,1.0,33.5,74.6,medio,equilibrada,No,mayo,38,primavera,1:45,6:30
+1.3,4,5.0,26.2,72.8,medio,ayuno,Si,abril,23,primavera,22:15,5:15
+2.6,3,5.0,24.1,38.1,poco,procesada,Si,noviembre,10,otoño,1:00,7:00
+2.1,4,4.0,41.6,46.6,poco,muy procesada,No,septiembre,66,otoño,0:00,5:30
+5.2,3,3.0,11.6,51.7,nada,muy procesada,No,octubre,57,otoño,0:15,6:30
+6.9,1,3.0,43.4,65.8,medio,muy procesada,No,octubre,6,otoño,22:30,5:30
+7.2,2,1.0,42.6,62.6,medio,equilibrada,No,marzo,24,primavera,21:15,5:45
+6.1,3,2.0,24.7,45.7,medio,equilibrada,No,mayo,35,primavera,20:30,6:30
+1.0,4,3.0,14.0,70.1,medio,muy procesada,Si,octubre,71,otoño,0:45,6:45
+7.9,1,9.0,32.7,39.9,mucho,sana,No,agosto,21,verano,23:45,10:45
+6.0,2,6.0,20.7,45.9,mucho,sana,No,agosto,16,verano,20:00,5:45
+6.3,2,2.0,21.8,43.3,poco,procesada,No,septiembre,61,otoño,21:00,7:00
+6.8,2,1.0,28.8,31.2,medio,equilibrada,No,octubre,71,otoño,0:15,5:30
+6.1,2,8.0,43.8,77.5,medio,ayuno,No,agosto,62,verano,20:30,10:00
+8.9,0,2.0,14.2,68.9,mucho,ayuno,Si,julio,49,verano,1:30,9:00
+7.2,2,11.0,28.7,56.9,mucho,ayuno,No,mayo,50,primavera,20:15,10:15
+8.5,1,6.0,27.6,68.4,mucho,ayuno,No,marzo,47,primavera,1:15,9:45
+3.1,4,4.0,13.4,79.4,poco,equilibrada,No,enero,60,invierno,1:00,7:45
+6.9,2,5.0,21.4,65.5,mucho,sana,No,marzo,19,primavera,23:45,5:00
+4.0,4,5.0,22.6,53.6,medio,equilibrada,No,abril,53,primavera,1:30,7:30
+5.1,2,6.0,31.5,79.8,mucho,sana,Si,agosto,50,verano,22:45,5:00
+3.0,4,5.0,28.3,35.4,medio,equilibrada,Si,febrero,79,invierno,1:00,8:15
+4.0,2,1.0,36.7,32.3,poco,equilibrada,Si,septiembre,55,otoño,2:30,7:00
+2.8,3,5.0,19.1,56.1,nada,equilibrada,Si,septiembre,55,otoño,20:45,5:15
+8.1,1,2.0,10.3,78.2,poco,equilibrada,No,febrero,20,invierno,21:30,5:45
+5.2,2,3.0,39.5,65.1,medio,equilibrada,Si,diciembre,54,invierno,2:45,8:15
+9.1,1,2.0,45.0,41.1,medio,equilibrada,No,mayo,9,primavera,23:15,5:00
+4.9,3,2.0,26.1,63.0,medio,equilibrada,No,mayo,52,primavera,2:45,7:45
+2.5,4,5.0,38.7,39.7,medio,muy procesada,No,septiembre,21,otoño,1:15,9:30
+3.3,3,4.0,10.3,63.6,medio,muy procesada,Si,diciembre,59,invierno,22:15,6:45
+4.7,1,1.0,14.3,41.9,poco,procesada,Si,febrero,14,invierno,23:30,6:45
+6.5,3,4.0,43.0,35.3,medio,ayuno,No,julio,63,verano,2:45,9:30
+1.8,4,4.0,35.4,52.7,nada,procesada,Si,febrero,55,invierno,2:45,10:00
+4.6,2,4.0,36.4,54.9,poco,equilibrada,Si,noviembre,30,otoño,22:15,7:45
+1.4,4,8.0,12.9,64.8,poco,muy procesada,Si,enero,7,invierno,20:30,7:45
+4.8,4,5.0,23.2,44.5,medio,ayuno,No,agosto,77,verano,23:00,5:30
+9.0,1,5.0,15.5,49.7,medio,ayuno,No,agosto,2,verano,0:15,8:00
+4.1,3,3.0,37.5,39.4,poco,procesada,No,diciembre,18,invierno,0:30,5:45
+7.4,1,4.0,11.1,61.2,medio,equilibrada,Si,marzo,65,primavera,0:15,6:00
+4.1,2,2.0,39.1,56.0,nada,procesada,Si,enero,50,invierno,20:45,6:45
+1.7,4,10.0,29.1,48.7,nada,muy procesada,Si,octubre,2,otoño,21:30,8:30
+2.5,3,2.0,30.8,74.6,poco,muy procesada,Si,diciembre,74,invierno,0:45,7:15
+3.6,1,7.0,16.1,69.1,poco,muy procesada,Si,septiembre,12,otoño,20:45,5:00
+10.0,0,7.0,42.9,48.5,mucho,equilibrada,No,julio,19,verano,0:15,8:45
+4.2,3,4.0,33.8,48.4,poco,procesada,No,febrero,7,invierno,0:30,5:30
+4.4,3,5.0,20.2,51.9,nada,procesada,No,febrero,13,invierno,0:30,6:15
+8.3,0,2.0,20.9,37.6,mucho,sana,Si,junio,64,verano,2:00,10:30
+5.4,2,1.0,32.6,37.7,mucho,sana,Si,marzo,37,primavera,1:00,7:45
+7.0,1,1.0,42.5,57.0,mucho,sana,Si,julio,15,verano,23:45,7:15
+1.8,4,2.0,41.4,67.4,poco,equilibrada,Si,enero,47,invierno,23:30,6:45
+7.0,2,3.0,41.9,40.0,mucho,ayuno,No,marzo,37,primavera,1:45,8:45
+4.6,2,3.0,38.9,47.2,poco,equilibrada,Si,Desconocido,60,invierno,23:30,9:15
+8.2,0,2.0,17.2,30.7,nada,muy procesada,No,octubre,35,otoño,2:45,7:15
+3.6,4,1.0,15.8,52.7,poco,muy procesada,No,septiembre,20,otoño,0:00,8:30
+7.9,0,1.0,28.2,74.6,mucho,equilibrada,Si,marzo,4,primavera,21:15,5:45
+8.0,1,2.0,32.0,57.7,medio,equilibrada,No,marzo,73,primavera,2:00,8:30
+6.3,2,2.0,38.0,79.7,mucho,equilibrada,No,julio,30,verano,0:30,7:30
+8.0,1,5.0,16.2,70.5,nada,equilibrada,No,noviembre,55,otoño,0:00,6:00
+8.0,2,3.0,19.8,65.9,mucho,ayuno,No,mayo,72,primavera,20:15,9:15
+10.0,0,5.0,13.1,55.5,mucho,equilibrada,No,mayo,72,primavera,23:15,5:00
+4.8,2,7.0,38.7,69.4,nada,muy procesada,No,septiembre,36,otoño,21:45,5:30
+4.3,3,5.0,23.6,75.9,nada,procesada,No,febrero,36,invierno,2:30,8:30
+10.0,0,4.0,11.5,42.1,mucho,equilibrada,No,julio,23,verano,2:00,10:45
+10.0,0,6.0,16.2,27.4,mucho,ayuno,No,julio,8,verano,22:15,11:00
+5.8,2,3.0,16.5,42.6,mucho,sana,Si,junio,6,verano,1:30,9:15
+6.2,2,1.0,19.8,37.0,medio,equilibrada,No,marzo,50,primavera,0:45,8:15
+8.5,1,5.0,23.3,38.7,medio,ayuno,No,junio,38,verano,0:30,6:45
+9.4,1,3.0,15.4,26.8,medio,sana,No,abril,4,primavera,23:30,6:30
+3.6,3,5.0,14.3,53.3,poco,procesada,No,enero,3,invierno,22:15,6:00
+4.0,4,9.0,29.9,64.9,medio,ayuno,No,abril,27,primavera,21:00,7:30
+8.3,1,1.0,18.1,69.4,medio,equilibrada,No,agosto,0,verano,23:15,5:00
+4.8,3,6.0,27.7,65.4,medio,sana,No,agosto,39,verano,23:30,7:45
+6.6,2,1.0,29.5,42.6,mucho,sana,No,julio,53,verano,0:15,5:00
+3.0,4,2.0,39.3,50.3,medio,equilibrada,No,junio,54,verano,0:00,6:45
+7.7,1,1.0,35.2,66.8,mucho,sana,No,marzo,45,primavera,1:45,7:45
+4.8,2,11.0,11.0,74.1,poco,muy procesada,Si,octubre,57,otoño,22:15,11:00
+7.5,1,1.0,44.6,30.4,medio,ayuno,No,julio,24,verano,21:45,7:30
+7.1,1,2.0,40.0,73.4,mucho,equilibrada,Si,marzo,11,primavera,0:45,8:15
+9.3,0,4.0,23.2,41.3,mucho,ayuno,No,agosto,13,verano,22:45,8:00
+2.6,4,2.0,31.1,76.0,medio,equilibrada,Si,enero,14,invierno,21:15,5:15
+1.0,4,1.0,38.2,50.2,nada,procesada,Si,diciembre,27,invierno,21:00,5:15
+5.6,3,6.0,17.4,76.5,nada,equilibrada,No,febrero,0,invierno,20:00,9:00
+7.2,1,5.0,11.0,43.2,nada,procesada,No,diciembre,30,invierno,2:45,9:45
+8.4,1,2.0,40.9,52.3,medio,sana,No,abril,24,primavera,21:45,10:30
+3.3,4,12.0,21.1,26.1,medio,procesada,No,febrero,0,invierno,21:15,11:15
+6.5,2,4.0,27.2,32.6,nada,equilibrada,No,diciembre,4,invierno,22:30,5:15
+6.3,2,2.0,18.4,40.2,medio,muy procesada,No,enero,51,invierno,2:00,7:15
+1.5,4,5.0,21.9,73.3,medio,ayuno,Si,junio,21,verano,20:00,9:00
+2.6,3,6.0,27.3,62.9,nada,muy procesada,Si,enero,73,invierno,1:00,9:30
+7.3,2,4.0,23.0,74.1,medio,equilibrada,No,marzo,44,primavera,1:45,7:00
+10.0,0,4.0,34.4,70.1,mucho,ayuno,No,julio,73,verano,21:15,5:30
+7.2,2,4.0,44.5,73.2,medio,sana,No,marzo,67,primavera,22:15,6:45
+7.5,2,5.0,33.3,58.7,medio,ayuno,No,mayo,10,primavera,21:45,9:45
+5.3,1,1.0,40.7,30.0,mucho,sana,Si,agosto,18,verano,20:00,8:15
+4.1,4,4.0,28.3,71.1,medio,equilibrada,No,julio,17,verano,21:45,7:00
+5.9,1,3.0,15.7,59.1,mucho,equilibrada,Si,mayo,37,primavera,0:00,6:30
+5.9,3,3.0,23.1,49.2,poco,equilibrada,No,febrero,76,invierno,2:30,9:45
+5.6,1,3.0,10.2,54.6,mucho,sana,Si,julio,72,verano,0:00,7:30
+8.1,1,8.0,37.4,76.7,mucho,equilibrada,No,abril,21,primavera,20:45,7:45
+5.6,2,5.0,43.4,78.4,poco,muy procesada,No,enero,42,invierno,21:30,5:00
+6.6,1,5.0,37.1,38.4,poco,procesada,No,noviembre,63,otoño,22:45,6:30
+4.9,2,6.0,35.1,30.4,mucho,equilibrada,Si,marzo,3,primavera,0:00,7:45
+9.0,1,9.0,16.1,79.7,mucho,ayuno,No,junio,71,verano,21:45,7:45
+6.2,3,1.0,42.5,40.1,medio,sana,No,abril,3,primavera,2:30,9:30
+7.7,1,4.0,14.8,66.0,medio,ayuno,No,julio,59,verano,0:30,8:30
+7.1,2,11.0,17.7,34.4,poco,equilibrada,No,septiembre,53,otoño,20:15,11:15
+2.6,4,2.0,20.2,62.5,medio,equilibrada,Si,agosto,44,verano,2:45,8:00
+6.8,1,1.0,23.4,34.5,poco,muy procesada,No,diciembre,78,invierno,1:15,6:00
+7.3,1,10.0,18.9,37.9,medio,sana,Si,agosto,69,verano,20:45,7:30
+7.4,2,10.0,37.4,32.0,nada,equilibrada,No,enero,68,invierno,20:15,8:45
+5.4,2,2.0,42.4,42.0,mucho,equilibrada,Si,abril,2,primavera,1:15,8:45
+7.8,1,2.0,23.3,63.8,mucho,sana,No,abril,77,primavera,0:00,8:45
+6.7,2,3.0,30.4,73.6,medio,ayuno,No,julio,70,verano,22:15,10:45
+3.6,4,4.0,33.5,77.8,poco,muy procesada,No,noviembre,67,otoño,22:30,8:45
+3.2,4,4.0,28.6,62.6,poco,equilibrada,No,septiembre,71,otoño,2:45,8:30
+6.4,2,12.0,20.8,52.3,medio,equilibrada,No,mayo,21,primavera,20:15,10:00
+4.1,4,6.0,34.0,47.2,medio,equilibrada,No,junio,48,verano,22:15,6:00
+5.2,2,6.0,44.8,56.5,mucho,sana,Si,junio,34,verano,0:15,8:30
+6.9,2,4.0,35.3,30.0,mucho,equilibrada,No,junio,30,verano,1:15,8:00
+7.7,2,5.0,31.0,63.3,poco,equilibrada,No,octubre,71,otoño,2:15,8:15
+3.9,4,6.0,38.7,49.0,poco,muy procesada,No,noviembre,50,otoño,1:15,8:00
+2.6,3,4.0,13.0,60.5,poco,equilibrada,Si,noviembre,35,otoño,2:15,10:45
+7.5,2,3.0,20.5,41.2,medio,sana,No,mayo,56,primavera,1:00,8:45
+6.6,2,3.0,21.9,56.3,nada,procesada,No,enero,20,invierno,23:30,5:45
+8.9,1,2.0,34.3,68.5,mucho,ayuno,No,julio,65,verano,1:00,8:45
+4.7,2,1.0,23.8,58.8,medio,procesada,Si,septiembre,55,otoño,2:15,8:00
+4.9,2,4.0,22.3,64.8,nada,procesada,Si,diciembre,68,invierno,23:30,7:30
+1.9,4,1.0,15.5,33.2,nada,procesada,Si,febrero,42,invierno,2:15,9:15
+2.5,3,1.0,19.1,42.6,nada,muy procesada,Si,diciembre,2,invierno,0:30,8:30
+5.4,3,7.0,39.2,39.6,medio,ayuno,No,mayo,18,primavera,21:00,10:00
+8.3,1,2.0,16.3,31.0,medio,procesada,No,octubre,75,otoño,1:15,7:15
+1.0,4,2.0,26.7,64.3,nada,procesada,Si,noviembre,69,otoño,2:45,8:00
+2.0,4,4.0,15.2,62.1,medio,ayuno,Si,marzo,78,primavera,2:15,7:00
+3.8,3,4.0,36.3,37.0,medio,equilibrada,Si,julio,29,verano,0:15,6:00
+7.6,0,2.0,23.5,26.0,mucho,ayuno,No,abril,56,primavera,0:00,6:30
+7.2,1,7.0,11.3,71.3,medio,procesada,No,noviembre,34,otoño,23:30,7:00
+4.8,2,3.0,13.4,68.0,medio,equilibrada,Si,julio,44,verano,23:30,7:30
+4.2,2,4.0,21.8,46.5,medio,ayuno,Si,mayo,20,primavera,1:45,8:15
+1.2,4,1.0,41.1,59.4,nada,equilibrada,Si,diciembre,4,invierno,22:15,6:45
+6.7,2,5.0,29.9,35.4,mucho,sana,No,mayo,40,primavera,21:45,5:15
+3.5,4,3.0,32.3,79.4,poco,muy procesada,No,noviembre,80,otoño,2:00,7:45
+4.7,4,1.0,21.3,56.1,medio,equilibrada,No,septiembre,73,otoño,1:45,8:00
+1.0,4,11.0,16.3,74.8,poco,procesada,Si,septiembre,66,otoño,20:15,9:00
+5.4,3,1.0,25.1,72.2,nada,equilibrada,No,octubre,17,otoño,20:15,7:45
+8.0,1,7.0,26.6,77.2,mucho,ayuno,No,marzo,49,primavera,21:30,5:00
+5.8,2,2.0,42.5,79.6,medio,ayuno,Si,marzo,38,primavera,2:45,7:00
+10.0,0,2.0,24.1,79.5,mucho,equilibrada,No,mayo,15,primavera,0:00,6:00
+1.0,4,1.0,15.8,64.2,poco,muy procesada,Si,enero,64,invierno,0:30,6:45
+8.4,1,6.0,38.9,34.6,poco,procesada,No,noviembre,57,otoño,1:45,8:45
+4.7,2,7.0,22.8,35.7,medio,muy procesada,Si,noviembre,58,otoño,2:30,10:30
+4.1,4,3.0,43.1,25.4,nada,equilibrada,No,febrero,43,invierno,2:15,10:15
+5.0,3,4.0,30.2,63.4,medio,muy procesada,No,febrero,34,invierno,23:45,5:45
+8.5,1,5.0,31.7,78.9,medio,ayuno,No,marzo,2,primavera,0:45,7:00
+5.4,3,3.0,12.6,51.3,medio,sana,No,junio,34,verano,1:00,8:15
+7.6,2,2.0,12.5,48.0,nada,equilibrada,No,septiembre,13,otoño,2:00,10:15
+7.9,2,5.0,23.5,25.6,mucho,ayuno,No,mayo,9,primavera,2:15,10:00
+2.6,4,3.0,16.6,37.2,nada,muy procesada,No,diciembre,62,invierno,2:15,7:30
+7.0,2,4.0,42.1,77.3,mucho,sana,No,marzo,61,primavera,1:30,6:15
+9.2,0,5.0,10.1,38.7,mucho,equilibrada,No,junio,18,verano,22:45,5:15
+8.3,1,1.0,38.3,67.9,medio,equilibrada,No,agosto,51,verano,0:30,8:00
+10.0,0,3.0,10.0,37.4,mucho,sana,No,abril,60,primavera,0:30,7:45
+6.8,1,4.0,39.8,65.2,nada,muy procesada,No,septiembre,20,otoño,22:45,6:45
+8.6,1,3.0,39.5,42.2,medio,sana,No,agosto,54,verano,20:15,11:15
+5.0,3,4.0,42.7,73.4,poco,muy procesada,No,febrero,17,invierno,21:15,5:45
+6.0,2,7.0,34.3,55.3,mucho,ayuno,No,julio,42,verano,20:45,6:00
+8.0,1,1.0,13.9,34.7,poco,equilibrada,No,diciembre,76,invierno,22:45,8:00
+10.0,0,7.0,27.8,34.4,mucho,ayuno,No,marzo,76,primavera,20:30,7:15
+3.4,3,8.0,38.5,27.6,poco,muy procesada,Si,septiembre,0,otoño,21:00,8:45
+6.5,1,5.0,24.9,33.6,medio,equilibrada,Si,mayo,41,primavera,20:30,8:45
+6.7,0,6.0,10.3,28.0,poco,equilibrada,Si,noviembre,47,otoño,2:45,9:15
+5.5,2,2.0,32.0,59.1,medio,procesada,No,octubre,21,otoño,1:15,8:15
+5.0,2,5.0,36.4,40.9,medio,equilibrada,Si,abril,5,primavera,1:30,7:45
+7.5,2,2.0,39.8,47.9,medio,equilibrada,No,septiembre,45,otoño,23:30,5:30
+5.9,3,1.0,44.8,53.0,medio,equilibrada,No,agosto,80,verano,20:45,8:00
+5.2,3,4.0,17.6,48.9,nada,procesada,No,diciembre,6,invierno,23:00,5:30
+10.0,0,6.0,12.4,28.4,mucho,sana,No,junio,0,verano,21:00,5:15
+6.8,2,7.0,24.4,41.4,mucho,ayuno,No,julio,23,verano,20:30,5:15
+8.6,0,3.0,35.2,54.2,mucho,ayuno,Si,junio,11,verano,23:00,11:00
+4.7,4,2.0,34.4,70.4,medio,sana,No,marzo,66,primavera,1:00,7:00
+6.8,1,5.0,39.2,45.8,medio,procesada,No,enero,24,invierno,23:45,5:30
+9.8,0,9.0,40.6,40.0,mucho,sana,No,junio,16,verano,23:30,11:00
+3.3,4,5.0,43.4,66.2,poco,muy procesada,No,noviembre,61,otoño,20:00,6:30
+3.8,2,7.0,31.7,57.1,medio,procesada,Si,septiembre,43,otoño,2:30,10:45
+4.6,1,1.0,38.4,72.1,medio,procesada,Si,enero,38,invierno,21:15,7:30
+6.0,1,4.0,35.5,34.3,nada,procesada,Si,noviembre,44,otoño,0:45,7:00
+4.1,2,6.0,32.8,69.5,medio,ayuno,Si,marzo,24,primavera,0:15,7:15
+3.9,4,1.0,34.0,77.6,medio,muy procesada,No,enero,29,invierno,0:00,8:30
+5.3,3,6.0,30.2,45.6,medio,sana,No,marzo,67,primavera,2:45,10:30
+6.4,2,2.0,35.0,49.5,poco,muy procesada,No,septiembre,49,otoño,0:00,5:45
+7.0,0,4.0,23.2,30.1,medio,muy procesada,No,diciembre,35,invierno,0:15,6:00
+7.2,2,8.0,39.7,45.0,mucho,sana,No,agosto,69,verano,22:45,9:30
+6.1,2,3.0,43.9,41.1,poco,equilibrada,No,febrero,5,invierno,23:45,5:00
+5.0,2,7.0,34.5,43.4,mucho,equilibrada,Si,agosto,64,verano,2:45,10:45
+7.2,0,5.0,27.5,26.5,mucho,ayuno,Si,julio,63,verano,22:45,5:00
+8.0,1,7.0,12.8,42.8,medio,equilibrada,No,junio,30,verano,23:45,7:00
+4.9,3,4.0,30.5,37.1,nada,equilibrada,No,septiembre,62,otoño,1:30,6:30
+6.4,3,1.0,22.8,28.9,medio,ayuno,No,agosto,78,verano,23:45,7:30
+5.4,3,4.0,30.0,47.8,nada,muy procesada,No,diciembre,40,invierno,0:45,7:15
+7.0,2,12.0,12.1,77.3,mucho,sana,No,agosto,39,verano,21:45,11:00
+6.6,2,6.0,28.5,26.4,mucho,equilibrada,No,junio,17,verano,22:45,6:45
+8.0,1,3.0,28.6,38.8,nada,equilibrada,No,enero,74,invierno,21:45,5:00
+5.3,2,1.0,41.3,65.2,mucho,equilibrada,Si,agosto,57,verano,23:15,5:30
+10.0,0,2.0,35.8,35.5,mucho,sana,No,abril,76,primavera,1:30,6:15
+3.7,4,5.0,42.0,37.3,medio,equilibrada,No,mayo,67,primavera,2:45,8:00
+6.9,2,1.0,29.7,58.2,medio,muy procesada,No,septiembre,77,otoño,1:30,8:30
+3.8,2,5.0,16.8,48.7,medio,procesada,Si,noviembre,54,otoño,23:15,6:00
+7.9,1,6.0,43.0,42.3,medio,equilibrada,No,febrero,40,invierno,0:00,7:45
+10.0,0,1.0,34.6,39.2,mucho,ayuno,No,mayo,59,primavera,0:15,6:30
+4.2,3,1.0,18.6,46.1,medio,sana,Si,marzo,8,primavera,1:15,9:45
+4.4,2,4.0,37.0,53.3,medio,equilibrada,Si,septiembre,17,otoño,23:30,6:15
+5.4,3,4.0,36.4,63.4,poco,equilibrada,No,noviembre,14,otoño,2:45,10:00
+8.8,1,5.0,17.3,36.0,mucho,equilibrada,No,abril,75,primavera,23:15,7:45
+5.0,3,6.0,21.9,38.4,medio,procesada,No,octubre,41,otoño,20:30,10:30
+3.5,3,2.0,42.5,28.3,nada,procesada,No,septiembre,37,otoño,22:30,6:00
+4.7,4,2.0,12.6,67.7,medio,equilibrada,No,julio,34,verano,20:45,9:15
+7.2,2,4.0,10.9,30.1,mucho,equilibrada,No,agosto,23,verano,0:45,5:00
+3.5,4,4.0,35.0,30.3,medio,equilibrada,No,marzo,75,primavera,1:00,6:00
+3.2,4,4.0,40.0,59.5,poco,equilibrada,No,enero,10,invierno,23:30,6:30
+6.9,1,4.0,25.1,48.9,medio,equilibrada,Si,agosto,65,verano,1:30,6:15
+4.0,3,3.0,22.6,45.8,nada,procesada,No,febrero,14,invierno,23:30,6:00
+2.6,4,7.0,32.4,60.8,medio,equilibrada,Si,julio,5,verano,20:30,9:30
+6.5,2,2.0,21.0,29.1,medio,sana,No,mayo,13,primavera,21:00,5:00
+8.8,1,1.0,12.9,64.5,medio,equilibrada,No,diciembre,1,invierno,1:45,6:00
+3.9,3,1.0,30.3,57.2,medio,procesada,No,enero,25,invierno,23:45,6:15
+9.5,0,2.0,38.6,35.2,mucho,equilibrada,No,abril,67,primavera,0:15,6:00
+4.0,4,6.0,33.9,52.4,poco,equilibrada,No,octubre,40,otoño,22:00,6:45
+3.1,3,2.0,22.0,68.3,medio,sana,Si,junio,76,verano,23:00,6:45
+2.2,4,7.0,15.3,32.2,medio,ayuno,Si,junio,9,verano,22:15,8:15
+7.0,2,3.0,33.0,73.4,medio,procesada,No,septiembre,55,otoño,2:45,7:30
+6.2,3,5.0,42.2,50.9,medio,equilibrada,No,febrero,20,invierno,2:15,8:45
+8.9,1,4.0,37.4,61.2,mucho,equilibrada,No,agosto,61,verano,2:15,7:45
+7.4,1,4.0,13.0,75.9,poco,equilibrada,Si,septiembre,14,otoño,22:45,6:30
+7.7,1,4.0,36.7,33.7,medio,ayuno,No,abril,58,primavera,23:45,6:45
+7.3,2,4.0,32.9,48.7,mucho,equilibrada,No,junio,29,verano,21:00,5:00
+3.8,2,5.0,26.8,76.4,medio,procesada,Si,septiembre,23,otoño,21:00,9:15
+3.9,4,6.0,37.2,36.6,nada,equilibrada,No,octubre,22,otoño,20:45,7:45
+6.7,2,1.0,22.8,66.7,mucho,ayuno,No,abril,74,primavera,1:30,8:00
+7.6,1,3.0,31.4,65.5,nada,muy procesada,No,noviembre,72,otoño,22:45,5:30
+6.4,2,3.0,36.7,37.2,medio,sana,No,abril,15,primavera,20:30,9:00
+3.0,4,2.0,40.0,52.0,poco,procesada,No,febrero,25,invierno,0:30,6:30
+6.9,1,7.0,31.4,71.5,poco,procesada,No,noviembre,27,otoño,21:45,5:30
+6.1,1,7.0,14.1,47.4,nada,procesada,Si,enero,77,invierno,21:30,5:00
+5.5,1,2.0,12.8,54.6,medio,equilibrada,Si,diciembre,77,invierno,1:45,6:00
+8.9,1,1.0,26.8,69.3,mucho,sana,No,julio,39,verano,23:45,7:30
+10.0,0,1.0,44.6,43.9,mucho,sana,No,mayo,46,primavera,21:15,5:00
+5.5,3,4.0,12.4,28.8,medio,procesada,No,octubre,34,otoño,1:30,8:15
+9.1,1,1.0,11.2,66.0,mucho,sana,No,junio,72,verano,0:30,8:45
+8.0,1,3.0,24.6,48.4,mucho,ayuno,No,mayo,67,primavera,0:30,5:45
+1.0,4,2.0,16.6,28.5,poco,procesada,Si,diciembre,2,invierno,1:30,8:15
+1.2,4,3.0,20.4,58.3,medio,equilibrada,Si,agosto,13,verano,1:30,6:15
+4.5,3,2.0,18.7,78.9,nada,procesada,No,septiembre,52,otoño,1:45,7:30
+6.6,2,6.0,29.7,63.2,medio,equilibrada,No,agosto,25,verano,0:00,8:00
+5.6,2,1.0,30.5,35.3,nada,muy procesada,No,febrero,7,invierno,20:00,9:15
+5.0,4,5.0,39.3,47.1,medio,sana,No,abril,68,primavera,1:00,9:00
+7.5,2,3.0,16.4,72.2,medio,equilibrada,No,agosto,47,verano,2:15,9:00
+7.3,1,6.0,14.2,48.5,poco,procesada,No,enero,4,invierno,21:00,9:00
+8.7,0,3.0,18.2,46.6,mucho,equilibrada,Si,junio,32,verano,1:00,8:00
+5.9,2,10.0,26.6,67.6,nada,equilibrada,Si,enero,15,invierno,22:15,9:00
+4.6,3,1.0,38.4,79.1,medio,ayuno,No,julio,71,verano,22:30,9:15
+9.0,1,1.0,39.6,33.7,medio,equilibrada,No,mayo,7,primavera,1:00,7:00
+4.9,2,6.0,28.6,38.9,mucho,equilibrada,Si,abril,47,primavera,1:00,9:00
+4.7,3,2.0,14.5,30.3,medio,ayuno,No,abril,75,primavera,2:15,8:00
+2.7,3,6.0,19.5,28.1,medio,sana,Si,mayo,71,primavera,2:00,9:30
+9.3,0,1.0,37.4,69.7,mucho,ayuno,No,abril,7,primavera,1:00,6:30
+5.4,3,2.0,42.8,55.9,medio,procesada,No,octubre,40,otoño,23:15,5:45
+9.3,0,7.0,14.5,34.5,mucho,ayuno,No,mayo,8,primavera,22:00,9:45
+5.6,3,6.0,44.8,33.9,medio,equilibrada,No,marzo,32,primavera,0:45,7:00
+5.7,2,7.0,17.0,25.9,poco,procesada,No,septiembre,37,otoño,21:45,8:45
+4.7,3,7.0,34.4,38.7,medio,muy procesada,No,noviembre,80,otoño,1:15,9:15
+7.8,1,4.0,27.7,69.3,medio,sana,No,abril,33,primavera,21:45,9:30
+2.8,3,1.0,11.1,29.9,poco,equilibrada,Si,octubre,3,otoño,2:15,8:15
+2.7,3,9.0,43.0,74.9,medio,sana,Si,agosto,32,verano,20:15,8:45
+7.3,2,6.0,23.9,33.3,medio,equilibrada,No,agosto,3,verano,1:30,8:15
+2.7,3,1.0,22.5,67.0,medio,ayuno,Si,abril,53,primavera,21:00,9:15
+3.6,3,1.0,38.2,30.5,medio,ayuno,No,abril,1,primavera,1:00,9:45
+5.2,2,1.0,29.3,64.3,medio,equilibrada,Si,junio,63,verano,2:00,8:00
+1.0,4,4.0,13.3,53.3,nada,muy procesada,Si,febrero,22,invierno,20:15,6:00
+5.5,3,8.0,27.9,39.2,nada,muy procesada,No,octubre,72,otoño,21:45,8:15
+7.6,1,5.0,15.0,60.0,mucho,equilibrada,No,mayo,70,primavera,22:30,5:30
+9.0,0,5.0,42.5,77.4,mucho,sana,Si,junio,30,verano,21:45,9:15
+6.9,1,8.0,41.8,68.1,mucho,sana,Si,julio,5,verano,21:30,7:15
+4.3,2,2.0,30.1,63.9,medio,ayuno,Si,abril,48,primavera,2:00,8:15
+4.3,2,3.0,39.2,26.7,medio,sana,Si,julio,52,verano,20:00,9:30
+4.0,3,3.0,20.6,76.0,medio,ayuno,Si,agosto,69,verano,23:00,6:00
+3.7,3,4.0,39.6,25.2,poco,procesada,No,enero,43,invierno,1:30,6:00
+3.0,3,3.0,18.1,33.2,poco,equilibrada,Si,noviembre,20,otoño,21:45,11:45
+9.4,1,7.0,31.4,72.2,poco,equilibrada,No,octubre,0,otoño,20:15,8:15
+5.6,2,10.0,40.3,40.8,mucho,equilibrada,Si,agosto,46,verano,21:15,10:15
+4.5,4,9.0,24.5,60.0,medio,sana,No,junio,37,verano,20:45,6:15
+4.8,2,4.0,44.7,35.9,mucho,equilibrada,Si,mayo,26,primavera,22:00,8:00
+3.1,4,5.0,38.4,63.7,nada,muy procesada,No,noviembre,44,otoño,22:00,5:15
+7.9,2,2.0,42.8,37.2,medio,equilibrada,No,junio,69,verano,22:45,5:15
+1.9,4,2.0,22.8,36.5,nada,muy procesada,Si,noviembre,73,otoño,22:45,5:15
+7.7,2,7.0,14.3,71.2,nada,equilibrada,No,septiembre,19,otoño,23:30,7:45
+2.8,3,1.0,39.2,69.5,medio,muy procesada,Si,diciembre,74,invierno,0:00,6:15
+4.4,4,3.0,41.3,44.3,medio,sana,No,agosto,45,verano,1:45,7:45
+8.0,1,3.0,18.0,59.3,mucho,sana,No,abril,61,primavera,20:45,6:15
+9.9,0,3.0,10.5,49.5,mucho,ayuno,No,junio,33,verano,1:00,9:15
+9.2,1,4.0,37.9,37.2,medio,ayuno,No,julio,16,verano,22:45,5:00
+9.4,0,8.0,25.6,36.2,mucho,ayuno,No,marzo,9,primavera,20:00,10:30
+4.1,3,4.0,18.4,75.8,medio,equilibrada,Si,marzo,68,primavera,2:30,8:45
+8.1,1,12.0,37.2,72.9,poco,procesada,No,septiembre,69,otoño,20:15,10:45
+7.9,1,1.0,17.9,52.0,mucho,ayuno,No,abril,39,primavera,21:15,8:15
+4.3,2,1.0,25.1,68.4,medio,ayuno,Si,agosto,70,verano,22:30,5:15
+4.5,3,4.0,36.9,63.1,medio,procesada,No,enero,44,invierno,21:30,6:00
+3.0,4,5.0,13.8,32.1,medio,sana,No,marzo,17,primavera,23:45,6:15
+10.0,0,5.0,14.3,56.1,mucho,equilibrada,No,marzo,56,primavera,21:00,6:30
+8.1,1,1.0,40.5,75.3,mucho,equilibrada,No,julio,36,verano,0:00,6:30
+8.3,0,2.0,26.9,32.1,mucho,equilibrada,Si,abril,38,primavera,1:00,6:45
+4.1,3,4.0,43.3,76.5,medio,ayuno,Si,marzo,63,primavera,0:45,8:30
+9.1,1,6.0,38.0,72.5,medio,sana,No,mayo,42,primavera,1:15,9:15
+5.9,2,1.0,18.1,79.5,poco,muy procesada,No,febrero,47,invierno,23:15,10:15
+6.2,2,1.0,25.0,56.2,mucho,ayuno,No,agosto,28,verano,23:45,6:00
+8.5,0,3.0,32.8,54.2,mucho,ayuno,Si,abril,68,primavera,1:45,6:00
+7.7,2,10.0,16.0,70.0,medio,ayuno,No,mayo,30,primavera,22:45,11:15
+6.9,2,5.0,23.4,40.0,medio,equilibrada,No,diciembre,79,invierno,21:45,7:15
+4.6,3,8.0,44.5,26.7,medio,procesada,No,octubre,27,otoño,20:45,11:45
+8.5,1,6.0,21.7,52.1,medio,equilibrada,No,marzo,79,primavera,20:45,11:00
+8.3,0,5.0,38.6,42.0,mucho,ayuno,Si,agosto,39,verano,1:00,7:00
+6.7,2,2.0,33.9,30.6,medio,muy procesada,No,febrero,71,invierno,1:30,9:45
+4.0,3,1.0,27.5,69.5,medio,procesada,No,septiembre,37,otoño,22:45,5:45
+7.7,1,2.0,14.8,58.3,medio,ayuno,No,marzo,44,primavera,23:00,6:15
+8.1,1,7.0,40.7,29.3,nada,equilibrada,No,noviembre,27,otoño,22:30,6:00
+7.5,1,3.0,37.8,29.1,poco,muy procesada,No,diciembre,55,invierno,2:45,8:45
+4.4,3,2.0,42.6,71.2,medio,muy procesada,No,enero,74,invierno,21:30,7:45
+8.6,0,5.0,28.2,55.8,mucho,equilibrada,Si,junio,0,verano,0:15,8:15
+3.6,3,2.0,35.3,75.2,nada,muy procesada,No,diciembre,43,invierno,22:30,10:00
+5.9,2,5.0,20.5,59.7,poco,muy procesada,No,septiembre,5,otoño,22:00,5:00
+2.1,4,14.0,38.9,42.1,medio,muy procesada,No,diciembre,14,invierno,20:00,11:15
+6.1,2,3.0,43.5,77.3,medio,equilibrada,No,julio,1,verano,1:45,7:45
+7.2,2,1.0,44.9,37.2,medio,equilibrada,No,diciembre,75,invierno,1:15,6:15
+3.5,2,1.0,34.3,29.2,nada,procesada,Si,octubre,27,otoño,1:15,6:15
+7.1,2,4.0,33.1,33.0,mucho,sana,No,julio,18,verano,20:45,10:45
+5.3,2,4.0,38.4,63.4,poco,equilibrada,Si,enero,52,invierno,23:30,6:15
+10.0,0,4.0,22.7,59.4,mucho,equilibrada,No,agosto,52,verano,0:00,7:15
+3.4,3,1.0,27.2,58.2,medio,ayuno,Si,julio,33,verano,0:30,5:00
+9.2,1,5.0,33.0,57.0,mucho,ayuno,No,junio,31,verano,23:30,6:45
+8.7,0,5.0,15.2,70.7,mucho,sana,Si,mayo,64,primavera,23:30,5:00
+2.2,3,7.0,37.8,48.7,medio,muy procesada,Si,enero,59,invierno,21:00,9:30
+10.0,0,1.0,30.9,77.6,mucho,sana,No,marzo,53,primavera,1:45,7:00
+8.1,0,2.0,18.8,45.3,mucho,ayuno,No,julio,23,verano,22:45,5:15
+7.1,1,4.0,31.5,53.1,mucho,ayuno,Si,agosto,57,verano,1:15,6:45
+6.8,1,3.0,13.1,71.0,medio,sana,Si,mayo,50,primavera,21:00,5:15
+3.8,4,4.0,20.6,32.0,medio,sana,No,abril,80,primavera,22:15,6:00
+2.7,3,1.0,39.9,57.8,medio,equilibrada,Si,julio,37,verano,2:45,9:15
+6.9,2,5.0,24.5,26.5,mucho,ayuno,No,marzo,39,primavera,1:45,8:45
+4.8,3,9.0,16.9,73.1,poco,muy procesada,No,noviembre,64,otoño,20:00,8:00
+5.5,2,7.0,11.9,56.2,poco,muy procesada,No,febrero,40,invierno,21:15,11:45
+3.8,2,4.0,33.1,40.3,medio,muy procesada,Si,octubre,9,otoño,0:45,5:15
+5.5,1,6.0,17.2,63.5,medio,equilibrada,Si,marzo,20,primavera,21:15,5:30
+9.1,1,1.0,44.3,45.6,mucho,sana,No,julio,26,verano,0:15,5:15
+1.0,4,1.0,12.0,72.4,medio,procesada,Si,septiembre,71,otoño,22:00,8:00
+2.4,4,3.0,11.2,27.0,medio,equilibrada,Si,febrero,40,invierno,2:45,10:15
+4.5,4,5.0,21.8,40.1,nada,equilibrada,No,febrero,2,invierno,2:00,10:30
+10.0,0,5.0,28.2,30.6,mucho,equilibrada,No,Desconocido,11,verano,0:45,8:45
+6.1,3,8.0,14.0,69.7,poco,equilibrada,No,noviembre,12,otoño,20:00,8:45
+1.8,4,1.0,39.1,74.0,medio,equilibrada,Si,mayo,10,primavera,1:15,9:45
+9.3,1,5.0,13.2,26.9,medio,equilibrada,No,noviembre,19,otoño,0:15,8:45
+6.3,3,4.0,41.9,50.9,medio,sana,No,julio,50,verano,2:15,8:15
+7.1,1,8.0,12.8,40.8,medio,procesada,No,octubre,66,otoño,20:15,7:15
+7.9,2,4.0,25.3,38.7,medio,sana,No,abril,4,primavera,23:30,7:00
+4.0,2,4.0,29.1,33.9,nada,muy procesada,Si,septiembre,35,otoño,1:00,8:00
+7.1,1,5.0,10.8,26.1,mucho,equilibrada,Si,abril,24,primavera,1:45,8:30
+7.6,1,1.0,26.9,62.2,mucho,equilibrada,No,marzo,36,primavera,23:15,5:00
+8.0,1,14.0,28.1,26.9,medio,procesada,No,enero,45,invierno,20:45,11:15
+5.3,3,1.0,18.7,53.9,medio,muy procesada,No,enero,78,invierno,0:45,8:45
+4.3,2,1.0,20.4,59.6,medio,equilibrada,Si,abril,77,primavera,2:45,7:30
+7.8,2,1.0,13.1,49.5,medio,equilibrada,No,noviembre,65,otoño,1:30,8:45
+7.0,1,4.0,38.2,48.5,medio,equilibrada,Si,enero,30,invierno,22:30,5:00
+7.6,2,1.0,20.2,77.1,mucho,sana,No,abril,54,primavera,0:15,5:45
+6.6,1,7.0,35.3,69.5,mucho,sana,Si,abril,40,primavera,22:15,6:00
+6.9,1,5.0,34.1,35.7,medio,muy procesada,No,enero,45,invierno,2:15,8:00
+3.2,2,4.0,38.5,59.0,medio,procesada,Si,enero,19,invierno,0:30,7:30
+2.1,4,1.0,38.2,63.4,medio,sana,Si,marzo,74,primavera,20:30,7:30
+1.5,4,6.0,32.9,38.9,nada,muy procesada,Si,septiembre,10,otoño,2:45,9:15
+6.4,2,2.0,12.3,63.4,poco,procesada,No,octubre,56,otoño,23:30,5:45
+8.2,1,3.0,41.7,44.0,mucho,sana,No,agosto,49,verano,2:30,9:30
+4.2,3,6.0,17.6,69.4,poco,muy procesada,No,octubre,47,otoño,0:45,8:45
+9.5,1,5.0,11.7,65.1,medio,equilibrada,No,noviembre,59,otoño,2:00,10:45
+6.7,1,1.0,40.1,67.1,medio,ayuno,Si,mayo,9,primavera,0:00,7:45
+7.1,2,7.0,43.1,27.6,mucho,equilibrada,No,julio,21,verano,21:30,5:30
+4.0,4,5.0,41.3,46.2,poco,procesada,No,octubre,15,otoño,21:45,10:15
+6.1,2,1.0,31.7,62.9,mucho,equilibrada,No,agosto,63,verano,23:15,5:30
+2.6,3,5.0,38.4,58.3,medio,muy procesada,No,diciembre,25,invierno,23:15,7:15
+9.4,0,5.0,39.5,53.1,mucho,equilibrada,No,julio,76,verano,2:00,9:15
+9.6,0,2.0,28.7,32.9,mucho,sana,No,agosto,35,verano,0:45,6:00
+3.8,3,2.0,44.2,70.0,medio,equilibrada,Si,junio,71,verano,22:15,6:30
+7.7,2,4.0,37.9,59.0,medio,ayuno,No,mayo,47,primavera,21:00,5:45
+8.0,1,3.0,41.7,33.5,mucho,sana,No,abril,16,primavera,1:45,8:30
+7.6,2,1.0,28.2,75.9,mucho,equilibrada,No,mayo,45,primavera,23:45,6:30
+1.2,4,1.0,42.3,29.0,medio,procesada,Si,diciembre,53,invierno,2:45,8:30
+7.4,2,5.0,23.9,54.0,medio,ayuno,No,agosto,21,verano,1:00,7:15
+7.6,1,4.0,24.1,65.1,medio,procesada,No,diciembre,74,invierno,0:00,8:15
+1.8,3,7.0,22.1,66.7,poco,procesada,Si,septiembre,50,otoño,22:30,9:15
+7.0,2,2.0,22.1,32.0,medio,sana,No,marzo,0,primavera,1:00,7:00
+5.5,2,4.0,33.7,52.3,medio,equilibrada,Si,mayo,70,primavera,2:30,7:15
+7.2,0,1.0,16.7,30.6,mucho,equilibrada,Si,junio,18,verano,2:30,9:45
+7.3,0,4.0,14.2,57.3,mucho,sana,Si,agosto,66,verano,2:00,8:30
+8.0,1,1.0,36.7,33.8,poco,muy procesada,No,enero,15,invierno,1:00,9:15
+9.0,1,2.0,23.0,50.4,mucho,equilibrada,No,junio,52,verano,1:45,8:45
+6.3,2,2.0,42.5,56.6,medio,procesada,No,octubre,46,otoño,1:45,7:45
+8.9,1,1.0,26.6,67.5,medio,equilibrada,No,junio,71,verano,2:00,7:15
+6.9,2,3.0,44.5,74.1,medio,sana,No,marzo,16,primavera,21:15,6:00
+4.7,3,6.0,22.4,71.4,medio,muy procesada,No,diciembre,38,invierno,22:30,11:00
+5.3,3,6.0,14.9,46.4,medio,procesada,No,enero,42,invierno,2:00,10:15
+7.9,2,7.0,18.0,59.7,mucho,sana,No,marzo,54,primavera,23:15,7:15
+4.7,3,1.0,36.8,68.4,medio,equilibrada,No,agosto,48,verano,1:15,8:00
+8.5,1,1.0,27.7,44.5,medio,ayuno,No,mayo,17,primavera,2:00,7:30
+6.2,2,1.0,22.0,74.6,mucho,sana,No,junio,6,verano,2:00,10:30
+9.0,0,8.0,11.4,52.0,mucho,sana,Si,marzo,78,primavera,21:15,7:30
+8.8,0,1.0,17.2,57.9,medio,sana,No,julio,26,verano,21:45,5:45
+7.1,2,3.0,21.5,28.5,medio,sana,No,mayo,50,primavera,1:45,6:00
+6.2,1,3.0,33.0,57.8,medio,equilibrada,No,octubre,52,otoño,1:15,7:30
+6.1,2,1.0,23.3,50.7,mucho,ayuno,No,agosto,56,verano,1:15,6:15
+6.8,2,4.0,13.2,50.1,medio,sana,No,julio,80,verano,1:30,8:45
+6.5,3,3.0,13.8,47.5,medio,equilibrada,No,agosto,2,verano,0:30,8:30
+6.6,2,12.0,34.6,32.5,nada,procesada,No,diciembre,77,invierno,20:00,10:45
+2.4,4,4.0,21.2,41.6,nada,equilibrada,Si,septiembre,8,otoño,1:30,8:15
+4.4,2,5.0,23.1,36.8,nada,equilibrada,Si,octubre,25,otoño,23:00,5:30
+8.2,1,3.0,37.0,48.8,poco,procesada,No,noviembre,69,otoño,22:30,7:30
+6.5,2,7.0,15.7,54.6,medio,sana,No,mayo,27,primavera,0:45,8:00
+3.4,3,3.0,34.0,50.8,poco,equilibrada,Si,diciembre,2,invierno,2:45,7:45
+6.9,2,5.0,18.7,56.2,nada,muy procesada,No,enero,15,invierno,23:45,7:15
+3.2,4,1.0,33.5,73.5,medio,procesada,No,octubre,12,otoño,0:30,6:45
+4.6,2,3.0,35.7,56.3,poco,equilibrada,Si,febrero,47,invierno,0:30,7:00
+6.2,2,3.0,40.8,46.3,poco,procesada,No,septiembre,1,otoño,23:45,7:15
+6.4,1,3.0,37.1,30.3,nada,procesada,Si,diciembre,16,invierno,20:15,11:45
+10.0,0,1.0,26.4,31.3,mucho,ayuno,No,marzo,31,primavera,1:15,6:15
+8.1,1,4.0,15.4,40.4,mucho,equilibrada,No,mayo,8,primavera,1:45,7:15
+4.4,3,4.0,11.1,54.9,medio,muy procesada,No,septiembre,69,otoño,1:00,6:00
+2.1,4,5.0,33.0,64.0,medio,sana,Si,mayo,79,primavera,23:15,5:45
+4.2,2,1.0,14.3,78.4,poco,procesada,Si,septiembre,48,otoño,23:15,5:15
+7.1,0,4.0,33.6,67.3,mucho,equilibrada,Si,julio,25,verano,22:15,11:15
+5.7,3,8.0,44.7,48.5,medio,equilibrada,No,diciembre,57,invierno,20:15,7:00
+6.4,2,4.0,24.2,31.3,medio,muy procesada,No,enero,37,invierno,0:00,6:30
+3.4,4,5.0,28.1,32.4,poco,equilibrada,No,octubre,0,otoño,0:30,6:30
+5.6,1,6.0,28.1,72.2,medio,equilibrada,Si,abril,57,primavera,2:15,9:30
+8.8,1,3.0,34.1,67.7,mucho,ayuno,No,abril,53,primavera,2:00,7:00
+6.2,2,5.0,33.2,65.6,mucho,ayuno,No,junio,17,verano,1:15,7:45
+9.1,0,1.0,14.6,55.4,mucho,equilibrada,No,mayo,33,primavera,0:00,8:00
+10.0,0,5.0,22.2,65.0,mucho,sana,No,marzo,46,primavera,1:30,8:45
+3.4,4,1.0,25.5,61.2,nada,procesada,No,diciembre,72,invierno,0:00,5:00
+3.7,4,5.0,34.6,53.8,medio,equilibrada,No,junio,37,verano,0:30,8:45
+6.0,2,10.0,15.8,74.4,nada,muy procesada,No,enero,33,invierno,21:45,11:00
+4.6,4,2.0,15.8,70.9,medio,sana,No,junio,49,verano,23:00,5:15
+4.1,2,3.0,34.4,49.6,nada,muy procesada,No,septiembre,6,otoño,23:45,11:00
+8.4,1,3.0,41.9,52.3,poco,procesada,No,octubre,46,otoño,0:15,5:30
+6.1,3,3.0,29.5,77.0,medio,equilibrada,No,abril,43,primavera,23:30,7:45
+8.8,1,4.0,32.1,34.2,mucho,ayuno,No,agosto,30,verano,23:00,7:30
+9.4,0,1.0,33.9,37.6,mucho,sana,No,abril,69,primavera,2:45,7:45
+7.3,2,1.0,28.1,31.5,nada,equilibrada,No,noviembre,61,otoño,22:45,6:00
+4.4,2,4.0,34.2,39.8,mucho,equilibrada,Si,abril,67,primavera,22:45,5:30
+4.9,2,11.0,41.1,61.4,medio,sana,Si,junio,35,verano,20:15,8:00
+4.3,2,1.0,35.1,77.5,poco,procesada,Si,diciembre,80,invierno,1:30,8:30
+3.6,4,4.0,41.0,79.1,medio,equilibrada,No,febrero,35,invierno,2:30,10:45
+8.0,0,7.0,35.8,49.4,poco,muy procesada,No,diciembre,14,invierno,22:00,6:00
+3.5,3,5.0,18.4,68.1,medio,procesada,No,febrero,63,invierno,23:45,6:00
+4.5,3,4.0,16.4,31.2,medio,equilibrada,Si,agosto,30,verano,23:00,5:00
+6.7,1,6.0,35.7,64.5,medio,ayuno,Si,agosto,0,verano,22:30,6:45
+6.6,1,4.0,10.8,54.7,medio,muy procesada,No,octubre,25,otoño,0:30,7:45
+8.4,0,2.0,15.4,76.6,medio,equilibrada,No,diciembre,23,invierno,22:15,5:45
+5.2,2,2.0,12.8,55.9,poco,equilibrada,Si,febrero,55,invierno,1:00,7:30
+6.6,1,2.0,40.3,59.3,medio,sana,Si,marzo,12,primavera,2:30,8:00
+4.3,4,3.0,17.5,60.6,nada,equilibrada,No,diciembre,32,invierno,23:00,6:30
+5.4,3,3.0,18.9,42.6,nada,muy procesada,No,octubre,7,otoño,23:00,7:00
+3.1,2,3.0,33.8,64.7,poco,procesada,Si,noviembre,7,otoño,22:15,6:30
+8.5,1,1.0,41.8,46.2,medio,equilibrada,No,septiembre,78,otoño,1:15,8:45
+9.4,0,4.0,22.2,75.4,mucho,equilibrada,No,abril,47,primavera,0:00,6:30
+1.4,4,3.0,16.8,51.2,nada,procesada,Si,enero,66,invierno,1:45,6:00
+5.2,2,5.0,32.7,32.3,medio,procesada,No,enero,28,invierno,23:00,5:15
+5.7,3,9.0,18.4,79.1,medio,equilibrada,No,octubre,73,otoño,20:00,10:15
+6.4,1,6.0,27.5,31.9,poco,procesada,Si,febrero,24,invierno,2:45,10:45
+7.9,1,14.0,31.2,74.6,medio,sana,No,abril,70,primavera,20:45,11:45
+7.3,2,12.0,23.8,45.1,medio,sana,No,marzo,7,primavera,20:00,9:00
+4.6,1,5.0,12.9,44.7,nada,procesada,Si,noviembre,59,otoño,2:15,9:00
+6.3,1,4.0,14.5,37.5,mucho,sana,Si,agosto,26,verano,2:00,9:15
+1.0,4,3.0,23.4,75.3,nada,procesada,Si,diciembre,4,invierno,22:30,8:15
+5.6,2,1.0,31.1,66.4,mucho,equilibrada,Si,mayo,67,primavera,23:45,5:15
+7.0,2,12.0,10.2,39.4,mucho,ayuno,No,junio,71,verano,22:15,11:15
+5.1,1,3.0,19.0,27.9,nada,muy procesada,Si,febrero,27,invierno,0:00,5:15
+5.8,3,3.0,29.8,75.3,nada,equilibrada,No,octubre,55,otoño,1:45,8:15
+7.3,2,2.0,14.2,68.4,medio,ayuno,No,mayo,26,primavera,23:30,5:15
+3.8,4,2.0,33.5,51.9,poco,muy procesada,No,enero,22,invierno,21:45,7:30
+7.9,1,1.0,34.9,60.9,medio,ayuno,No,agosto,9,verano,2:45,7:15
+1.0,4,4.0,25.9,70.2,medio,muy procesada,Si,diciembre,18,invierno,0:30,8:45
+3.8,3,2.0,10.5,36.6,nada,equilibrada,Si,septiembre,32,otoño,0:45,8:00
+6.5,2,4.0,15.2,56.9,nada,equilibrada,No,septiembre,14,otoño,2:15,8:30
+9.4,0,1.0,26.7,35.2,mucho,ayuno,No,marzo,55,primavera,22:15,11:15
+2.8,4,3.0,41.7,55.1,poco,equilibrada,Si,febrero,65,invierno,0:30,8:00
+7.6,2,6.0,44.6,54.4,medio,equilibrada,No,agosto,25,verano,1:30,9:45
+1.0,4,5.0,19.2,43.7,nada,muy procesada,Si,septiembre,29,otoño,22:15,10:30
+5.2,3,4.0,28.7,63.0,nada,muy procesada,No,enero,23,invierno,0:15,6:00
+6.7,2,8.0,20.5,52.5,medio,equilibrada,No,junio,64,verano,20:45,9:00
+8.1,1,2.0,13.9,78.1,mucho,equilibrada,No,mayo,72,primavera,0:15,6:45
+4.7,3,6.0,37.8,73.3,medio,procesada,No,enero,53,invierno,22:30,5:30
+4.6,2,3.0,35.9,27.3,mucho,equilibrada,Si,abril,57,primavera,23:30,6:15
+9.6,0,2.0,21.6,31.3,mucho,equilibrada,No,junio,71,verano,20:00,7:30
+4.3,1,5.0,26.6,56.8,medio,ayuno,Si,marzo,67,primavera,20:00,5:00
+2.2,4,7.0,15.4,36.5,nada,equilibrada,Si,enero,10,invierno,22:15,6:15
+3.0,3,1.0,10.6,56.3,nada,equilibrada,Si,septiembre,53,otoño,1:15,7:30
+7.6,0,4.0,29.4,32.2,mucho,ayuno,No,junio,72,verano,2:15,10:30
+9.1,0,3.0,13.2,72.9,mucho,ayuno,No,agosto,39,verano,1:30,7:00
+6.8,1,3.0,20.8,64.0,mucho,sana,Si,mayo,13,primavera,20:45,7:15
+2.7,3,6.0,38.2,66.1,medio,procesada,Si,septiembre,35,otoño,22:30,5:15
+4.4,2,6.0,23.7,71.1,medio,equilibrada,Si,septiembre,17,otoño,22:00,11:15
+5.2,3,1.0,18.6,53.4,medio,equilibrada,No,julio,57,verano,20:30,9:00
+8.3,1,9.0,25.6,30.0,medio,sana,No,junio,67,verano,20:30,10:00
+10.0,0,2.0,21.2,69.9,mucho,sana,No,junio,20,verano,0:15,7:00
+2.3,3,7.0,14.6,46.8,nada,procesada,Si,noviembre,19,otoño,23:00,7:15
+8.2,1,11.0,33.8,74.5,medio,equilibrada,No,septiembre,77,otoño,21:15,10:15
+1.4,4,2.0,37.3,42.0,nada,procesada,Si,septiembre,25,otoño,2:00,8:45
+3.5,4,5.0,37.1,75.7,nada,equilibrada,No,enero,65,invierno,22:30,5:00
+3.4,4,3.0,25.0,26.3,medio,procesada,No,octubre,58,otoño,22:15,6:15
+3.7,3,7.0,21.0,56.3,medio,ayuno,Si,mayo,58,primavera,1:15,9:30
+8.0,2,1.0,20.7,65.5,poco,equilibrada,No,diciembre,4,invierno,2:30,8:15
+2.0,4,3.0,43.9,79.3,medio,ayuno,Si,junio,18,verano,2:30,8:30
+3.6,3,4.0,10.3,61.6,nada,muy procesada,No,octubre,12,otoño,23:45,7:00
+5.2,1,4.0,10.4,36.0,nada,muy procesada,Si,diciembre,64,invierno,21:45,5:15
+6.9,1,2.0,35.5,57.1,mucho,equilibrada,Si,abril,72,primavera,0:00,7:00
+3.7,4,6.0,41.5,59.4,medio,sana,No,julio,39,verano,1:15,8:15
+2.5,4,5.0,42.1,79.5,medio,equilibrada,Si,marzo,62,primavera,2:45,9:30
+4.5,3,2.0,24.0,31.4,medio,equilibrada,No,septiembre,2,otoño,2:45,9:45
+3.1,4,1.0,26.5,27.5,medio,equilibrada,No,enero,79,invierno,2:15,10:00
+6.3,3,3.0,38.3,73.9,medio,equilibrada,No,septiembre,61,otoño,0:45,5:30
+4.8,1,6.0,40.1,76.1,medio,procesada,Si,noviembre,34,otoño,21:00,6:00
+5.4,2,4.0,42.1,77.0,poco,equilibrada,Si,octubre,30,otoño,0:30,5:30
+7.2,2,3.0,38.5,66.5,mucho,equilibrada,No,marzo,11,primavera,1:45,6:45
+2.8,4,6.0,42.9,48.3,medio,muy procesada,No,febrero,53,invierno,21:00,8:45
+6.9,2,6.0,38.3,63.2,medio,equilibrada,No,abril,55,primavera,1:15,9:15
+8.5,1,5.0,41.0,64.3,medio,equilibrada,No,abril,4,primavera,0:15,6:15
+8.7,0,2.0,42.8,39.7,mucho,equilibrada,Si,marzo,36,primavera,0:15,8:15
+7.7,2,5.0,17.5,42.8,medio,sana,No,junio,58,verano,22:45,6:45
+3.1,4,6.0,43.9,77.0,medio,muy procesada,No,febrero,10,invierno,22:45,5:00
+5.3,2,4.0,20.5,74.7,medio,procesada,No,septiembre,78,otoño,23:30,7:30
+6.9,2,4.0,11.1,73.6,mucho,equilibrada,No,junio,48,verano,1:30,6:45
+6.0,2,1.0,14.9,75.7,nada,procesada,No,septiembre,10,otoño,2:30,10:00
+2.5,4,2.0,12.1,34.0,poco,procesada,No,noviembre,32,otoño,23:15,8:45
+3.2,3,2.0,14.2,38.0,poco,procesada,Si,diciembre,6,invierno,0:45,5:45
+10.0,0,5.0,11.6,36.9,mucho,equilibrada,No,marzo,9,primavera,2:30,8:00
+4.6,4,1.0,19.7,63.1,medio,sana,No,junio,37,verano,21:15,5:15
+5.7,2,5.0,28.2,53.2,poco,procesada,No,noviembre,32,otoño,2:15,8:00
+4.2,4,6.0,27.7,32.4,poco,equilibrada,No,septiembre,2,otoño,20:30,5:45
+7.9,1,5.0,11.4,51.1,medio,ayuno,No,agosto,8,verano,21:30,5:45
+5.8,3,3.0,12.6,28.5,poco,equilibrada,No,octubre,22,otoño,22:15,6:15
+4.0,3,4.0,35.2,26.5,medio,equilibrada,Si,mayo,15,primavera,0:45,5:00
+3.9,4,2.0,11.9,35.8,medio,equilibrada,No,junio,39,verano,1:00,9:15
+6.9,2,1.0,22.7,40.8,poco,procesada,No,Desconocido,33,invierno,2:15,8:00
+4.6,4,5.0,31.3,63.4,medio,equilibrada,No,junio,19,verano,2:45,10:45
+4.6,4,6.0,44.1,78.9,medio,equilibrada,No,noviembre,7,otoño,0:45,8:45
+10.0,0,3.0,24.6,79.1,mucho,ayuno,No,marzo,27,primavera,0:45,5:00
+3.2,3,3.0,19.5,50.3,nada,equilibrada,Si,diciembre,1,invierno,2:00,9:30
+3.7,3,2.0,42.6,35.8,nada,procesada,No,octubre,28,otoño,21:00,7:00
+5.6,3,8.0,16.5,45.2,medio,ayuno,No,abril,13,primavera,23:00,9:30
+5.6,2,3.0,12.8,46.1,medio,sana,Si,marzo,66,primavera,21:15,5:15
+4.3,2,4.0,22.9,75.0,mucho,equilibrada,Si,agosto,24,verano,2:45,8:00
+4.3,3,2.0,12.9,75.1,poco,equilibrada,Si,septiembre,26,otoño,1:45,7:45
+2.1,4,5.0,44.9,33.4,medio,sana,Si,marzo,72,primavera,21:15,9:30
+6.4,2,6.0,34.6,65.0,medio,sana,No,junio,46,verano,2:00,9:45
+5.8,1,3.0,15.4,59.9,medio,procesada,Si,diciembre,65,invierno,2:30,7:00
+8.8,0,4.0,15.7,44.1,mucho,equilibrada,Si,junio,55,verano,23:30,5:00
+2.8,4,3.0,16.1,28.3,medio,sana,Si,junio,19,verano,1:15,7:00
+2.5,4,1.0,41.1,25.0,poco,procesada,No,septiembre,36,otoño,21:45,5:00
+8.3,1,1.0,29.1,36.5,medio,equilibrada,No,enero,21,invierno,23:45,7:15
+3.5,1,9.0,26.6,72.5,medio,muy procesada,Si,septiembre,63,otoño,21:30,11:15
+7.8,2,5.0,40.8,40.4,mucho,sana,No,mayo,48,primavera,2:00,8:00
+6.1,3,4.0,30.2,75.4,poco,equilibrada,No,enero,22,invierno,23:45,6:45
+6.1,1,1.0,13.6,71.8,medio,sana,Si,abril,52,primavera,2:45,9:30
+2.5,4,2.0,34.5,79.5,medio,sana,Si,julio,60,verano,0:00,7:30
+5.8,2,2.0,21.4,39.0,nada,procesada,No,febrero,39,invierno,1:00,8:15
+10.0,0,1.0,42.4,70.4,mucho,equilibrada,No,agosto,13,verano,1:00,9:00
+6.7,2,2.0,19.5,70.1,mucho,ayuno,No,marzo,58,primavera,21:30,5:00
+9.6,0,2.0,17.9,69.1,mucho,sana,No,mayo,33,primavera,20:45,8:45
+6.8,1,1.0,44.2,47.7,mucho,ayuno,Si,marzo,23,primavera,2:00,7:00
+1.0,4,3.0,15.4,64.9,medio,muy procesada,Si,diciembre,30,invierno,2:45,7:30
+7.6,2,2.0,36.1,68.7,medio,ayuno,No,agosto,18,verano,1:15,8:00
+7.3,2,4.0,18.7,38.8,mucho,sana,No,mayo,28,primavera,23:30,5:45
+6.6,1,6.0,39.0,65.9,mucho,equilibrada,Si,abril,1,primavera,0:15,8:30
+7.7,2,2.0,20.7,37.9,medio,ayuno,No,marzo,56,primavera,0:15,8:30
+7.2,0,5.0,36.1,79.0,mucho,sana,Si,mayo,33,primavera,23:00,6:15
+6.3,3,4.0,37.4,70.9,medio,equilibrada,No,julio,11,verano,23:30,7:15
+8.7,1,2.0,36.6,58.0,medio,equilibrada,No,mayo,72,primavera,1:00,9:15
+6.6,2,1.0,20.8,59.4,medio,muy procesada,No,noviembre,54,otoño,0:45,7:15
+2.5,4,7.0,31.9,49.9,poco,muy procesada,No,noviembre,60,otoño,1:30,9:15
+10.0,0,4.0,23.3,70.7,mucho,ayuno,No,marzo,42,primavera,22:15,6:30
+8.1,0,5.0,27.5,72.7,mucho,sana,Si,agosto,8,verano,1:30,8:00
+7.7,1,5.0,26.0,51.3,medio,sana,No,mayo,73,primavera,20:30,6:45
+7.9,2,2.0,31.4,26.4,medio,sana,No,junio,78,verano,0:30,5:00
+5.4,3,3.0,23.4,54.7,nada,equilibrada,No,enero,70,invierno,2:00,8:00
+7.9,1,4.0,41.7,70.7,mucho,sana,No,julio,73,verano,21:15,9:00
+3.2,4,2.0,30.5,65.6,nada,muy procesada,No,septiembre,22,otoño,2:00,8:45
+2.9,4,6.0,37.2,30.8,poco,procesada,No,febrero,51,invierno,1:00,8:00
+3.3,4,6.0,13.3,30.6,medio,sana,No,abril,68,primavera,22:45,6:15
+6.6,2,1.0,17.4,72.4,mucho,sana,No,marzo,11,primavera,22:15,7:45
+6.8,2,2.0,19.0,59.7,mucho,sana,No,Desconocido,10,primavera,22:15,5:00
+7.5,1,2.0,31.3,70.8,mucho,sana,No,abril,70,primavera,1:00,7:30
+6.0,2,1.0,38.7,43.1,poco,procesada,No,diciembre,64,invierno,22:00,5:00
+8.0,2,3.0,30.3,63.8,mucho,ayuno,No,agosto,70,verano,2:30,9:15
+7.4,1,5.0,38.7,52.4,medio,muy procesada,No,enero,5,invierno,21:30,5:45
+8.7,1,2.0,12.9,54.6,mucho,sana,No,julio,77,verano,0:30,6:45
+2.4,4,3.0,43.3,29.3,medio,muy procesada,No,enero,71,invierno,0:15,6:45
+7.7,1,1.0,20.9,28.3,mucho,sana,No,agosto,77,verano,20:15,5:30
+8.2,1,5.0,10.3,52.6,mucho,ayuno,No,marzo,28,primavera,21:30,5:15
+5.5,2,3.0,40.7,62.7,mucho,ayuno,Si,junio,4,verano,2:00,8:15
+4.4,3,1.0,35.9,68.7,medio,sana,Si,julio,62,verano,0:30,5:00
+6.3,2,1.0,38.9,52.1,poco,procesada,No,octubre,14,otoño,2:30,7:30
+10.0,0,3.0,16.2,58.2,mucho,sana,No,agosto,67,verano,0:45,6:00
+4.5,3,4.0,34.7,44.5,medio,ayuno,Si,junio,41,verano,20:45,6:30
+8.0,0,4.0,35.3,73.7,mucho,equilibrada,Si,marzo,66,primavera,22:45,6:45
+8.8,1,6.0,30.1,56.2,mucho,equilibrada,No,agosto,9,verano,20:30,8:30
+7.3,2,7.0,35.3,43.0,mucho,equilibrada,No,junio,22,verano,20:45,11:15
+4.5,2,2.0,28.7,47.0,poco,procesada,Si,diciembre,44,invierno,22:45,5:30
+4.9,3,6.0,17.7,67.6,medio,equilibrada,No,enero,26,invierno,22:00,7:15
+1.0,4,2.0,42.1,69.9,medio,procesada,Si,septiembre,76,otoño,0:00,6:15
+5.4,2,4.0,22.6,61.9,mucho,ayuno,Si,junio,55,verano,2:00,9:45
+6.4,2,2.0,42.1,72.7,poco,procesada,No,febrero,48,invierno,21:45,6:15
+7.8,1,7.0,17.2,56.4,poco,procesada,No,noviembre,15,otoño,20:45,7:00
+6.8,1,3.0,27.1,49.0,medio,ayuno,Si,julio,62,verano,21:45,7:15
+2.5,4,7.0,44.5,44.4,medio,equilibrada,Si,enero,66,invierno,23:30,7:30
+6.1,1,3.0,34.8,77.2,medio,sana,Si,abril,45,primavera,23:00,5:15
+6.2,3,5.0,15.9,47.6,poco,equilibrada,No,septiembre,64,otoño,22:30,5:00
+7.7,1,2.0,40.7,50.6,mucho,ayuno,No,junio,38,verano,0:15,7:00
+4.6,4,3.0,15.8,57.9,medio,sana,No,julio,75,verano,2:45,10:45
+6.5,2,1.0,11.3,50.9,mucho,ayuno,No,abril,53,primavera,0:30,7:00
+4.1,3,3.0,13.1,50.1,medio,equilibrada,Si,abril,49,primavera,21:00,5:15
+5.0,3,5.0,35.5,29.7,nada,procesada,No,octubre,34,otoño,2:30,8:15
+8.1,1,3.0,42.8,48.1,mucho,equilibrada,No,julio,70,verano,2:30,9:30
+2.9,4,4.0,36.2,59.7,nada,equilibrada,Si,diciembre,76,invierno,0:30,5:45
+6.7,1,3.0,45.0,52.6,medio,sana,No,marzo,60,primavera,1:45,8:00
+5.2,2,2.0,45.0,52.6,nada,muy procesada,No,noviembre,79,otoño,0:30,7:00
+4.6,1,2.0,20.2,29.4,medio,procesada,Si,diciembre,19,invierno,23:00,7:30
+2.1,3,4.0,15.6,69.1,poco,procesada,Si,febrero,44,invierno,2:30,9:00
+5.3,2,5.0,35.4,33.4,nada,muy procesada,No,diciembre,27,invierno,21:30,5:45
+8.3,1,4.0,18.2,73.4,nada,procesada,No,octubre,17,otoño,1:00,6:30
+8.0,1,2.0,15.3,71.8,mucho,ayuno,No,agosto,71,verano,20:45,8:00
+4.4,3,2.0,21.0,78.2,poco,muy procesada,No,febrero,76,invierno,0:45,7:15
+3.6,3,3.0,40.8,45.2,medio,muy procesada,No,noviembre,53,otoño,1:30,7:00
+3.2,4,3.0,20.7,27.4,medio,equilibrada,No,julio,4,verano,2:00,9:15
+9.1,1,7.0,41.1,70.6,mucho,equilibrada,No,agosto,6,verano,20:45,9:30
+7.8,2,2.0,41.0,65.0,medio,sana,No,marzo,47,primavera,22:45,6:45
+2.8,4,6.0,12.3,72.6,medio,procesada,No,enero,3,invierno,0:00,8:00
+4.7,3,3.0,30.5,67.7,medio,equilibrada,No,marzo,64,primavera,0:45,8:45
+5.5,3,3.0,16.5,47.1,medio,equilibrada,No,noviembre,65,otoño,1:45,6:45
+7.5,2,4.0,35.1,27.7,medio,ayuno,No,julio,59,verano,2:15,9:15
+6.5,2,1.0,31.9,39.4,medio,procesada,No,febrero,49,invierno,2:30,9:45
+5.6,2,6.0,30.3,47.8,medio,muy procesada,No,diciembre,18,invierno,21:45,5:15
+4.6,1,3.0,22.9,34.6,mucho,ayuno,Si,julio,5,verano,2:45,8:30
+4.6,4,6.0,21.9,50.1,nada,equilibrada,No,septiembre,32,otoño,2:00,9:15
+3.5,4,5.0,44.8,48.5,medio,equilibrada,No,mayo,12,primavera,0:15,8:30
+5.0,3,9.0,16.6,68.0,poco,equilibrada,No,febrero,58,invierno,21:15,7:00
+8.8,1,3.0,31.9,71.6,mucho,equilibrada,No,abril,14,primavera,0:45,5:00
+4.9,2,4.0,33.2,60.1,mucho,equilibrada,Si,mayo,62,primavera,2:15,9:00
+3.7,3,3.0,15.9,50.9,nada,procesada,No,enero,0,invierno,20:45,5:45
+6.3,2,4.0,20.4,60.6,mucho,sana,No,julio,36,verano,2:15,8:00
+6.0,2,2.0,21.9,43.9,poco,muy procesada,No,octubre,51,otoño,21:45,5:15
+5.4,2,7.0,34.9,49.3,medio,ayuno,Si,julio,34,verano,0:15,8:15
+7.5,1,3.0,22.0,36.3,nada,equilibrada,No,enero,14,invierno,21:00,5:15
+5.5,2,4.0,15.7,37.7,mucho,equilibrada,Si,julio,13,verano,0:00,6:00
+5.5,1,2.0,40.7,78.8,poco,muy procesada,Si,enero,26,invierno,23:30,7:30
+6.0,3,1.0,33.2,50.7,medio,equilibrada,No,Desconocido,38,verano,0:00,5:15
+8.0,0,8.0,16.2,79.0,mucho,ayuno,Si,junio,29,verano,22:30,8:30
+3.4,4,5.0,42.6,66.4,medio,equilibrada,No,julio,58,verano,0:00,8:30
+7.8,1,7.0,20.4,31.6,nada,equilibrada,No,noviembre,60,otoño,2:15,10:45
+4.3,4,3.0,41.0,43.2,medio,equilibrada,No,junio,55,verano,21:15,5:45
+8.6,1,4.0,15.9,47.7,mucho,equilibrada,No,junio,80,verano,20:15,11:00
+8.2,1,3.0,12.3,73.2,poco,equilibrada,No,febrero,22,invierno,1:15,7:30
+3.6,4,2.0,42.9,51.6,medio,equilibrada,No,marzo,8,primavera,22:30,11:45
+6.2,2,1.0,10.0,42.4,mucho,equilibrada,No,agosto,11,verano,1:15,8:30
+3.7,4,5.0,22.0,25.4,medio,equilibrada,No,noviembre,58,otoño,23:45,6:00
+4.1,4,4.0,31.3,45.4,poco,equilibrada,No,febrero,7,invierno,23:00,7:45
+1.8,4,7.0,41.5,79.2,poco,equilibrada,Si,noviembre,1,otoño,21:45,5:15
+5.0,2,5.0,23.0,72.7,mucho,equilibrada,Si,julio,23,verano,20:00,5:30
+4.2,3,2.0,19.3,73.8,poco,muy procesada,No,febrero,17,invierno,2:45,10:45
+6.1,1,1.0,19.4,47.3,nada,equilibrada,Si,febrero,39,invierno,0:45,8:15
+8.4,1,6.0,39.6,50.3,medio,muy procesada,No,enero,48,invierno,23:15,7:00
+6.5,1,3.0,13.3,33.0,medio,equilibrada,Si,agosto,36,verano,0:30,8:15
+6.2,2,1.0,40.6,56.5,medio,equilibrada,No,marzo,40,primavera,1:15,6:45
+2.7,4,2.0,27.0,41.9,poco,procesada,No,septiembre,32,otoño,0:45,7:45
+4.3,3,3.0,44.7,59.9,medio,ayuno,Si,agosto,19,verano,0:45,5:15
+3.9,3,5.0,34.7,62.0,poco,muy procesada,No,septiembre,64,otoño,1:15,7:00
+7.9,2,4.0,29.4,57.4,mucho,equilibrada,No,agosto,4,verano,2:00,7:45
+4.3,2,6.0,37.5,77.8,poco,equilibrada,Si,noviembre,48,otoño,20:45,6:30
+8.2,1,2.0,38.9,39.9,mucho,sana,No,julio,75,verano,2:00,10:15
+3.7,3,5.0,15.1,25.0,medio,equilibrada,Si,abril,72,primavera,1:00,9:45
+3.2,4,4.0,14.8,49.8,nada,procesada,No,diciembre,0,invierno,22:45,5:15
+6.1,1,1.0,31.2,38.2,poco,muy procesada,Si,noviembre,61,otoño,0:00,7:00
+2.1,4,9.0,39.6,54.3,poco,procesada,No,diciembre,79,invierno,23:00,9:30
+3.2,4,4.0,26.5,56.8,medio,procesada,No,octubre,14,otoño,0:00,5:45
+1.5,4,3.0,21.6,67.4,medio,procesada,Si,noviembre,54,otoño,0:45,8:30
+5.2,3,1.0,14.8,52.2,poco,procesada,No,diciembre,79,invierno,0:00,5:30
+9.7,0,5.0,10.0,56.9,mucho,sana,No,abril,32,primavera,23:30,5:15
+4.8,3,5.0,30.7,26.0,medio,procesada,No,febrero,14,invierno,0:00,7:30
+6.2,2,3.0,32.0,39.6,medio,ayuno,No,junio,17,verano,1:45,6:45
+1.6,4,1.0,43.3,52.0,medio,ayuno,Si,junio,72,verano,21:15,5:45
+5.8,1,9.0,42.4,39.8,poco,procesada,Si,noviembre,0,otoño,20:45,7:45
+5.2,2,8.0,32.3,68.8,nada,procesada,No,enero,6,invierno,20:30,10:00
+1.2,4,11.0,34.0,69.3,poco,procesada,Si,febrero,20,invierno,21:00,10:30
+6.2,1,5.0,29.3,45.1,medio,muy procesada,Si,febrero,76,invierno,23:00,10:45
+10.0,0,1.0,40.9,30.4,mucho,equilibrada,No,agosto,77,verano,22:30,7:45
+4.6,3,2.0,33.3,37.2,medio,ayuno,No,agosto,12,verano,1:45,6:15
+3.5,4,1.0,32.6,75.0,nada,equilibrada,No,septiembre,16,otoño,1:30,9:15
+4.6,4,1.0,14.1,26.1,medio,equilibrada,No,agosto,51,verano,23:45,6:30
+2.9,3,4.0,26.1,28.9,medio,procesada,Si,diciembre,18,invierno,1:00,9:15
+8.2,1,4.0,43.5,54.4,nada,procesada,No,Desconocido,26,otoño,0:00,7:00
+4.4,3,2.0,37.0,25.5,medio,muy procesada,No,diciembre,25,invierno,2:00,9:45
+4.4,3,2.0,13.1,42.4,nada,muy procesada,No,septiembre,63,otoño,2:30,9:00
+5.4,2,4.0,12.5,37.0,medio,equilibrada,Si,febrero,80,invierno,2:45,8:15
+1.0,4,1.0,22.3,61.6,nada,muy procesada,Si,febrero,22,invierno,1:30,9:45
+2.7,3,2.0,26.2,38.6,nada,procesada,Si,septiembre,20,otoño,0:45,8:15
+7.8,1,5.0,23.5,48.7,mucho,ayuno,No,julio,76,verano,2:45,9:00
+1.0,3,3.0,30.3,47.5,nada,procesada,Si,septiembre,34,otoño,1:15,6:15
+7.8,1,9.0,33.4,62.1,mucho,equilibrada,No,junio,23,verano,20:45,11:00
+7.6,1,1.0,16.5,44.7,mucho,ayuno,No,marzo,8,primavera,1:45,6:00
+5.7,2,5.0,25.7,32.3,medio,procesada,No,febrero,13,invierno,23:00,5:15
+4.8,4,3.0,44.5,53.4,nada,equilibrada,No,septiembre,58,otoño,21:30,9:30
+4.8,3,1.0,10.6,52.2,medio,equilibrada,No,noviembre,71,otoño,23:45,10:00
+4.8,3,4.0,21.9,38.3,medio,ayuno,No,mayo,50,primavera,1:00,7:45
+4.9,3,5.0,30.7,28.5,medio,procesada,No,noviembre,75,otoño,23:00,6:00
+2.8,3,3.0,36.6,46.7,nada,equilibrada,Si,octubre,71,otoño,22:45,6:00
+4.5,2,9.0,21.5,63.0,mucho,sana,Si,agosto,17,verano,22:30,11:15
+10.0,0,5.0,31.1,32.9,mucho,equilibrada,No,abril,73,primavera,2:30,10:15
+8.2,0,7.0,11.3,39.3,mucho,equilibrada,No,julio,72,verano,21:15,5:00
+5.6,1,2.0,10.1,70.0,medio,equilibrada,Si,enero,59,invierno,0:15,7:15
+7.7,1,2.0,22.2,51.4,nada,procesada,No,diciembre,54,invierno,1:00,7:30
+7.7,0,3.0,15.0,28.9,mucho,sana,Si,junio,70,verano,1:00,7:00
+5.7,3,3.0,24.4,75.2,medio,equilibrada,No,julio,57,verano,23:00,5:00
+7.3,1,1.0,36.9,63.9,medio,ayuno,Si,agosto,71,verano,0:45,6:30
+8.9,1,4.0,40.7,69.4,medio,equilibrada,No,abril,59,primavera,1:45,8:30
+6.3,2,14.0,34.0,38.1,medio,equilibrada,No,noviembre,54,otoño,20:00,11:45
+5.0,2,3.0,13.6,73.3,medio,equilibrada,Si,noviembre,4,otoño,23:30,11:45
+9.3,1,3.0,37.2,58.5,mucho,equilibrada,No,mayo,49,primavera,21:00,5:30
+2.4,4,3.0,10.7,54.4,nada,procesada,No,octubre,48,otoño,2:45,8:30
+1.3,4,10.0,27.7,61.0,medio,sana,Si,marzo,40,primavera,20:30,7:15
+7.1,2,6.0,10.8,59.2,mucho,equilibrada,No,mayo,70,primavera,22:30,5:00
+8.8,1,5.0,41.5,56.5,poco,equilibrada,No,octubre,24,otoño,2:45,8:30
+2.7,4,1.0,24.4,30.0,medio,muy procesada,No,diciembre,31,invierno,0:00,5:00
+6.2,1,2.0,31.5,48.6,mucho,equilibrada,Si,marzo,41,primavera,23:15,7:15
+4.7,3,2.0,44.6,75.6,nada,muy procesada,No,enero,3,invierno,0:45,6:00
+8.5,1,1.0,23.7,59.8,medio,equilibrada,No,agosto,36,verano,2:45,9:30
+9.0,1,4.0,12.9,45.5,mucho,ayuno,No,abril,64,primavera,1:45,6:45
+1.0,4,5.0,34.2,26.3,nada,muy procesada,Si,febrero,15,invierno,0:45,8:30
+8.7,1,1.0,32.6,29.1,medio,ayuno,No,abril,62,primavera,23:15,7:15
+2.7,3,8.0,11.3,64.4,medio,sana,Si,julio,65,verano,22:15,8:00
+10.0,0,3.0,41.9,76.2,mucho,ayuno,No,abril,10,primavera,1:00,6:15
+9.7,0,6.0,22.0,30.0,mucho,sana,No,julio,16,verano,20:45,11:00
+5.1,3,5.0,36.7,49.0,poco,procesada,No,enero,0,invierno,20:00,10:15
+3.7,4,1.0,43.6,37.2,medio,muy procesada,No,septiembre,68,otoño,23:00,6:15
+5.0,3,10.0,26.9,62.0,poco,equilibrada,No,diciembre,60,invierno,20:15,10:00
+5.7,1,9.0,15.0,76.8,mucho,sana,Si,mayo,0,primavera,20:15,11:45
+2.0,4,3.0,42.9,70.0,medio,ayuno,Si,julio,56,verano,1:00,9:15
+7.5,1,5.0,13.4,54.7,mucho,ayuno,No,agosto,42,verano,1:30,7:15
+3.8,4,3.0,39.6,42.4,medio,ayuno,No,julio,57,verano,1:45,8:30
+2.9,4,3.0,35.3,60.1,medio,muy procesada,No,septiembre,4,otoño,2:45,7:30
+9.1,0,4.0,31.6,68.6,mucho,ayuno,No,abril,65,primavera,0:15,7:15
+2.4,3,1.0,15.6,54.4,medio,muy procesada,Si,octubre,21,otoño,0:00,6:30
+7.6,2,5.0,11.1,46.6,mucho,sana,No,marzo,22,primavera,1:30,8:15
+3.1,3,5.0,17.5,62.8,nada,muy procesada,Si,diciembre,29,invierno,21:45,5:15
+3.6,4,7.0,35.1,41.9,medio,procesada,No,septiembre,26,otoño,22:15,6:30
+3.5,4,3.0,36.6,41.3,medio,ayuno,No,agosto,76,verano,22:30,5:30
+4.0,4,4.0,19.0,48.9,medio,ayuno,No,marzo,53,primavera,2:15,8:00
+4.9,1,1.0,22.2,47.8,medio,muy procesada,Si,noviembre,26,otoño,23:00,7:30
+3.9,3,8.0,40.3,35.7,nada,procesada,No,febrero,17,invierno,20:15,6:15
+5.5,3,2.0,22.6,51.1,nada,equilibrada,No,octubre,11,otoño,2:00,10:00
+3.2,3,2.0,11.8,41.9,medio,sana,Si,junio,73,verano,21:15,5:30
+5.4,3,1.0,27.7,48.8,nada,equilibrada,No,octubre,63,otoño,0:00,8:30
+5.6,2,6.0,28.1,37.8,mucho,sana,Si,junio,59,verano,23:45,6:30
+5.3,3,1.0,30.2,56.6,medio,procesada,No,febrero,27,invierno,0:00,5:00
+7.2,0,2.0,33.8,68.4,mucho,equilibrada,Si,abril,23,primavera,0:15,7:00
+7.2,2,1.0,32.1,38.7,poco,equilibrada,No,diciembre,78,invierno,22:30,5:15
+6.3,2,4.0,38.8,62.8,medio,ayuno,No,marzo,77,primavera,0:00,5:30
+5.3,2,5.0,32.7,69.4,medio,procesada,No,enero,9,invierno,20:00,9:00
+3.1,4,2.0,35.4,56.0,medio,muy procesada,No,noviembre,1,otoño,1:45,7:00
+2.2,4,1.0,37.0,27.7,nada,equilibrada,Si,octubre,48,otoño,2:00,10:15
+6.4,1,3.0,32.8,41.6,medio,procesada,Si,noviembre,47,otoño,2:30,7:00
+4.3,2,7.0,42.0,45.2,medio,ayuno,Si,agosto,17,verano,1:00,9:45
+6.0,1,4.0,36.3,32.7,poco,equilibrada,Si,octubre,32,otoño,2:00,9:15
+6.4,2,5.0,13.7,71.5,medio,ayuno,No,marzo,20,primavera,21:15,10:00
+3.2,3,4.0,13.7,45.2,medio,ayuno,No,julio,72,verano,23:15,5:30
+5.8,1,5.0,18.4,68.6,mucho,ayuno,Si,abril,16,primavera,0:30,6:30
+6.6,2,5.0,22.9,38.5,poco,procesada,No,enero,13,invierno,2:45,10:00
+6.5,1,8.0,41.6,70.9,nada,muy procesada,No,enero,20,invierno,20:00,11:45
+10.0,0,5.0,44.3,30.1,mucho,ayuno,No,mayo,79,primavera,1:15,9:15
+2.9,3,5.0,23.5,64.9,poco,procesada,Si,diciembre,5,invierno,21:45,6:15
+8.3,1,3.0,41.4,38.1,medio,equilibrada,No,junio,3,verano,23:00,6:15
+5.2,2,8.0,17.2,62.7,medio,procesada,No,febrero,41,invierno,21:15,6:00
+3.2,3,2.0,14.7,64.6,nada,muy procesada,Si,noviembre,46,otoño,0:30,8:30
+3.1,3,4.0,41.5,65.1,medio,equilibrada,Si,noviembre,48,otoño,0:45,7:30
+9.0,1,4.0,21.1,73.4,mucho,sana,No,mayo,45,primavera,23:45,5:45
+3.3,2,1.0,29.0,31.7,medio,muy procesada,Si,octubre,67,otoño,1:45,7:15
+7.5,2,6.0,18.3,29.8,medio,equilibrada,No,febrero,19,invierno,1:45,8:00
+6.1,2,3.0,30.8,53.9,mucho,ayuno,No,marzo,56,primavera,1:15,9:00
+2.5,3,1.0,17.6,68.4,nada,muy procesada,Si,enero,19,invierno,0:30,5:45
+2.6,4,6.0,26.8,42.5,nada,muy procesada,No,noviembre,76,otoño,1:45,9:15
+9.1,0,1.0,40.4,27.6,mucho,ayuno,No,junio,12,verano,21:00,6:30
+2.9,4,2.0,39.4,64.0,poco,muy procesada,No,septiembre,65,otoño,1:15,8:00
+7.4,1,7.0,18.6,72.4,poco,equilibrada,Si,enero,15,invierno,23:00,7:00
+4.0,3,5.0,30.3,36.9,nada,equilibrada,No,diciembre,6,invierno,20:00,7:00
+5.9,2,3.0,38.2,72.6,mucho,ayuno,Si,agosto,33,verano,2:30,7:30
+6.5,2,2.0,40.9,34.9,poco,procesada,No,septiembre,63,otoño,2:45,7:30
+3.4,3,1.0,10.8,55.6,medio,ayuno,No,mayo,20,primavera,2:45,7:15
+10.0,0,4.0,18.2,42.2,mucho,sana,No,abril,66,primavera,23:45,7:30
+7.5,1,5.0,24.1,67.3,poco,muy procesada,No,septiembre,17,otoño,2:00,10:00
+9.0,1,8.0,30.5,65.9,medio,sana,No,mayo,16,primavera,21:00,11:15
+6.4,3,1.0,28.5,46.8,medio,equilibrada,No,abril,79,primavera,23:00,5:00
+2.6,3,5.0,43.1,50.2,poco,equilibrada,Si,enero,71,invierno,0:00,6:30
+2.3,4,7.0,39.4,71.0,medio,procesada,No,diciembre,40,invierno,21:45,6:30
+4.6,3,5.0,22.3,72.3,medio,muy procesada,No,noviembre,79,otoño,20:15,9:15
+2.5,4,5.0,38.8,43.1,nada,procesada,No,enero,36,invierno,2:00,8:00
+2.9,4,1.0,12.8,56.5,medio,sana,Si,abril,3,primavera,21:15,7:00
+6.5,2,6.0,17.0,72.9,poco,equilibrada,No,septiembre,73,otoño,22:30,5:15
+4.8,3,4.0,14.1,72.6,medio,sana,No,marzo,39,primavera,21:45,5:45
+5.7,2,3.0,19.9,51.8,nada,equilibrada,Si,diciembre,33,invierno,2:00,8:30
+4.7,2,3.0,31.3,45.7,mucho,ayuno,Si,agosto,58,verano,1:45,9:45
+1.0,4,4.0,34.1,48.3,medio,procesada,Si,enero,24,invierno,2:00,8:15
+3.1,2,4.0,21.7,26.7,nada,muy procesada,Si,octubre,44,otoño,2:00,9:00
+5.5,2,4.0,21.5,63.8,mucho,equilibrada,Si,agosto,45,verano,1:00,7:30
+7.8,2,4.0,37.2,25.3,poco,equilibrada,No,noviembre,66,otoño,2:30,8:15
+2.0,4,5.0,22.0,46.2,medio,ayuno,Si,junio,30,verano,0:45,8:15
+3.4,4,6.0,20.9,27.7,medio,equilibrada,No,diciembre,63,invierno,21:45,9:45
+6.2,2,2.0,30.0,64.3,medio,muy procesada,No,septiembre,26,otoño,2:45,7:30
+7.2,2,4.0,18.5,54.7,medio,equilibrada,No,junio,46,verano,23:45,7:00
+6.6,2,1.0,11.5,69.6,medio,muy procesada,No,noviembre,3,otoño,0:00,8:00
+9.8,0,1.0,18.0,72.1,mucho,ayuno,No,junio,0,verano,21:45,8:15
+7.6,2,5.0,25.4,62.5,medio,sana,No,junio,27,verano,0:00,6:00
+1.0,4,3.0,10.8,30.4,nada,procesada,Si,septiembre,1,otoño,2:30,8:00
+3.5,3,8.0,33.2,37.2,nada,muy procesada,No,diciembre,24,invierno,23:30,10:15
+6.5,1,2.0,10.9,39.1,medio,ayuno,No,abril,12,primavera,2:30,9:45
+8.4,0,6.0,30.0,72.7,mucho,equilibrada,Si,mayo,64,primavera,20:45,5:45
+9.2,0,4.0,32.4,54.2,mucho,ayuno,No,abril,80,primavera,0:15,7:15
+6.2,2,2.0,32.1,68.3,mucho,sana,No,marzo,32,primavera,21:30,5:30
+3.1,3,6.0,23.0,50.9,nada,muy procesada,Si,septiembre,37,otoño,2:15,10:15
+7.7,1,1.0,39.1,49.1,mucho,sana,No,junio,45,verano,0:45,6:30
+5.0,3,3.0,25.2,56.9,nada,muy procesada,No,octubre,48,otoño,1:15,6:00
+8.2,1,2.0,45.0,44.2,mucho,sana,No,abril,13,primavera,22:30,5:30
+1.6,3,2.0,28.6,52.9,poco,procesada,Si,septiembre,11,otoño,0:00,5:15
+2.0,3,3.0,10.5,44.6,nada,procesada,Si,febrero,23,invierno,21:30,5:00
+5.0,2,2.0,30.9,69.0,medio,ayuno,Si,marzo,19,primavera,21:45,7:45
+9.2,1,1.0,41.2,28.3,medio,ayuno,No,abril,29,primavera,2:00,8:15
+3.9,3,3.0,42.0,38.4,medio,muy procesada,No,octubre,33,otoño,2:15,8:00
+6.6,1,6.0,37.8,53.5,poco,equilibrada,Si,octubre,49,otoño,0:30,7:45
+7.7,0,2.0,16.9,56.1,mucho,sana,No,junio,19,verano,2:30,8:00
+10.0,0,3.0,44.8,76.1,mucho,sana,No,agosto,52,verano,1:15,8:45
+3.4,3,2.0,32.8,39.9,poco,equilibrada,Si,febrero,1,invierno,21:45,8:30
+6.7,1,1.0,13.1,25.6,poco,procesada,No,septiembre,42,otoño,20:45,7:00
+5.2,3,3.0,40.1,63.3,medio,sana,No,junio,58,verano,2:00,7:00
+5.3,1,4.0,14.0,77.8,nada,procesada,Si,septiembre,26,otoño,2:45,9:45
+6.3,2,4.0,30.7,56.5,mucho,ayuno,No,mayo,64,primavera,1:45,6:00
+9.1,0,3.0,40.8,59.5,poco,equilibrada,No,septiembre,10,otoño,2:45,8:15
+1.0,4,5.0,38.8,38.4,nada,procesada,Si,enero,21,invierno,0:45,6:15
+2.2,4,2.0,38.7,26.4,nada,muy procesada,No,diciembre,25,invierno,1:15,6:45
+8.0,1,3.0,10.2,28.0,medio,equilibrada,No,noviembre,17,otoño,1:45,9:15
+4.3,2,5.0,33.7,26.8,medio,equilibrada,Si,diciembre,25,invierno,2:45,8:30
+6.3,2,5.0,22.0,41.5,mucho,equilibrada,No,abril,70,primavera,0:45,8:30
+9.4,0,1.0,10.8,77.1,mucho,ayuno,No,agosto,74,verano,21:30,10:30
+3.9,3,2.0,42.8,77.3,nada,muy procesada,No,enero,79,invierno,0:00,5:00
+6.0,2,3.0,38.6,35.6,medio,sana,No,marzo,59,primavera,1:45,6:15
+9.3,1,1.0,13.2,66.0,mucho,ayuno,No,mayo,55,primavera,23:45,6:30
+3.7,3,5.0,33.6,74.0,medio,ayuno,Si,junio,28,verano,20:00,7:45
+4.0,2,2.0,37.9,31.8,medio,ayuno,Si,junio,77,verano,2:15,7:00
+2.7,4,4.0,11.9,70.7,medio,procesada,No,febrero,8,invierno,23:30,7:30
+4.9,3,12.0,10.8,69.7,medio,equilibrada,No,agosto,22,verano,20:45,11:45
+7.3,2,3.0,21.9,77.7,medio,equilibrada,No,octubre,12,otoño,0:00,5:00
+5.3,3,5.0,27.8,41.9,medio,equilibrada,No,marzo,7,primavera,22:45,5:15
+1.0,4,2.0,11.0,77.0,nada,procesada,Si,diciembre,14,invierno,21:00,5:30
+8.4,1,4.0,19.7,62.0,medio,sana,No,julio,66,verano,20:45,10:30
+4.1,2,6.0,42.5,31.6,mucho,sana,Si,junio,58,verano,2:30,10:15
+5.3,2,1.0,12.0,68.2,poco,equilibrada,Si,diciembre,55,invierno,2:30,8:00
+6.4,1,1.0,25.3,27.5,medio,procesada,Si,diciembre,2,invierno,1:45,6:45
+4.9,3,7.0,36.3,50.7,nada,equilibrada,No,septiembre,33,otoño,23:30,7:00
+1.6,3,1.0,44.2,27.2,nada,procesada,Si,enero,37,invierno,2:45,7:00
+1.7,3,1.0,13.0,66.8,medio,muy procesada,Si,octubre,56,otoño,20:45,8:45
+6.1,2,3.0,11.2,68.0,medio,equilibrada,No,abril,56,primavera,1:15,7:15
+7.8,2,1.0,32.1,78.6,medio,equilibrada,No,febrero,12,invierno,2:15,7:00
+6.2,2,6.0,35.0,53.5,medio,ayuno,No,marzo,37,primavera,0:15,7:15
+4.7,4,4.0,13.1,69.8,medio,equilibrada,No,mayo,15,primavera,20:45,11:45
+3.4,3,3.0,18.6,41.6,medio,sana,Si,abril,50,primavera,1:30,9:00
+7.8,1,7.0,30.2,51.4,medio,procesada,No,enero,22,invierno,0:45,8:45
+10.0,0,6.0,34.2,66.5,mucho,ayuno,No,abril,5,primavera,2:00,9:45
+6.2,2,4.0,19.8,38.2,medio,sana,No,abril,72,primavera,1:30,7:15
+9.1,0,4.0,18.1,32.2,medio,sana,No,junio,37,verano,20:30,9:30
+4.4,2,5.0,16.9,78.4,medio,procesada,Si,noviembre,25,otoño,1:45,8:30
+7.5,1,10.0,13.1,49.6,medio,ayuno,Si,mayo,11,primavera,20:15,10:15
+5.5,2,2.0,37.9,29.5,nada,equilibrada,Si,octubre,72,otoño,21:15,5:15
+7.8,0,2.0,10.1,46.0,poco,muy procesada,No,octubre,61,otoño,2:15,10:15
+5.5,2,5.0,39.0,76.9,mucho,sana,Si,junio,43,verano,0:30,7:15
+7.3,0,6.0,29.2,50.7,mucho,ayuno,Si,junio,13,verano,21:30,5:15
+1.0,4,6.0,37.2,44.3,poco,muy procesada,Si,noviembre,48,otoño,22:45,7:15
+6.5,2,2.0,35.9,72.3,medio,sana,No,mayo,50,primavera,23:45,6:00
+3.3,4,1.0,35.6,57.3,medio,sana,No,julio,61,verano,23:15,9:00
+2.8,3,2.0,41.1,51.7,poco,equilibrada,Si,noviembre,50,otoño,0:45,5:00
+2.0,3,4.0,22.1,71.3,poco,muy procesada,Si,noviembre,25,otoño,1:15,9:15
+5.0,3,2.0,18.0,76.3,poco,procesada,No,octubre,51,otoño,0:00,7:30
+9.4,1,1.0,35.3,33.9,medio,ayuno,No,julio,32,verano,23:30,5:00
+8.1,1,5.0,29.0,78.7,medio,ayuno,No,agosto,28,verano,22:15,6:30
+5.4,2,4.0,34.2,60.1,poco,equilibrada,Si,septiembre,4,otoño,1:00,7:30
+8.6,1,10.0,29.0,43.3,medio,sana,No,junio,72,verano,20:30,8:15
+5.6,1,5.0,31.1,25.4,mucho,equilibrada,Si,junio,33,verano,1:00,9:30
+4.9,3,2.0,10.9,78.6,medio,ayuno,No,agosto,46,verano,22:45,6:00
+5.9,1,1.0,11.2,31.0,nada,procesada,Si,diciembre,65,invierno,22:45,5:00
+1.6,3,3.0,20.3,76.6,nada,procesada,Si,septiembre,55,otoño,1:30,8:45
+7.5,2,1.0,22.9,53.4,mucho,sana,No,abril,57,primavera,0:45,7:30
+1.0,4,9.0,34.4,29.5,medio,equilibrada,Si,noviembre,75,otoño,21:15,8:15
+5.2,1,3.0,41.6,25.5,nada,muy procesada,Si,enero,47,invierno,21:00,10:30
+6.2,3,4.0,23.6,31.5,poco,equilibrada,No,febrero,77,invierno,0:15,8:30
+3.9,4,1.0,27.2,48.2,poco,equilibrada,No,septiembre,44,otoño,1:30,8:45
+8.9,1,5.0,39.7,43.4,mucho,equilibrada,No,abril,40,primavera,21:30,6:30
+2.4,3,2.0,27.7,44.5,medio,muy procesada,Si,septiembre,57,otoño,2:30,10:45
+6.4,1,6.0,15.6,47.5,nada,equilibrada,Si,noviembre,76,otoño,2:00,10:15
+5.0,1,4.0,21.5,42.0,nada,procesada,Si,septiembre,17,otoño,1:00,6:45
+1.4,4,1.0,37.1,74.5,poco,equilibrada,Si,enero,5,invierno,23:15,7:30
+4.9,2,3.0,37.9,62.6,poco,procesada,Si,octubre,23,otoño,2:30,10:45
+3.8,3,6.0,23.8,31.0,poco,muy procesada,No,septiembre,2,otoño,1:15,8:15
+3.0,4,3.0,25.9,62.8,medio,equilibrada,No,mayo,24,primavera,1:15,7:15
+8.3,1,9.0,29.5,65.9,nada,equilibrada,No,septiembre,35,otoño,22:00,9:15
+4.8,2,1.0,19.5,39.7,mucho,equilibrada,Si,agosto,49,verano,23:30,6:15
+8.9,0,3.0,18.2,37.1,mucho,sana,Si,marzo,32,primavera,0:30,6:15
+1.8,4,1.0,32.4,65.4,poco,procesada,Si,octubre,34,otoño,2:15,7:00
+5.9,1,3.0,31.9,54.0,poco,muy procesada,Si,enero,52,invierno,2:30,8:15
+7.5,0,1.0,35.7,26.1,nada,muy procesada,No,febrero,50,invierno,23:45,10:30
+9.4,1,6.0,23.3,72.8,medio,equilibrada,No,diciembre,64,invierno,23:45,7:30
+5.2,3,3.0,42.0,33.6,nada,equilibrada,No,febrero,40,invierno,2:30,10:30
+3.5,4,3.0,13.4,34.5,medio,procesada,No,febrero,25,invierno,22:45,5:45
+1.8,3,3.0,42.6,29.6,nada,procesada,Si,octubre,4,otoño,2:00,7:00
+5.3,3,3.0,37.4,36.0,poco,procesada,No,noviembre,51,otoño,23:15,7:15
+2.9,3,13.0,35.6,53.6,poco,muy procesada,Si,noviembre,42,otoño,20:30,10:00
+6.1,2,4.0,11.3,59.2,medio,ayuno,No,mayo,17,primavera,23:15,10:30
+4.6,4,4.0,43.6,29.3,poco,equilibrada,No,septiembre,24,otoño,1:30,6:45
+3.4,4,4.0,44.1,44.6,poco,equilibrada,No,febrero,48,invierno,21:30,5:45
+7.3,0,2.0,34.7,51.2,mucho,equilibrada,Si,junio,66,verano,21:30,7:00
+9.0,1,2.0,38.5,30.8,medio,equilibrada,No,abril,73,primavera,0:15,8:30
+4.3,4,3.0,32.0,39.3,nada,equilibrada,No,enero,56,invierno,23:30,7:00
+6.6,1,2.0,23.0,55.6,medio,ayuno,Si,julio,2,verano,1:15,9:00
+4.0,4,2.0,20.1,26.7,nada,procesada,No,octubre,0,otoño,0:15,7:00
+7.7,0,9.0,27.2,46.6,mucho,ayuno,Si,agosto,74,verano,20:30,6:00
+7.5,1,5.0,31.1,41.8,medio,equilibrada,Si,septiembre,39,otoño,21:30,7:15
+5.1,3,1.0,17.0,37.5,nada,procesada,No,enero,39,invierno,0:45,5:15
+6.5,3,5.0,23.9,41.8,medio,sana,No,abril,72,primavera,0:30,6:45
+5.4,3,2.0,39.2,74.6,nada,procesada,No,Desconocido,61,invierno,2:15,10:45
+4.8,4,3.0,17.7,76.9,medio,equilibrada,No,octubre,39,otoño,23:45,5:45
+5.2,3,4.0,41.5,48.5,poco,muy procesada,No,noviembre,10,otoño,2:00,8:15
+9.0,1,5.0,15.0,66.1,medio,sana,No,junio,65,verano,1:15,9:15
+4.9,1,6.0,30.6,42.0,nada,muy procesada,Si,noviembre,69,otoño,22:15,6:15
+9.3,1,4.0,35.5,39.0,mucho,ayuno,No,julio,68,verano,2:45,7:00
+4.8,3,2.0,22.3,49.3,medio,equilibrada,No,mayo,75,primavera,22:30,7:30
+4.5,3,10.0,43.3,49.1,medio,ayuno,Si,julio,28,verano,21:15,9:00
+2.4,4,1.0,20.3,72.6,medio,equilibrada,Si,septiembre,6,otoño,21:30,10:00
+2.6,3,4.0,17.2,27.9,poco,muy procesada,Si,diciembre,24,invierno,2:30,7:45
+6.4,2,7.0,35.3,70.6,nada,equilibrada,No,enero,10,invierno,20:30,5:00
+9.5,1,11.0,17.5,29.1,mucho,sana,No,abril,24,primavera,21:15,9:15
+3.7,4,3.0,20.5,39.3,medio,equilibrada,No,abril,64,primavera,2:30,9:00
+5.5,2,6.0,42.3,33.7,mucho,equilibrada,Si,marzo,44,primavera,21:15,7:15
+6.3,1,2.0,16.4,45.2,mucho,ayuno,Si,junio,63,verano,22:15,6:00
+3.8,3,3.0,12.1,42.2,nada,equilibrada,Si,octubre,47,otoño,1:30,6:30
+7.8,1,3.0,15.3,25.9,mucho,ayuno,No,abril,35,primavera,23:00,5:00
+5.8,1,1.0,23.2,38.4,nada,equilibrada,Si,diciembre,41,invierno,1:00,6:00
+3.2,2,8.0,16.4,49.2,medio,equilibrada,Si,febrero,4,invierno,20:00,9:45
+5.7,2,5.0,11.3,57.5,medio,equilibrada,Si,julio,23,verano,20:15,5:00
+4.0,2,7.0,34.9,28.0,poco,procesada,Si,septiembre,72,otoño,2:45,10:30
+1.1,4,2.0,32.7,30.5,medio,procesada,Si,noviembre,33,otoño,20:45,5:45
+6.8,2,6.0,12.8,33.7,mucho,sana,No,julio,65,verano,22:30,6:45
+3.0,3,1.0,37.0,69.3,medio,ayuno,Si,agosto,58,verano,22:15,6:45
+8.4,0,3.0,20.7,39.9,mucho,ayuno,Si,junio,15,verano,1:15,9:00
+6.8,1,4.0,39.3,72.0,mucho,ayuno,Si,abril,32,primavera,21:15,5:00
+3.1,3,3.0,36.6,77.6,poco,equilibrada,Si,octubre,68,otoño,20:30,8:15
+7.9,2,4.0,16.2,53.3,nada,equilibrada,No,octubre,78,otoño,2:00,10:00
+7.9,1,3.0,10.4,31.1,medio,ayuno,No,julio,68,verano,2:00,7:15
+6.3,3,7.0,14.5,79.1,medio,ayuno,No,junio,6,verano,2:15,10:30
+6.2,1,4.0,41.8,49.4,medio,equilibrada,Si,diciembre,59,invierno,23:45,6:00
+4.8,2,5.0,11.9,79.0,medio,sana,Si,mayo,61,primavera,21:45,8:00
+3.0,4,1.0,38.8,70.3,poco,muy procesada,No,febrero,64,invierno,21:15,7:30
+6.4,2,3.0,17.8,37.5,nada,equilibrada,No,octubre,30,otoño,1:30,6:00
+2.5,3,1.0,15.1,60.0,medio,procesada,Si,octubre,65,otoño,1:45,7:30
+1.9,3,4.0,20.0,29.1,nada,muy procesada,Si,septiembre,78,otoño,0:30,8:45
+2.6,4,7.0,11.6,62.4,nada,procesada,No,octubre,40,otoño,1:00,9:30
+2.2,3,3.0,11.2,59.2,poco,muy procesada,Si,octubre,53,otoño,20:00,9:15
+8.7,1,3.0,10.6,65.4,medio,sana,No,junio,8,verano,1:15,6:30
+7.4,1,2.0,27.7,68.9,mucho,equilibrada,Si,junio,59,verano,2:30,7:00
+10.0,0,9.0,22.3,25.8,mucho,sana,No,mayo,13,primavera,20:15,6:00
+7.7,2,2.0,25.9,79.2,nada,equilibrada,No,diciembre,73,invierno,22:45,9:45
+9.1,1,9.0,21.8,38.3,nada,equilibrada,No,septiembre,9,otoño,20:30,7:30
+6.2,3,2.0,32.5,38.9,medio,equilibrada,No,agosto,35,verano,0:15,7:45
+7.0,1,4.0,43.1,76.5,medio,procesada,No,noviembre,43,otoño,20:45,9:30
+1.6,4,2.0,19.3,43.9,medio,ayuno,Si,junio,74,verano,21:30,5:00
+8.8,1,6.0,38.6,30.7,nada,equilibrada,No,noviembre,15,otoño,23:30,7:45
+7.9,2,3.0,30.9,78.8,mucho,sana,No,marzo,43,primavera,0:00,7:15
+1.5,3,5.0,25.1,66.9,poco,procesada,Si,diciembre,52,invierno,22:15,5:00
+7.6,1,3.0,22.3,32.0,nada,procesada,No,enero,65,invierno,0:30,5:15
+3.3,4,2.0,37.4,53.3,poco,muy procesada,No,septiembre,46,otoño,23:00,5:30
+3.0,4,8.0,10.0,53.7,medio,ayuno,No,agosto,71,verano,21:30,7:15
+10.0,0,1.0,16.2,59.6,mucho,equilibrada,No,marzo,73,primavera,23:45,5:00
+1.0,4,6.0,12.9,35.8,nada,procesada,Si,octubre,48,otoño,20:00,6:45
+7.0,2,4.0,26.9,77.8,mucho,sana,No,agosto,14,verano,23:15,5:45
+7.3,2,5.0,40.3,64.3,medio,sana,No,julio,44,verano,20:30,9:45
+10.0,0,9.0,-24.8,73.8,mucho,sana,No,abril,4,primavera,21:30,8:30
+2.4,4,2.0,21.1,64.4,medio,procesada,No,diciembre,66,invierno,0:30,7:45
+8.0,2,3.0,23.3,45.3,medio,equilibrada,No,septiembre,49,otoño,1:15,6:15
+9.1,0,4.0,36.0,79.8,mucho,sana,No,agosto,41,verano,0:45,5:45
+7.2,1,4.0,16.4,65.9,nada,procesada,No,enero,32,invierno,0:30,7:00
+7.6,0,3.0,35.0,48.6,mucho,ayuno,Si,abril,15,primavera,2:30,9:00
+6.3,1,5.0,24.2,60.8,mucho,equilibrada,Si,junio,58,verano,23:45,6:45
+3.0,4,3.0,31.8,44.6,medio,sana,No,junio,35,verano,0:15,5:30
+4.4,3,5.0,30.6,37.7,poco,muy procesada,No,enero,23,invierno,1:30,7:00
+6.5,1,6.0,44.2,34.4,mucho,sana,Si,agosto,52,verano,23:30,7:30
+2.9,3,6.0,41.7,32.2,medio,equilibrada,Si,agosto,49,verano,0:30,7:00
+10.0,0,4.0,12.2,46.9,mucho,ayuno,No,mayo,43,primavera,22:15,6:15
+6.2,0,3.0,42.5,39.4,mucho,equilibrada,Si,julio,25,verano,21:45,7:30
+7.9,2,3.0,42.9,74.5,medio,ayuno,No,abril,7,primavera,1:15,9:30
+4.5,2,3.0,10.4,51.3,poco,procesada,Si,octubre,14,otoño,23:15,5:00
+8.3,1,4.0,37.7,55.8,medio,equilibrada,No,marzo,25,primavera,0:30,5:45
+6.0,2,4.0,26.1,30.5,medio,equilibrada,No,noviembre,37,otoño,0:45,5:30
+7.8,1,3.0,38.9,67.7,medio,ayuno,No,agosto,1,verano,0:00,7:15
+8.8,1,6.0,43.3,53.7,mucho,equilibrada,No,agosto,27,verano,21:30,10:00
+3.1,2,3.0,29.8,46.2,nada,muy procesada,Si,noviembre,16,otoño,22:30,5:00
+7.9,2,7.0,27.4,77.8,mucho,sana,No,junio,54,verano,23:45,7:00
+3.6,4,1.0,18.7,53.7,poco,procesada,No,octubre,4,otoño,22:15,6:15
+5.3,3,1.0,32.5,73.2,medio,ayuno,No,junio,31,verano,23:00,5:45
+6.4,3,2.0,24.2,61.3,medio,ayuno,No,Desconocido,75,verano,1:45,7:00
+7.4,2,5.0,34.0,25.7,mucho,equilibrada,No,junio,76,verano,0:45,6:15
+7.6,1,3.0,27.2,31.9,nada,procesada,No,diciembre,26,invierno,23:15,7:15
+3.4,3,4.0,36.1,76.9,poco,equilibrada,Si,septiembre,10,otoño,1:00,6:15
+10.0,0,4.0,35.8,70.8,mucho,equilibrada,No,marzo,2,primavera,2:30,7:00
+7.9,1,1.0,23.6,72.2,poco,equilibrada,No,febrero,25,invierno,1:45,6:45
+4.6,3,7.0,44.5,49.1,medio,ayuno,No,junio,76,verano,22:15,6:00
+6.0,2,5.0,27.5,55.1,medio,equilibrada,No,junio,33,verano,23:30,6:00
+6.4,1,2.0,27.8,60.0,medio,procesada,Si,noviembre,79,otoño,1:45,6:00
+4.5,3,5.0,23.9,44.0,nada,muy procesada,No,diciembre,17,invierno,23:30,7:00
+2.3,4,8.0,44.6,29.5,medio,ayuno,Si,julio,21,verano,20:45,8:30
+8.0,0,1.0,15.7,43.4,medio,equilibrada,No,octubre,77,otoño,2:30,8:00
+3.4,3,4.0,38.3,46.0,medio,procesada,Si,diciembre,65,invierno,20:15,7:45
+6.1,2,10.0,18.8,41.7,medio,procesada,No,noviembre,67,otoño,20:45,8:45
+4.2,3,1.0,43.0,58.5,medio,equilibrada,Si,abril,10,primavera,0:15,6:00
+3.7,4,6.0,22.0,77.9,medio,sana,No,agosto,15,verano,20:45,8:15
+2.1,4,11.0,35.7,30.2,medio,procesada,No,enero,34,invierno,20:45,9:15
+7.9,2,6.0,12.3,61.9,medio,ayuno,No,agosto,66,verano,1:45,8:00
+6.8,1,4.0,11.7,72.6,medio,sana,Si,julio,42,verano,22:45,5:00
+8.4,1,7.0,12.3,31.7,poco,muy procesada,No,noviembre,44,otoño,21:00,8:30
+2.0,4,4.0,42.6,26.9,medio,procesada,No,diciembre,77,invierno,1:15,6:00
+4.6,3,8.0,44.6,61.7,medio,equilibrada,No,febrero,71,invierno,20:00,8:45
+7.8,1,6.0,31.3,43.5,medio,equilibrada,No,marzo,75,primavera,21:45,9:30
+4.8,2,4.0,16.0,61.2,medio,ayuno,Si,junio,7,verano,0:15,8:45
+9.0,0,5.0,17.7,48.4,mucho,sana,No,agosto,56,verano,20:15,5:15
+7.5,2,1.0,16.4,56.1,medio,sana,No,abril,72,primavera,21:45,11:00
+3.5,4,5.0,29.7,37.0,medio,ayuno,No,junio,35,verano,23:45,6:30
+9.9,0,4.0,39.6,80.0,mucho,sana,No,mayo,33,primavera,1:00,8:00
+4.4,2,6.0,43.9,57.5,medio,sana,Si,agosto,80,verano,22:00,5:15
+4.2,2,5.0,33.5,74.5,poco,equilibrada,Si,octubre,80,otoño,2:00,9:45
+9.8,0,3.0,27.5,52.1,mucho,ayuno,No,julio,15,verano,22:00,5:00
+7.5,1,12.0,18.8,72.4,medio,procesada,No,enero,34,invierno,21:30,10:00
+6.9,1,4.0,12.1,57.7,mucho,ayuno,Si,junio,29,verano,23:15,6:15
+6.0,2,2.0,26.5,45.5,medio,sana,No,mayo,54,primavera,20:00,11:00
+7.9,2,3.0,15.4,26.5,mucho,ayuno,No,mayo,66,primavera,0:30,6:30
+8.8,0,7.0,18.4,75.6,mucho,equilibrada,Si,mayo,59,primavera,21:45,10:15
+5.3,3,1.0,13.5,60.7,medio,sana,No,marzo,10,primavera,21:00,8:45
+3.9,3,4.0,42.9,60.1,medio,equilibrada,Si,mayo,40,primavera,21:15,5:30
+6.2,1,4.0,38.2,31.2,mucho,ayuno,No,abril,76,primavera,1:00,6:45
+4.6,3,7.0,27.1,55.3,medio,sana,No,mayo,7,primavera,23:30,9:00
+2.6,3,7.0,22.6,68.6,medio,sana,Si,junio,71,verano,2:00,10:30
+7.5,2,7.0,20.9,35.7,medio,equilibrada,No,julio,17,verano,21:30,5:45
+9.7,0,3.0,14.4,50.2,mucho,ayuno,No,abril,55,primavera,20:45,6:30
+2.6,4,3.0,20.2,68.0,poco,muy procesada,No,febrero,36,invierno,2:45,10:30
+4.1,4,2.0,19.6,28.4,medio,ayuno,No,agosto,36,verano,22:00,5:45
+9.4,0,1.0,22.1,34.2,mucho,equilibrada,No,abril,36,primavera,1:30,6:00
+7.9,2,2.0,15.7,39.0,mucho,ayuno,No,abril,49,primavera,22:15,5:00
+2.4,3,1.0,44.1,45.8,nada,equilibrada,Si,noviembre,29,otoño,23:15,5:00
+5.4,2,3.0,24.9,66.2,poco,equilibrada,Si,noviembre,60,otoño,20:00,6:45
+7.2,2,1.0,43.9,77.5,medio,equilibrada,No,octubre,49,otoño,0:45,7:00
+7.2,1,3.0,13.6,51.5,medio,sana,Si,abril,32,primavera,21:45,11:45
+2.8,4,6.0,34.0,31.0,medio,equilibrada,Si,noviembre,57,otoño,22:30,5:00
+8.9,1,2.0,19.0,74.7,mucho,sana,No,mayo,68,primavera,0:45,5:00
+5.5,2,1.0,16.6,78.5,medio,procesada,No,febrero,72,invierno,23:00,7:00
+3.3,3,5.0,41.9,37.4,nada,procesada,Si,septiembre,21,otoño,1:00,8:45
+2.9,4,2.0,31.2,33.7,poco,muy procesada,No,febrero,26,invierno,22:30,6:45
+4.8,2,5.0,27.4,31.4,medio,muy procesada,Si,noviembre,72,otoño,20:45,9:15
+2.9,4,3.0,11.9,32.6,medio,ayuno,Si,agosto,53,verano,2:45,8:30
+3.1,2,6.0,27.0,67.3,poco,procesada,Si,enero,19,invierno,0:15,7:15
+1.6,3,2.0,19.7,79.7,nada,procesada,Si,octubre,27,otoño,1:00,6:45
+7.5,1,8.0,20.7,68.9,medio,muy procesada,No,enero,4,invierno,21:00,7:30
+8.3,1,3.0,20.9,51.2,mucho,ayuno,No,marzo,5,primavera,23:30,8:00
+4.6,1,3.0,25.4,53.4,medio,muy procesada,Si,febrero,75,invierno,2:00,7:15
+3.5,3,5.0,Desconocido,68.4,nada,muy procesada,No,septiembre,14,otoño,0:15,8:45
+8.5,0,2.0,32.0,62.1,mucho,sana,Si,abril,7,primavera,21:45,7:00
+9.3,0,7.0,37.7,51.5,mucho,ayuno,No,agosto,33,verano,22:30,6:45
+3.0,3,8.0,15.6,43.4,poco,muy procesada,Si,septiembre,61,otoño,20:45,10:00
+7.7,1,3.0,29.3,31.1,nada,procesada,No,octubre,19,otoño,21:30,5:00
+6.7,2,5.0,21.9,43.1,nada,procesada,No,febrero,71,invierno,23:15,10:00
+7.7,2,5.0,18.4,70.5,mucho,ayuno,No,abril,41,primavera,20:45,5:00
+3.7,3,8.0,22.0,39.1,medio,equilibrada,Si,marzo,60,primavera,23:45,11:00
+7.1,0,4.0,16.0,50.6,mucho,ayuno,Si,abril,61,primavera,0:30,5:30
+7.4,1,4.0,21.7,67.3,mucho,sana,Si,abril,29,primavera,1:15,7:45
+9.3,1,6.0,15.3,30.1,medio,ayuno,No,marzo,5,primavera,23:00,6:00
+5.4,3,5.0,34.9,58.6,nada,muy procesada,No,enero,60,invierno,21:30,8:00
+6.4,3,2.0,10.7,25.4,medio,ayuno,No,mayo,70,primavera,23:00,6:45
+7.1,1,2.0,10.1,33.7,mucho,ayuno,No,agosto,75,verano,1:30,9:30
+10.0,0,1.0,24.0,71.8,mucho,equilibrada,No,marzo,39,primavera,2:45,10:45
+5.7,3,7.0,18.7,48.3,medio,equilibrada,No,febrero,14,invierno,22:00,6:30
+4.8,4,1.0,10.5,66.6,medio,ayuno,No,julio,4,verano,22:45,6:30
+4.4,2,6.0,11.5,27.0,medio,sana,Si,julio,16,verano,21:30,5:30
+5.9,2,3.0,21.1,55.5,poco,procesada,No,enero,62,invierno,0:30,6:30
+5.3,3,6.0,41.0,74.7,medio,equilibrada,No,noviembre,55,otoño,22:30,5:00
+3.2,4,9.0,28.0,50.6,medio,ayuno,No,agosto,40,verano,21:30,9:00
+5.3,3,6.0,29.1,63.9,poco,muy procesada,No,noviembre,75,otoño,23:30,6:45
+5.4,3,6.0,43.1,78.7,medio,equilibrada,No,marzo,70,primavera,21:45,5:00
+7.6,0,2.0,12.8,27.5,mucho,ayuno,Si,junio,30,verano,2:00,7:30
+7.5,2,4.0,39.4,50.0,mucho,ayuno,No,junio,8,verano,0:00,6:00
+7.3,1,2.0,11.1,25.3,nada,procesada,No,noviembre,3,otoño,21:00,11:00
+9.3,1,5.0,14.7,39.0,mucho,equilibrada,No,julio,59,verano,23:15,6:00
+5.0,1,5.0,35.1,69.8,poco,procesada,Si,noviembre,34,otoño,0:45,8:15
+7.5,0,4.0,23.3,78.6,poco,procesada,No,febrero,1,invierno,0:30,6:15
+6.3,1,1.0,33.1,49.9,nada,muy procesada,Si,octubre,74,otoño,22:30,6:00
+7.1,1,1.0,24.5,62.1,medio,muy procesada,No,septiembre,60,otoño,2:45,10:00
+5.9,2,4.0,26.1,51.0,medio,ayuno,Si,agosto,49,verano,2:15,7:30
+100.0,4,4.0,15.6,54.6,medio,procesada,Si,enero,0,invierno,1:15,6:15
+9.1,0,5.0,14.1,30.3,mucho,sana,No,marzo,29,primavera,23:00,5:00
+3.3,3,2.0,30.8,40.2,medio,ayuno,Si,julio,70,verano,0:15,6:45
+6.5,1,5.0,31.4,36.8,nada,equilibrada,No,diciembre,30,invierno,22:00,5:45
+7.5,0,7.0,31.7,33.2,mucho,equilibrada,Si,marzo,34,primavera,20:30,5:15
+4.0,4,4.0,17.7,39.0,medio,equilibrada,No,septiembre,49,otoño,21:30,7:15
+4.3,2,2.0,16.6,29.2,mucho,equilibrada,Si,agosto,50,verano,1:00,6:45
+5.1,2,5.0,35.3,78.6,nada,muy procesada,No,diciembre,33,invierno,1:45,8:00
+4.8,3,4.0,30.6,28.5,medio,equilibrada,No,noviembre,61,otoño,2:30,8:45
+9.9,0,4.0,18.7,65.2,mucho,equilibrada,No,mayo,6,primavera,22:45,5:30
+4.5,3,5.0,32.9,65.8,medio,equilibrada,Si,septiembre,10,otoño,20:00,9:00
+3.2,4,6.0,Desconocido,46.7,medio,equilibrada,No,octubre,38,otoño,2:45,10:45
+1.1,4,2.0,13.8,33.3,medio,ayuno,Si,mayo,37,primavera,23:30,10:45
+9.0,0,11.0,38.1,71.3,mucho,sana,No,mayo,51,primavera,20:00,10:15
+8.6,1,7.0,14.5,47.0,medio,equilibrada,No,octubre,38,otoño,22:15,6:45
+3.3,4,5.0,28.2,71.5,poco,equilibrada,No,octubre,58,otoño,0:45,8:30
+5.6,1,2.0,21.8,36.7,medio,equilibrada,Si,febrero,63,invierno,0:00,8:15
+5.5,3,3.0,23.9,31.3,medio,ayuno,No,junio,13,verano,1:15,6:30
+8.8,1,2.0,32.0,64.4,mucho,equilibrada,No,julio,18,verano,22:15,5:15
+7.4,1,2.0,20.7,47.9,poco,muy procesada,No,enero,10,invierno,0:30,6:00
+6.6,2,7.0,11.3,75.8,nada,muy procesada,No,octubre,26,otoño,21:00,9:45
+2.9,4,1.0,27.0,28.0,nada,muy procesada,No,febrero,31,invierno,2:15,8:30
+7.5,1,3.0,24.4,26.0,medio,equilibrada,No,mayo,53,primavera,2:00,8:00
+7.3,0,2.0,27.1,50.1,mucho,ayuno,Si,mayo,54,primavera,2:30,7:15
+6.9,2,5.0,27.1,38.8,mucho,ayuno,No,agosto,12,verano,1:45,7:45
+4.6,3,2.0,17.7,47.9,nada,procesada,No,octubre,51,otoño,1:15,6:15
+5.2,2,3.0,38.9,25.3,poco,muy procesada,No,noviembre,22,otoño,1:30,9:45
+6.3,2,5.0,18.4,36.7,medio,muy procesada,No,octubre,16,otoño,0:15,8:30
+4.4,4,6.0,44.1,35.2,medio,equilibrada,No,marzo,19,primavera,21:15,7:15
+5.3,2,11.0,11.2,35.4,poco,muy procesada,No,septiembre,68,otoño,21:00,11:15
+6.5,2,2.0,37.9,46.6,mucho,ayuno,No,agosto,11,verano,2:30,10:30
+6.3,1,1.0,21.3,26.4,nada,muy procesada,Si,noviembre,47,otoño,1:00,8:15
+5.2,2,1.0,22.1,54.0,mucho,ayuno,Si,agosto,69,verano,0:00,5:00
+8.4,1,7.0,29.8,29.9,mucho,ayuno,No,mayo,36,primavera,21:15,10:00
+5.2,2,5.0,34.8,46.4,nada,muy procesada,No,octubre,35,otoño,22:15,6:30
+6.2,3,6.0,22.1,69.3,medio,equilibrada,No,agosto,31,verano,21:30,9:45
+2.4,3,2.0,13.3,50.0,medio,ayuno,Si,junio,37,verano,2:30,10:30
+4.2,3,6.0,34.9,63.5,medio,sana,Si,mayo,5,primavera,22:15,5:30
+6.7,1,2.0,35.1,79.4,mucho,ayuno,Si,mayo,9,primavera,2:45,8:30
+7.0,2,5.0,10.2,64.7,poco,equilibrada,No,febrero,70,invierno,0:45,6:30
+5.1,2,5.0,24.8,75.2,mucho,equilibrada,Si,julio,23,verano,1:30,7:15
+7.6,1,1.0,31.3,44.5,mucho,ayuno,No,agosto,55,verano,20:15,9:00
+9.1,1,4.0,32.0,55.5,mucho,equilibrada,No,marzo,52,primavera,1:45,9:30
+8.0,1,3.0,13.3,26.3,mucho,ayuno,No,junio,65,verano,23:30,6:00
+8.5,1,7.0,16.3,47.0,medio,procesada,No,octubre,61,otoño,21:00,10:45
+5.2,2,2.0,23.6,58.0,mucho,equilibrada,Si,abril,29,primavera,2:30,9:00
+5.3,2,6.0,30.2,64.4,poco,procesada,No,febrero,43,invierno,2:00,10:30
+5.0,2,7.0,25.5,36.1,poco,equilibrada,No,noviembre,3,otoño,21:00,9:00
+5.5,3,2.0,16.2,25.7,nada,equilibrada,No,enero,60,invierno,21:00,11:00
+8.5,1,6.0,25.4,59.8,medio,muy procesada,No,octubre,1,otoño,0:15,8:45
+6.6,2,2.0,43.4,54.0,mucho,ayuno,No,mayo,60,primavera,2:15,10:15
+5.0,4,6.0,26.8,51.5,medio,ayuno,No,julio,31,verano,0:00,8:30
+6.1,2,11.0,11.0,56.6,medio,ayuno,No,abril,76,primavera,20:15,11:45
+8.8,1,4.0,12.2,50.6,mucho,ayuno,No,julio,62,verano,22:45,6:15
+9.7,0,5.0,14.2,32.9,mucho,ayuno,No,junio,55,verano,21:15,5:30
+5.6,2,5.0,31.7,78.1,mucho,ayuno,Si,junio,64,verano,2:15,9:45
+10.0,0,3.0,32.1,50.7,mucho,equilibrada,No,marzo,70,primavera,0:00,5:45
+4.7,3,1.0,11.8,36.3,nada,equilibrada,No,octubre,25,otoño,2:45,7:30
+9.4,1,4.0,40.2,61.2,medio,ayuno,No,junio,13,verano,1:30,7:00
+7.9,0,3.0,25.1,59.9,nada,equilibrada,No,octubre,53,otoño,0:15,8:00
+4.0,4,3.0,31.9,49.2,medio,equilibrada,No,marzo,64,primavera,0:00,7:45
+5.9,3,2.0,38.7,31.1,medio,equilibrada,No,septiembre,31,otoño,2:00,9:45
+8.3,0,2.0,20.9,47.2,mucho,sana,Si,julio,45,verano,21:45,5:00
+9.3,1,2.0,29.9,70.3,mucho,sana,No,mayo,60,primavera,0:45,6:00
+8.5,1,3.0,44.8,44.8,medio,sana,No,junio,73,verano,0:15,8:00
+5.5,1,1.0,24.8,27.1,mucho,equilibrada,Si,agosto,77,verano,23:45,6:00
+6.4,3,3.0,26.6,65.0,poco,equilibrada,No,octubre,20,otoño,21:30,6:30
+7.2,1,6.0,40.0,40.0,nada,equilibrada,Si,septiembre,44,otoño,21:15,11:45
+7.1,2,3.0,15.5,77.8,nada,equilibrada,No,noviembre,72,otoño,0:30,5:30
+7.9,1,3.0,38.5,51.2,nada,procesada,No,febrero,1,invierno,2:45,8:45
+6.6,1,2.0,19.8,26.2,nada,procesada,No,febrero,65,invierno,2:45,8:30
+5.0,2,2.0,30.2,72.1,nada,procesada,No,diciembre,15,invierno,2:30,8:00
+3.2,4,4.0,21.0,48.7,poco,muy procesada,No,diciembre,59,invierno,0:30,7:30
+6.5,2,3.0,41.5,59.6,mucho,sana,No,marzo,8,primavera,21:45,9:30
+3.6,3,1.0,10.6,37.6,medio,equilibrada,Si,febrero,36,invierno,22:45,5:15
+6.8,1,8.0,17.4,47.5,poco,muy procesada,No,enero,71,invierno,21:00,6:15
+1.7,4,5.0,15.3,63.0,poco,procesada,Si,noviembre,53,otoño,22:30,5:15
+Desconocido,3,4.0,26.1,50.9,poco,equilibrada,No,septiembre,80,otoño,1:00,6:30
+8.8,1,1.0,10.9,74.8,mucho,ayuno,No,mayo,25,primavera,0:15,5:15
+6.3,0,2.0,42.3,40.4,mucho,ayuno,Si,marzo,37,primavera,23:00,11:45
+8.0,2,10.0,39.1,60.9,medio,equilibrada,No,septiembre,7,otoño,20:15,10:15
+4.5,4,5.0,40.9,64.0,medio,equilibrada,No,febrero,45,invierno,23:00,7:45
+6.5,1,4.0,34.5,32.3,medio,procesada,Si,octubre,71,otoño,2:15,9:30
+7.7,1,3.0,37.7,62.4,nada,muy procesada,No,octubre,57,otoño,2:15,8:00
+7.7,2,2.0,12.0,44.3,medio,equilibrada,No,agosto,48,verano,2:15,7:45
+3.5,4,3.0,25.7,55.0,medio,procesada,No,diciembre,72,invierno,2:30,10:45
+7.0,2,3.0,Desconocido,55.5,mucho,equilibrada,No,julio,1,verano,0:15,6:30
+4.2,4,5.0,39.7,47.5,medio,sana,No,agosto,74,verano,20:45,10:15
+8.6,1,4.0,38.5,44.2,poco,equilibrada,No,enero,31,invierno,22:45,5:30
+9.3,0,6.0,18.3,69.8,mucho,sana,No,mayo,63,primavera,21:30,11:00
+7.0,2,10.0,43.0,41.7,mucho,equilibrada,No,julio,21,verano,21:15,10:45
+9.0,0,6.0,21.3,29.9,mucho,sana,No,mayo,26,primavera,21:45,5:45
+7.8,2,2.0,36.9,27.0,mucho,ayuno,No,abril,29,primavera,22:45,5:15
+3.1,4,5.0,31.4,40.8,poco,procesada,No,octubre,68,otoño,22:15,6:30
+5.1,2,1.0,13.1,66.1,nada,equilibrada,Si,Desconocido,17,invierno,23:45,7:45
+9.0,0,6.0,38.2,52.4,mucho,sana,No,agosto,36,verano,22:00,6:45
+1.4,4,7.0,39.8,37.8,medio,sana,Si,julio,41,verano,20:00,11:15
+6.1,3,3.0,11.6,37.1,medio,sana,No,abril,48,primavera,0:15,5:15
+7.0,0,3.0,41.3,28.4,mucho,sana,Si,marzo,22,primavera,2:30,7:45
+3.0,4,1.0,36.1,74.5,medio,equilibrada,Si,julio,65,verano,2:15,7:30
+10.0,0,2.0,42.5,37.8,mucho,sana,No,abril,36,primavera,23:00,7:45
+6.4,3,2.0,26.2,72.3,nada,equilibrada,No,enero,1,invierno,20:15,8:30
+9.2,1,3.0,14.5,52.8,medio,ayuno,No,mayo,26,primavera,2:30,9:30
+8.8,1,1.0,18.5,40.7,poco,equilibrada,No,septiembre,49,otoño,23:30,11:45
+3.7,3,1.0,11.8,43.8,nada,procesada,No,septiembre,8,otoño,2:45,7:15
+3.6,3,9.0,17.3,53.9,poco,equilibrada,Si,octubre,54,otoño,20:15,7:30
+6.0,2,2.0,15.4,45.6,mucho,ayuno,No,abril,51,primavera,1:15,8:45
+2.3,4,1.0,25.2,46.3,medio,ayuno,Si,abril,71,primavera,2:15,9:45
+4.0,4,12.0,17.9,30.9,medio,ayuno,No,abril,16,primavera,20:30,9:00
+6.4,2,1.0,37.0,43.1,mucho,ayuno,No,agosto,49,verano,21:15,7:00
+6.5,2,6.0,42.1,63.1,mucho,equilibrada,No,mayo,2,primavera,23:00,6:45
+8.1,1,2.0,31.6,50.2,medio,equilibrada,No,marzo,23,primavera,0:45,5:30
+3.0,4,1.0,16.7,56.9,nada,procesada,No,septiembre,34,otoño,2:45,7:45
+6.7,1,5.0,24.2,73.8,medio,sana,Si,junio,0,verano,1:30,7:30
+6.3,1,8.0,17.3,72.4,mucho,ayuno,Si,marzo,33,primavera,20:15,7:45
+8.4,0,4.0,39.9,66.0,mucho,ayuno,Si,julio,64,verano,23:45,5:15
+Desconocido,3,8.0,42.8,44.3,medio,equilibrada,Si,marzo,12,primavera,20:45,5:45
+7.7,1,2.0,10.4,39.9,medio,ayuno,No,abril,10,primavera,0:00,6:30
+2.7,3,4.0,34.0,55.9,nada,procesada,Si,noviembre,32,otoño,2:45,8:30
+7.8,0,2.0,35.0,41.0,mucho,sana,No,marzo,1,primavera,23:45,6:30
+3.4,4,11.0,15.8,66.0,medio,ayuno,No,agosto,6,verano,20:45,9:00
+7.4,1,1.0,35.3,73.7,mucho,equilibrada,Si,junio,33,verano,1:45,6:45
+4.7,3,1.0,33.1,30.2,medio,equilibrada,No,junio,39,verano,22:45,6:15
+8.7,1,1.0,17.0,74.6,mucho,sana,No,mayo,62,primavera,0:30,6:15
+3.0,3,2.0,38.0,67.6,medio,procesada,Si,octubre,67,otoño,0:00,8:15
+6.9,1,5.0,30.5,68.1,medio,equilibrada,Si,noviembre,2,otoño,1:45,7:00
+7.4,2,2.0,18.6,56.0,mucho,sana,No,marzo,9,primavera,1:30,7:00
+6.9,1,2.0,28.0,28.5,medio,sana,Si,junio,59,verano,20:30,7:45
+7.7,1,4.0,23.7,29.0,medio,equilibrada,No,febrero,6,invierno,23:15,5:00
+9.5,0,10.0,27.5,63.7,mucho,equilibrada,No,julio,77,verano,22:30,11:15
+3.5,2,9.0,41.5,71.2,nada,muy procesada,Si,febrero,32,invierno,21:45,11:00
+7.7,1,3.0,20.7,77.6,mucho,equilibrada,No,mayo,5,primavera,0:00,5:15
+6.8,2,3.0,17.9,26.7,mucho,equilibrada,No,agosto,74,verano,20:45,7:30
+5.0,4,9.0,15.4,73.3,medio,equilibrada,No,mayo,4,primavera,20:15,6:30
+4.7,1,3.0,22.0,36.2,nada,equilibrada,Si,noviembre,66,otoño,23:15,7:15
+4.0,4,4.0,19.6,42.5,medio,procesada,No,noviembre,1,otoño,0:00,6:15
+5.4,2,1.0,40.1,79.1,medio,sana,Si,marzo,13,primavera,1:00,9:30
+7.4,1,3.0,23.7,37.5,nada,procesada,No,enero,19,invierno,1:45,6:30
+3.4,2,3.0,31.1,74.9,poco,muy procesada,Si,enero,75,invierno,21:30,6:30
+7.7,0,3.0,21.0,30.1,medio,equilibrada,No,junio,6,verano,23:30,5:45
+7.9,2,2.0,20.2,43.2,medio,equilibrada,No,agosto,16,verano,22:45,6:30
+6.5,3,6.0,43.4,64.3,nada,equilibrada,No,noviembre,63,otoño,20:00,5:45
+7.6,0,2.0,38.1,51.4,poco,equilibrada,No,diciembre,20,invierno,21:30,6:15
+5.8,3,4.0,12.3,59.2,nada,equilibrada,No,diciembre,32,invierno,0:45,6:30
+4.2,3,10.0,39.0,58.5,nada,muy procesada,No,enero,67,invierno,20:15,7:30
+3.5,3,4.0,25.8,51.8,medio,sana,Si,junio,51,verano,22:30,7:30
+5.2,2,5.0,32.0,32.2,nada,procesada,No,enero,40,invierno,22:45,6:45
+6.9,1,5.0,14.9,43.9,nada,muy procesada,No,diciembre,51,invierno,0:45,6:45
+4.7,3,4.0,22.2,29.0,nada,equilibrada,No,febrero,27,invierno,1:45,6:45
+6.6,1,4.0,14.5,65.7,medio,equilibrada,Si,enero,36,invierno,22:00,9:00
+2.1,4,5.0,38.4,73.6,nada,muy procesada,No,noviembre,73,otoño,1:00,8:30
+3.8,3,2.0,26.4,66.4,medio,equilibrada,Si,mayo,21,primavera,21:45,11:15
+3.9,4,6.0,27.9,70.6,poco,muy procesada,No,diciembre,21,invierno,23:00,6:30
+7.9,2,1.0,12.8,29.7,medio,equilibrada,No,junio,1,verano,21:30,6:00
+7.5,2,1.0,36.1,73.1,medio,ayuno,No,mayo,4,primavera,21:15,5:15
+4.3,4,3.0,22.2,72.7,medio,sana,No,julio,77,verano,20:00,5:45
+1.3,4,1.0,32.7,36.2,nada,procesada,Si,enero,44,invierno,22:30,5:15
+6.7,0,6.0,26.6,73.9,nada,muy procesada,No,diciembre,12,invierno,20:00,8:00
+9.1,1,1.0,44.9,65.8,mucho,equilibrada,No,mayo,9,primavera,20:00,10:30
+5.6,1,5.0,32.9,42.0,medio,equilibrada,Si,abril,1,primavera,2:45,9:00
+3.4,2,5.0,20.7,41.7,poco,muy procesada,Si,febrero,38,invierno,1:15,8:00
+6.4,2,8.0,12.9,50.0,medio,equilibrada,No,marzo,54,primavera,23:30,8:15
+4.4,2,1.0,28.4,41.3,mucho,equilibrada,Si,julio,50,verano,23:15,7:00
+7.2,1,13.0,39.6,27.3,poco,muy procesada,No,septiembre,9,otoño,20:45,11:15
+4.8,3,2.0,45.0,73.5,medio,equilibrada,No,agosto,37,verano,21:15,7:15
+4.7,4,6.0,27.1,65.8,medio,equilibrada,No,agosto,13,verano,0:30,8:00
+6.5,2,7.0,19.3,63.3,mucho,equilibrada,No,julio,27,verano,21:15,5:00
+7.4,1,2.0,23.7,59.6,poco,procesada,No,febrero,44,invierno,0:00,6:15
+7.4,0,2.0,29.9,34.6,mucho,sana,Si,marzo,47,primavera,1:30,9:30
+8.8,1,2.0,16.0,56.0,mucho,equilibrada,No,mayo,6,primavera,1:15,9:15
+10.0,0,9.0,22.5,30.4,mucho,sana,No,marzo,39,primavera,20:45,10:30
+1.5,4,9.0,19.1,57.5,medio,equilibrada,Si,diciembre,49,invierno,22:45,8:15
+7.2,0,5.0,11.5,32.3,mucho,ayuno,Si,junio,48,verano,23:45,5:30
+8.8,1,9.0,10.1,33.9,mucho,ayuno,No,junio,42,verano,20:00,6:45
+3.5,4,8.0,44.0,73.3,nada,muy procesada,No,diciembre,74,invierno,23:30,10:00
+6.0,1,11.0,22.7,68.3,nada,procesada,Si,octubre,62,otoño,20:45,10:30
+7.0,2,1.0,11.2,47.2,poco,equilibrada,No,septiembre,30,otoño,22:00,7:45
+7.4,1,4.0,11.8,44.5,poco,muy procesada,No,octubre,52,verano,23:15,6:30
+4.2,4,3.0,28.5,26.4,medio,equilibrada,No,Desconocido,45,otoño,2:15,9:00
+6.9,2,1.0,14.5,55.5,mucho,ayuno,No,julio,69,verano,20:15,7:30
+8.6,1,4.0,34.7,33.7,mucho,ayuno,No,junio,61,verano,23:15,6:30
+8.2,0,2.0,25.1,71.2,mucho,ayuno,Si,mayo,1,primavera,23:45,7:30
+4.1,2,3.0,25.1,47.2,medio,equilibrada,Si,mayo,51,primavera,2:00,7:30
+5.9,3,2.0,15.7,74.8,nada,equilibrada,No,enero,11,verano,1:30,8:15
+2.8,3,2.0,27.9,72.2,nada,equilibrada,Si,septiembre,59,otoño,2:00,8:00
+3.6,3,6.0,21.4,52.3,medio,ayuno,Si,agosto,56,verano,1:00,9:45
+6.4,2,11.0,42.0,66.7,medio,muy procesada,No,diciembre,66,invierno,21:30,9:30
+4.4,3,4.0,12.8,29.6,medio,ayuno,Si,junio,77,verano,2:15,7:45
+6.4,0,4.0,22.7,40.4,medio,sana,Si,abril,31,primavera,0:45,5:45
+8.4,1,7.0,39.5,60.7,mucho,sana,No,julio,52,verano,21:00,6:00
+6.3,0,6.0,23.6,41.2,mucho,sana,Si,marzo,50,primavera,2:30,9:30
+6.9,2,10.0,42.8,56.1,nada,muy procesada,No,noviembre,53,otoño,22:00,10:00
+5.5,2,7.0,24.5,54.5,mucho,sana,Si,mayo,30,primavera,2:30,10:30
+8.4,1,3.0,14.7,37.8,nada,equilibrada,No,noviembre,77,otoño,23:45,5:15
+8.1,1,1.0,22.0,30.3,medio,equilibrada,No,septiembre,59,otoño,1:00,6:00
+7.6,1,6.0,21.8,78.1,medio,equilibrada,No,junio,39,verano,2:15,10:45
+7.0,1,3.0,42.2,72.5,nada,muy procesada,No,enero,39,invierno,23:30,7:15
+1.0,4,1.0,22.0,74.4,medio,muy procesada,Si,noviembre,4,otoño,0:00,5:00
+10.0,0,3.0,29.3,51.6,mucho,sana,No,marzo,48,primavera,21:45,10:00
+6.1,2,5.0,10.8,30.4,mucho,sana,No,agosto,26,verano,2:00,9:15
+2.9,4,4.0,34.1,56.6,poco,procesada,No,enero,10,invierno,21:30,8:45
+1.0,4,7.0,38.4,77.3,poco,procesada,Si,septiembre,64,otoño,2:15,10:00
+5.6,2,1.0,24.4,68.3,nada,muy procesada,No,noviembre,39,otoño,22:45,7:15
+3.1,3,4.0,11.0,69.6,medio,equilibrada,Si,marzo,53,primavera,20:30,5:30
+3.5,4,1.0,33.3,27.9,nada,procesada,No,enero,28,invierno,22:15,5:15
+6.6,2,2.0,23.1,64.8,mucho,sana,No,abril,35,primavera,23:00,7:45
+7.5,2,3.0,42.7,78.1,poco,equilibrada,No,diciembre,80,invierno,1:45,9:00
+8.9,0,2.0,30.8,78.0,mucho,equilibrada,No,abril,3,primavera,1:45,9:30
+7.6,1,2.0,42.0,60.6,poco,procesada,No,febrero,71,invierno,22:30,5:30
+4.2,3,2.0,12.6,55.8,poco,muy procesada,No,enero,78,invierno,1:00,7:30
+6.8,1,3.0,40.8,66.0,mucho,sana,Si,abril,4,primavera,20:30,8:30
+3.8,4,2.0,15.5,40.8,medio,equilibrada,No,agosto,78,verano,20:30,8:30
+2.3,3,2.0,39.5,60.4,medio,muy procesada,Si,septiembre,37,otoño,0:15,8:45
+5.4,2,2.0,37.0,36.4,medio,procesada,No,diciembre,41,invierno,1:30,7:00
+5.7,1,3.0,29.9,52.0,medio,muy procesada,Si,septiembre,8,otoño,1:30,9:00
+7.5,0,2.0,26.5,46.3,mucho,ayuno,Si,marzo,14,primavera,20:45,6:15
+1.5,3,2.0,29.1,70.6,poco,procesada,Si,septiembre,27,otoño,0:30,5:00
+6.9,2,4.0,44.6,68.9,mucho,equilibrada,No,abril,50,primavera,0:45,6:30
+5.4,2,11.0,16.7,46.9,mucho,equilibrada,Si,junio,16,verano,20:00,11:00
+1.4,4,5.0,36.7,32.3,nada,procesada,Si,diciembre,55,invierno,22:30,5:00
+5.5,1,2.0,34.6,42.4,medio,ayuno,Si,julio,55,verano,0:30,8:30
+2.6,4,5.0,34.8,73.3,medio,procesada,No,enero,49,invierno,23:15,5:30
+7.4,1,2.0,16.4,30.8,nada,equilibrada,Si,septiembre,10,otoño,23:00,5:00
+9.9,0,4.0,24.7,27.8,mucho,sana,No,junio,38,verano,23:00,6:15
+6.4,1,6.0,29.0,25.4,mucho,sana,Si,junio,40,verano,1:15,8:00
+4.4,4,1.0,44.9,50.4,medio,sana,No,marzo,65,primavera,1:00,6:00
+1.9,3,2.0,12.7,68.3,nada,muy procesada,Si,diciembre,75,invierno,0:15,5:45
+5.2,2,3.0,19.1,73.1,medio,equilibrada,Si,junio,74,verano,0:30,7:00
+3.0,4,6.0,31.1,50.2,medio,equilibrada,Si,abril,64,primavera,23:45,7:15
+7.5,1,2.0,23.3,78.1,mucho,equilibrada,Si,julio,60,verano,23:15,11:45
+4.6,2,3.0,16.4,67.7,mucho,equilibrada,Si,marzo,63,primavera,23:00,10:15
+5.4,2,1.0,13.0,33.9,nada,muy procesada,No,enero,40,invierno,2:45,8:45
+3.7,4,1.0,21.7,67.2,nada,muy procesada,No,febrero,48,invierno,20:00,5:15
+6.7,1,5.0,42.9,31.2,poco,muy procesada,No,febrero,27,invierno,1:45,7:45
+4.8,2,1.0,17.6,59.7,medio,ayuno,Si,mayo,78,primavera,0:45,7:45
+6.7,2,4.0,43.0,62.5,nada,equilibrada,No,noviembre,39,otoño,1:15,6:30
+3.3,4,1.0,34.5,38.9,poco,equilibrada,No,febrero,17,invierno,0:00,5:00
+5.5,3,1.0,38.6,78.5,poco,muy procesada,No,septiembre,60,otoño,1:00,7:45
+2.2,4,5.0,25.0,73.3,medio,muy procesada,No,enero,14,invierno,1:30,7:15
+7.0,2,5.0,17.5,39.5,medio,ayuno,No,agosto,46,verano,20:30,6:00
+1.6,4,4.0,11.9,78.0,medio,sana,Si,abril,44,primavera,0:00,5:30
+4.9,3,3.0,25.0,33.1,poco,procesada,No,enero,58,invierno,2:00,7:45
+5.9,3,2.0,24.1,52.8,medio,equilibrada,No,septiembre,9,otoño,0:00,6:15
+1.0,4,7.0,22.6,59.6,medio,procesada,Si,enero,11,invierno,20:15,6:15
+5.8,1,5.0,43.0,71.7,medio,sana,Si,marzo,76,primavera,0:00,6:30
+3.3,3,7.0,16.4,46.1,nada,muy procesada,Si,febrero,58,invierno,1:30,9:15
+8.5,1,2.0,28.9,28.2,mucho,sana,No,marzo,0,primavera,1:45,9:45
+4.1,2,1.0,41.7,54.0,nada,procesada,No,enero,55,invierno,0:00,6:15
+6.0,3,10.0,39.2,61.7,medio,ayuno,No,marzo,7,primavera,21:00,11:15
+4.7,3,2.0,24.1,47.3,poco,equilibrada,No,septiembre,71,otoño,22:00,7:15
+7.0,1,13.0,23.0,70.6,mucho,equilibrada,Si,mayo,32,primavera,20:00,11:45
+5.8,1,2.0,27.1,65.8,poco,procesada,Si,enero,68,invierno,2:00,7:00
+5.6,2,5.0,21.1,59.8,mucho,sana,Si,agosto,75,verano,0:15,8:30
+3.5,2,8.0,22.6,68.4,medio,muy procesada,Si,noviembre,48,otoño,23:15,11:00
+4.8,2,5.0,21.0,70.5,nada,muy procesada,No,septiembre,71,otoño,1:45,8:00
+7.2,2,1.0,18.0,73.0,medio,equilibrada,No,julio,54,verano,2:15,7:00
+5.0,4,2.0,29.9,62.2,medio,equilibrada,No,septiembre,73,otoño,23:45,8:15
+4.8,3,3.0,32.6,47.6,poco,procesada,No,enero,17,invierno,0:45,7:30
+4.0,3,5.0,35.8,79.7,nada,procesada,No,febrero,58,invierno,2:45,8:15
+9.0,1,1.0,18.7,38.7,medio,equilibrada,No,agosto,12,verano,20:00,9:00
+3.9,4,2.0,30.0,45.8,medio,sana,No,abril,10,primavera,0:15,8:45
+5.9,2,8.0,12.4,45.8,nada,muy procesada,No,enero,22,invierno,20:30,11:15
+6.6,1,2.0,29.4,26.4,mucho,ayuno,Si,abril,21,primavera,21:15,10:00
+4.8,2,7.0,26.7,74.3,medio,sana,Si,mayo,62,primavera,2:45,10:45
+5.2,2,1.0,38.0,79.3,poco,procesada,No,noviembre,37,otoño,0:45,8:00
+6.3,2,2.0,41.9,40.1,poco,muy procesada,No,noviembre,16,otoño,22:30,10:30
+8.3,1,6.0,16.0,45.1,medio,sana,No,julio,14,verano,21:15,9:30
+4.1,3,5.0,25.5,43.4,nada,muy procesada,No,febrero,66,invierno,2:00,9:45
+9.3,1,4.0,33.0,79.8,mucho,ayuno,No,Desconocido,55,primavera,1:15,6:30
+5.5,2,4.0,17.1,74.2,medio,ayuno,Si,junio,13,verano,22:00,5:15
+4.1,3,5.0,25.5,68.6,nada,procesada,No,octubre,73,otoño,23:15,6:45
+8.8,1,8.0,26.8,41.3,mucho,equilibrada,No,julio,14,verano,21:45,10:30
+5.6,3,1.0,20.2,28.5,medio,equilibrada,No,septiembre,66,otoño,0:45,5:30
+8.4,1,2.0,44.7,63.9,mucho,ayuno,No,junio,53,verano,20:45,10:30
+7.0,1,1.0,44.3,25.2,medio,equilibrada,Si,julio,2,verano,0:00,8:45
+3.0,4,1.0,15.2,77.4,medio,procesada,No,enero,27,invierno,1:15,7:00
+6.7,2,7.0,14.9,74.1,poco,muy procesada,No,octubre,76,otoño,20:45,5:30
+4.0,4,3.0,15.3,74.6,nada,procesada,No,septiembre,22,otoño,2:30,10:30
+8.1,1,8.0,37.7,76.0,nada,muy procesada,No,noviembre,47,otoño,22:15,7:30
+6.9,2,1.0,40.8,67.8,poco,procesada,No,enero,46,invierno,1:15,8:15
+8.1,1,6.0,30.3,39.6,medio,equilibrada,No,mayo,45,primavera,20:15,8:45
+2.4,4,2.0,12.4,57.9,medio,muy procesada,No,octubre,24,otoño,23:15,5:15
+3.5,3,5.0,24.6,26.2,medio,equilibrada,No,noviembre,75,otoño,2:15,8:00
+2.5,4,1.0,37.9,48.3,medio,ayuno,Si,junio,20,verano,22:45,5:45
+7.5,2,6.0,37.5,28.6,medio,equilibrada,No,octubre,29,otoño,21:30,11:45
+1.0,4,9.0,17.3,48.3,medio,procesada,Si,febrero,49,invierno,21:00,7:00
+5.1,2,4.0,31.9,59.3,mucho,equilibrada,Si,julio,21,verano,21:00,5:00
+5.0,2,3.0,34.0,64.0,nada,muy procesada,No,diciembre,71,invierno,2:30,8:00
+2.7,4,4.0,26.1,63.6,medio,procesada,No,diciembre,3,invierno,23:45,5:30
+5.9,1,2.0,20.7,68.2,mucho,sana,Si,abril,68,primavera,21:45,6:45
+4.5,4,5.0,11.9,45.3,medio,sana,No,abril,80,primavera,1:15,8:00
+10.0,0,1.0,33.3,25.2,mucho,sana,No,junio,72,verano,0:15,8:30
+5.8,0,11.0,29.5,72.1,poco,equilibrada,Si,octubre,24,otoño,20:45,9:30
+2.6,3,4.0,32.7,48.8,medio,equilibrada,Si,septiembre,46,otoño,20:45,5:30
+6.9,2,1.0,32.4,50.6,mucho,ayuno,No,agosto,12,verano,2:30,7:45
+7.2,2,6.0,25.0,77.1,medio,ayuno,No,julio,31,verano,22:45,7:15
+6.6,2,3.0,40.5,48.3,poco,muy procesada,No,octubre,64,otoño,2:30,9:45
+6.9,1,10.0,19.5,45.1,poco,equilibrada,Si,diciembre,26,invierno,20:30,9:30
+5.3,3,5.0,40.0,51.2,nada,muy procesada,No,noviembre,8,otoño,0:00,6:45
+2.6,3,5.0,38.3,72.1,medio,equilibrada,Si,octubre,70,otoño,0:45,6:00
+6.3,3,4.0,27.9,41.8,nada,equilibrada,No,Desconocido,62,otoño,1:30,6:30
+5.9,2,4.0,43.3,49.2,medio,sana,Si,marzo,62,primavera,20:45,5:30
+6.4,2,4.0,42.7,72.8,medio,sana,No,junio,15,verano,1:45,7:45
+3.4,3,7.0,18.6,72.5,medio,sana,Si,julio,58,verano,1:30,9:00
+3.6,4,4.0,42.8,38.6,medio,muy procesada,No,diciembre,3,invierno,0:00,5:45
+9.0,1,6.0,33.8,50.0,mucho,sana,No,abril,52,primavera,21:45,8:00
+4.3,2,5.0,13.1,40.0,nada,equilibrada,Si,febrero,21,invierno,20:00,10:00
+1.0,4,7.0,13.0,45.4,nada,procesada,Si,diciembre,42,invierno,2:00,10:15
+9.1,1,1.0,40.3,79.8,mucho,equilibrada,No,marzo,59,primavera,1:45,7:15
+7.4,2,5.0,10.4,65.2,mucho,sana,No,abril,32,primavera,0:30,7:15
+7.1,2,5.0,25.2,35.0,medio,ayuno,No,abril,18,primavera,23:30,6:30
+6.5,2,6.0,36.4,35.3,mucho,sana,No,junio,65,verano,0:45,7:15
+1.0,4,3.0,36.3,37.8,poco,muy procesada,Si,enero,57,invierno,23:00,6:30
+6.7,2,4.0,34.7,60.6,nada,equilibrada,No,octubre,67,otoño,22:30,7:00
+6.4,2,6.0,16.5,74.4,poco,equilibrada,No,enero,60,invierno,23:45,6:00
+4.4,2,3.0,36.7,71.1,medio,ayuno,Si,agosto,32,verano,23:15,6:00
+9.0,1,4.0,16.6,30.9,medio,equilibrada,No,octubre,4,otoño,0:00,5:45
+6.7,1,2.0,19.4,65.6,medio,sana,Si,marzo,64,primavera,22:15,5:30
+6.1,2,2.0,43.3,61.5,medio,ayuno,No,agosto,38,verano,1:30,7:45
+2.7,4,4.0,32.1,78.8,medio,sana,Si,abril,64,primavera,20:00,7:00
+6.2,2,7.0,30.6,54.4,poco,muy procesada,No,septiembre,67,otoño,21:15,5:30
+4.4,3,2.0,17.3,29.3,nada,muy procesada,No,Desconocido,22,otoño,1:30,6:00
+7.6,1,6.0,21.5,38.6,mucho,equilibrada,No,mayo,57,primavera,0:45,8:30
+9.0,1,3.0,25.4,61.7,medio,equilibrada,No,octubre,77,otoño,22:15,5:30
+4.7,4,2.0,30.0,26.3,medio,sana,No,marzo,17,primavera,2:15,10:30
+4.8,4,1.0,15.1,41.8,medio,sana,No,julio,39,verano,21:00,9:45
+1.2,4,6.0,17.6,39.7,medio,sana,Si,junio,71,verano,22:30,6:15
+4.5,3,3.0,34.6,38.3,medio,procesada,No,febrero,78,invierno,0:00,6:45
+10.0,0,7.0,44.3,51.4,mucho,ayuno,No,abril,13,primavera,21:15,5:15
+4.6,1,2.0,28.6,69.6,poco,muy procesada,Si,septiembre,57,otoño,1:45,8:30
+7.1,1,4.0,10.0,70.9,nada,muy procesada,No,febrero,53,invierno,1:15,7:45
+6.8,1,3.0,26.9,57.7,medio,procesada,No,septiembre,38,otoño,1:30,9:45
+7.3,2,1.0,24.1,25.9,mucho,ayuno,No,abril,48,primavera,1:30,7:00
+9.6,0,4.0,39.6,25.8,mucho,equilibrada,No,julio,44,verano,20:00,8:45
+10.0,0,7.0,12.0,76.6,mucho,sana,No,agosto,1,verano,0:45,8:00
+8.0,1,7.0,19.3,73.0,mucho,sana,No,marzo,24,primavera,21:30,5:15
+3.5,4,2.0,15.5,25.4,medio,sana,No,julio,70,verano,2:45,7:00
+2.3,4,5.0,24.7,73.4,poco,procesada,No,noviembre,33,otoño,23:00,10:00
+3.5,4,5.0,15.1,74.0,poco,procesada,No,diciembre,17,invierno,1:30,8:45
+4.7,3,1.0,43.6,53.9,nada,equilibrada,No,enero,17,invierno,22:15,5:15
+10.0,0,6.0,31.9,27.1,mucho,equilibrada,No,junio,75,verano,2:45,10:45
+2.6,3,1.0,27.2,51.4,medio,muy procesada,Si,enero,32,invierno,0:45,6:30
+4.9,1,3.0,11.0,68.8,medio,ayuno,Si,agosto,33,verano,0:45,8:30
+8.9,1,1.0,29.9,57.4,mucho,equilibrada,No,abril,20,primavera,23:00,6:00
+5.4,2,5.0,44.5,47.5,medio,muy procesada,No,enero,18,invierno,23:30,5:30
+3.4,3,4.0,13.2,59.7,medio,ayuno,Si,agosto,60,verano,20:00,9:00
+5.3,2,2.0,21.3,62.6,nada,equilibrada,Si,febrero,30,invierno,2:15,9:30
+5.7,2,5.0,33.3,43.2,medio,muy procesada,No,noviembre,37,otoño,23:00,6:15
+3.8,3,5.0,20.6,71.9,medio,muy procesada,No,enero,26,invierno,20:00,9:00
+5.0,2,3.0,26.7,50.5,medio,equilibrada,Si,mayo,43,primavera,0:45,6:45
+3.7,3,3.0,14.4,43.3,medio,equilibrada,Si,octubre,33,otoño,1:15,8:45
+4.4,2,1.0,10.4,36.7,mucho,equilibrada,Si,marzo,39,primavera,23:30,7:15
+4.3,3,5.0,30.8,79.1,medio,ayuno,Si,marzo,19,primavera,2:45,8:00
+4.1,4,3.0,12.0,39.4,medio,ayuno,No,agosto,24,verano,0:15,5:15
+6.1,2,2.0,22.8,49.7,nada,equilibrada,No,febrero,32,invierno,22:00,10:45
+6.5,1,4.0,32.3,53.8,nada,procesada,Si,diciembre,30,invierno,2:45,9:45
+7.3,2,5.0,28.5,69.3,poco,equilibrada,No,Desconocido,54,otoño,20:30,9:15
+3.4,4,2.0,33.4,68.4,medio,muy procesada,No,febrero,37,invierno,21:15,6:00
+2.2,4,1.0,28.5,52.4,medio,equilibrada,Si,septiembre,7,otoño,1:45,7:30
+2.5,4,5.0,15.9,51.1,poco,procesada,No,enero,72,invierno,23:45,5:15
+8.0,2,5.0,16.3,50.1,mucho,ayuno,No,abril,27,primavera,23:30,5:00
+6.5,1,1.0,21.1,46.0,mucho,equilibrada,Si,abril,8,primavera,23:00,11:15
+8.0,1,4.0,41.4,28.8,medio,muy procesada,No,enero,63,invierno,22:45,6:45
+1.5,4,7.0,35.1,64.7,medio,equilibrada,Si,julio,44,verano,2:45,10:45
+8.8,0,3.0,17.1,53.9,mucho,ayuno,Si,junio,6,verano,20:45,5:30
+5.9,2,2.0,25.5,28.8,nada,procesada,No,noviembre,42,otoño,1:45,8:00
+1.7,3,2.0,30.0,62.7,medio,ayuno,Si,julio,19,verano,0:30,7:30
+6.4,2,2.0,12.1,37.3,medio,equilibrada,No,julio,47,verano,22:30,7:45
+3.6,2,2.0,31.6,49.0,nada,muy procesada,Si,noviembre,79,otoño,2:00,7:30
+7.6,0,2.0,36.1,46.6,mucho,ayuno,Si,mayo,46,primavera,2:30,10:15
+5.4,2,1.0,27.8,44.1,nada,muy procesada,No,diciembre,66,invierno,0:45,8:00
+6.4,3,6.0,34.3,77.7,medio,equilibrada,No,octubre,61,otoño,20:00,5:15
+5.2,2,3.0,29.7,34.8,nada,equilibrada,Si,septiembre,1,otoño,0:15,6:15
+7.4,1,1.0,23.2,42.1,medio,ayuno,Si,agosto,5,verano,2:45,8:45
+8.6,1,7.0,42.4,48.6,mucho,ayuno,No,mayo,33,primavera,1:00,9:30
+2.7,4,6.0,21.9,31.4,medio,muy procesada,No,noviembre,65,otoño,21:45,6:45
+6.7,2,2.0,43.1,78.7,poco,equilibrada,No,febrero,56,invierno,0:30,7:30
+3.0,2,5.0,16.0,71.6,medio,muy procesada,Si,enero,60,invierno,21:45,10:45
+4.0,3,3.0,11.6,36.1,medio,ayuno,Si,junio,75,verano,1:15,9:00
+7.6,1,4.0,24.9,46.6,mucho,equilibrada,No,junio,25,verano,0:45,6:45
+5.9,2,1.0,12.4,76.2,medio,sana,No,junio,54,verano,23:15,5:45
+3.3,4,7.0,34.1,71.8,nada,procesada,No,diciembre,47,invierno,20:45,6:15
+3.5,4,2.0,18.0,37.2,nada,equilibrada,No,enero,66,invierno,1:00,7:00
+3.6,4,7.0,11.5,66.9,medio,sana,No,abril,21,primavera,0:00,8:45
+5.3,2,6.0,20.4,48.9,poco,muy procesada,No,noviembre,27,otoño,23:45,10:15
+1.0,4,7.0,20.7,78.8,medio,muy procesada,Si,septiembre,2,otoño,1:15,9:45
+5.8,3,1.0,39.9,36.7,medio,ayuno,No,mayo,75,primavera,1:00,8:15
+10.0,0,5.0,38.5,62.0,mucho,ayuno,No,junio,56,verano,23:45,7:45
+6.3,1,6.0,28.0,55.2,medio,sana,Si,mayo,27,primavera,2:45,9:30
+5.3,3,3.0,28.7,51.9,medio,equilibrada,No,Desconocido,53,otoño,20:30,8:00
+7.9,2,2.0,20.7,43.2,nada,equilibrada,No,noviembre,24,otoño,0:45,8:45
+4.7,4,5.0,27.2,29.7,medio,equilibrada,No,mayo,39,primavera,0:45,7:30
+1.7,4,5.0,18.4,79.3,medio,muy procesada,Si,febrero,28,invierno,0:30,7:45
+5.7,1,1.0,41.7,43.6,poco,muy procesada,Si,febrero,45,invierno,1:30,9:30
+9.5,1,1.0,44.2,41.9,mucho,equilibrada,No,abril,78,primavera,0:15,6:00
+9.5,0,5.0,25.7,79.6,mucho,ayuno,No,junio,61,verano,1:30,7:00
+6.9,1,4.0,37.6,56.7,medio,procesada,No,noviembre,66,otoño,1:30,9:15
+6.2,1,3.0,18.6,34.8,medio,muy procesada,Si,noviembre,76,otoño,1:15,6:45
+2.9,3,5.0,24.8,74.8,poco,muy procesada,Si,septiembre,45,otoño,2:30,8:15
+8.2,1,1.0,42.8,51.3,mucho,equilibrada,No,agosto,69,verano,22:00,6:45
+7.8,1,4.0,22.8,75.9,nada,muy procesada,No,septiembre,62,otoño,1:45,6:45
+5.3,3,2.0,39.3,38.3,poco,muy procesada,No,noviembre,45,otoño,0:00,5:15
+9.1,1,4.0,16.1,41.8,mucho,ayuno,No,abril,38,primavera,0:15,5:00
+1.2,4,5.0,41.5,39.0,medio,ayuno,Si,marzo,71,primavera,21:15,5:15
+6.9,0,3.0,29.5,60.4,mucho,sana,Si,abril,44,primavera,2:15,8:45
+5.8,2,2.0,17.4,26.9,poco,equilibrada,Si,enero,51,invierno,0:15,5:45
+5.9,3,4.0,26.3,54.4,nada,equilibrada,No,febrero,23,invierno,2:45,9:00
+9.3,1,6.0,10.3,30.9,mucho,ayuno,No,abril,39,primavera,21:45,6:45
+2.1,4,5.0,34.8,75.9,nada,muy procesada,No,diciembre,48,invierno,2:45,9:30
+4.1,2,3.0,33.7,75.7,mucho,ayuno,Si,julio,59,verano,2:30,10:00
+7.5,1,1.0,14.5,39.9,medio,equilibrada,Si,noviembre,46,otoño,2:00,8:00
+3.8,4,4.0,16.5,48.1,nada,procesada,No,diciembre,22,invierno,1:15,6:15
+5.7,2,4.0,32.1,58.5,nada,muy procesada,No,diciembre,51,invierno,21:30,5:30
+6.6,1,3.0,18.0,40.2,poco,muy procesada,No,octubre,0,otoño,2:30,7:00
+6.1,2,2.0,43.6,78.7,medio,procesada,No,septiembre,66,otoño,21:45,5:45
+3.1,4,1.0,42.7,39.9,medio,ayuno,No,agosto,9,verano,2:30,7:15
+4.8,2,11.0,23.0,31.2,medio,equilibrada,Si,agosto,1,verano,21:45,11:45
+10.0,0,5.0,28.8,40.7,mucho,equilibrada,No,junio,5,verano,2:45,9:45
+2.1,4,4.0,14.2,76.3,poco,procesada,No,octubre,2,otoño,22:45,6:30
+6.4,3,6.0,31.2,57.6,nada,equilibrada,No,noviembre,16,otoño,1:15,9:00
+4.3,2,5.0,22.6,33.7,mucho,sana,Si,mayo,39,primavera,0:30,8:30
+4.9,2,2.0,38.6,49.6,medio,equilibrada,Si,marzo,0,primavera,0:00,5:30
+2.2,4,6.0,24.9,43.7,medio,muy procesada,No,septiembre,49,otoño,21:00,9:00
+6.8,2,9.0,38.9,51.1,mucho,equilibrada,No,agosto,9,verano,22:30,10:15
+7.1,1,7.0,30.5,65.1,poco,equilibrada,Si,enero,38,invierno,22:30,8:30
+3.1,4,4.0,10.3,71.2,poco,equilibrada,No,septiembre,34,otoño,22:00,5:45
+3.1,3,2.0,11.7,59.9,medio,equilibrada,Si,mayo,24,primavera,2:30,10:45
+6.4,2,2.0,40.0,31.5,medio,sana,No,abril,70,primavera,20:30,8:15
+5.5,2,5.0,12.2,59.3,poco,procesada,No,noviembre,20,otoño,1:45,8:00
+6.5,3,2.0,15.7,46.2,poco,equilibrada,No,octubre,73,otoño,2:30,9:15
+4.6,4,5.0,25.0,54.2,medio,sana,No,abril,62,primavera,23:30,10:30
+10.0,0,4.0,29.6,45.6,mucho,sana,No,junio,30,verano,1:15,6:00
+6.8,2,3.0,18.3,33.8,mucho,equilibrada,No,agosto,48,verano,22:45,5:30
+7.5,1,4.0,16.2,25.4,nada,procesada,No,enero,53,invierno,23:30,5:30
+1.2,4,3.0,20.8,26.0,nada,equilibrada,Si,febrero,59,invierno,2:45,9:00
+3.4,4,4.0,29.1,28.1,medio,procesada,No,noviembre,26,otoño,0:00,6:45
+2.4,4,8.0,28.5,47.2,medio,muy procesada,No,diciembre,26,invierno,21:30,11:00
+6.3,1,6.0,15.5,46.0,mucho,sana,Si,marzo,7,primavera,1:30,9:15
+2.4,3,4.0,38.0,68.8,poco,procesada,No,septiembre,31,otoño,2:15,7:00
+6.2,2,2.0,14.1,59.1,medio,equilibrada,No,agosto,12,verano,1:45,6:15
+6.5,1,4.0,28.5,55.8,nada,procesada,Si,noviembre,42,otoño,22:15,5:45
+5.5,2,8.0,14.1,51.3,poco,procesada,No,enero,10,invierno,22:30,7:00
+6.0,2,2.0,44.2,73.4,nada,equilibrada,No,enero,35,invierno,23:30,7:15
+6.9,1,6.0,12.2,75.8,mucho,ayuno,Si,julio,14,verano,20:00,5:15
+2.7,4,6.0,10.8,68.8,poco,muy procesada,No,septiembre,48,otoño,21:30,5:45
+6.9,2,2.0,44.2,26.6,poco,muy procesada,No,noviembre,49,otoño,22:30,7:45
+3.1,4,3.0,39.5,48.1,medio,equilibrada,No,enero,67,invierno,2:15,8:00
+5.9,2,4.0,34.9,67.5,nada,procesada,No,septiembre,63,otoño,0:15,5:00
+4.7,3,3.0,27.0,77.0,poco,procesada,No,octubre,3,otoño,23:30,5:30
+7.7,1,11.0,15.8,44.4,medio,sana,No,junio,38,verano,20:00,10:15
+5.7,2,2.0,44.6,35.0,medio,equilibrada,Si,diciembre,60,invierno,23:45,5:15
+8.2,1,4.0,32.5,33.1,mucho,sana,No,marzo,57,primavera,1:15,6:00
+4.4,3,4.0,28.3,78.7,nada,muy procesada,No,octubre,24,otoño,2:00,7:30
+7.3,1,1.0,31.2,31.2,medio,sana,Si,agosto,19,verano,2:45,7:15
+9.4,1,1.0,11.2,72.3,mucho,equilibrada,No,abril,43,primavera,0:45,8:30
+5.2,1,5.0,10.5,73.3,medio,procesada,Si,diciembre,25,invierno,21:45,7:15
+5.0,2,2.0,40.6,62.6,mucho,ayuno,Si,mayo,26,primavera,20:15,6:15
+6.9,2,8.0,43.2,59.2,poco,equilibrada,No,enero,55,invierno,20:45,7:15
+6.9,1,6.0,34.8,40.3,mucho,equilibrada,Si,mayo,50,primavera,20:45,5:30
+7.5,2,7.0,26.6,33.9,medio,ayuno,No,marzo,69,primavera,22:15,8:00
+5.8,1,5.0,26.7,60.6,mucho,sana,Si,marzo,66,primavera,1:30,7:45
+10.0,0,7.0,25.6,65.3,mucho,ayuno,No,junio,32,verano,22:00,10:15
+1.6,4,5.0,42.6,69.7,medio,equilibrada,Si,agosto,59,verano,2:00,9:30
+6.7,2,4.0,36.9,35.2,mucho,equilibrada,No,julio,11,verano,2:30,10:15
+3.2,4,5.0,10.2,76.9,medio,muy procesada,No,septiembre,39,otoño,1:30,7:30
+7.7,1,5.0,31.2,69.9,mucho,ayuno,No,mayo,26,primavera,21:15,8:45
+9.0,1,3.0,41.1,77.5,mucho,sana,No,abril,2,primavera,2:30,9:15
+3.7,4,12.0,21.2,73.3,medio,equilibrada,No,Desconocido,17,verano,21:30,10:30
+6.4,2,3.0,40.9,41.1,mucho,ayuno,No,agosto,33,verano,0:30,6:15
+6.8,2,5.0,18.2,54.4,medio,ayuno,No,mayo,39,primavera,23:15,7:15
+4.0,3,5.0,11.6,30.1,medio,ayuno,Si,julio,44,verano,23:45,5:30
+7.9,1,4.0,43.2,33.8,poco,muy procesada,No,enero,53,invierno,1:30,8:00
+3.0,4,7.0,40.9,32.3,medio,muy procesada,No,octubre,29,otoño,1:30,9:30
+1.9,4,12.0,29.3,69.9,medio,ayuno,Si,mayo,77,primavera,21:45,10:15
+3.3,4,4.0,36.4,64.8,medio,equilibrada,No,noviembre,12,otoño,22:30,6:30
+6.3,3,1.0,17.0,71.8,medio,sana,No,abril,77,primavera,20:30,6:30
+6.9,2,4.0,24.0,56.0,nada,procesada,No,noviembre,2,otoño,0:15,8:00
+2.3,4,4.0,43.7,57.8,medio,muy procesada,No,octubre,30,otoño,2:45,9:45
+4.8,1,1.0,38.8,68.4,poco,procesada,Si,diciembre,19,invierno,0:45,6:00
+6.0,2,1.0,35.1,59.2,nada,equilibrada,No,septiembre,66,otoño,0:15,7:00
+5.1,2,2.0,36.3,75.8,medio,equilibrada,Si,agosto,74,verano,23:00,6:30
+4.3,2,5.0,38.8,54.9,mucho,ayuno,Si,julio,16,verano,22:00,5:00
+4.7,3,3.0,13.4,37.5,poco,muy procesada,No,octubre,53,otoño,23:00,10:30
+4.6,3,5.0,12.1,46.0,medio,equilibrada,No,octubre,78,otoño,23:30,5:00
+5.3,2,2.0,24.1,31.6,medio,muy procesada,No,octubre,47,otoño,22:15,5:00
+4.7,3,6.0,23.4,52.2,poco,muy procesada,No,febrero,61,invierno,0:15,8:45
+6.3,1,7.0,43.0,77.4,mucho,sana,Si,mayo,80,primavera,2:15,10:00
+2.7,4,4.0,32.3,47.4,poco,equilibrada,Si,febrero,32,invierno,2:30,10:45
+8.4,1,1.0,40.5,44.3,nada,equilibrada,No,diciembre,77,invierno,22:15,6:45
+4.1,1,5.0,26.8,68.2,medio,sana,Si,abril,43,primavera,23:15,5:45
+6.5,2,1.0,35.3,42.2,poco,procesada,No,febrero,10,invierno,0:00,6:30
+5.1,2,1.0,23.8,25.8,poco,procesada,No,enero,48,invierno,23:15,5:45
+4.7,1,2.0,17.0,27.0,poco,procesada,Si,octubre,59,otoño,20:30,8:15
+2.8,4,6.0,38.8,33.9,medio,sana,Si,mayo,19,primavera,2:45,9:00
+6.6,2,8.0,16.6,69.4,poco,equilibrada,No,febrero,3,invierno,20:00,10:00
+1.1,4,3.0,29.3,61.7,nada,procesada,Si,noviembre,23,otoño,21:00,6:45
+-2.0,4,4.0,3.7,40.0,nada,muy procesada,No,noviembre,48,otoño,23:30,5:15
+2.1,4,8.0,29.1,35.8,nada,muy procesada,No,octubre,13,otoño,20:15,8:30
+5.5,3,1.0,35.1,51.0,poco,muy procesada,No,febrero,77,invierno,2:30,8:45
+9.5,1,4.0,13.8,25.6,mucho,equilibrada,No,junio,26,verano,2:00,7:30
+7.9,1,3.0,12.2,61.8,medio,equilibrada,No,abril,46,primavera,0:45,7:45
+6.3,2,2.0,43.6,70.9,mucho,sana,No,agosto,27,verano,1:30,7:45
+9.4,1,3.0,23.6,45.7,mucho,ayuno,No,agosto,50,verano,0:00,8:00
+5.1,3,5.0,35.4,38.4,poco,procesada,No,febrero,49,invierno,21:30,5:00
+4.0,2,6.0,39.0,68.3,nada,procesada,Si,octubre,47,otoño,1:30,9:15
+3.5,3,1.0,17.6,72.0,medio,ayuno,No,julio,60,verano,20:45,11:15
+2.7,4,3.0,14.5,60.1,poco,equilibrada,Si,septiembre,62,otoño,2:45,9:45
+2.6,4,9.0,22.9,72.5,nada,procesada,No,noviembre,14,otoño,20:00,11:15
+7.1,1,1.0,19.1,37.8,medio,ayuno,Si,junio,18,verano,20:15,5:00
+4.9,4,13.0,40.8,43.9,medio,equilibrada,No,septiembre,34,otoño,20:15,10:30
+3.7,2,5.0,30.5,49.0,medio,procesada,Si,septiembre,16,otoño,23:15,6:00
+7.3,0,3.0,29.1,69.9,mucho,ayuno,Si,agosto,1,verano,1:45,7:45
+2.7,4,4.0,20.5,52.0,poco,muy procesada,No,enero,55,invierno,23:00,6:45
+6.7,2,50.0,42.8,60.9,mucho,ayuno,No,agosto,41,verano,23:45,5:15
+9.2,1,6.0,37.3,56.2,poco,equilibrada,No,enero,42,invierno,1:45,9:15
+8.5,0,7.0,14.7,71.3,mucho,sana,Si,julio,28,verano,2:30,10:30
+1.8,3,3.0,41.7,33.1,poco,procesada,Si,octubre,78,otoño,1:00,8:15
+3.9,4,8.0,41.2,77.7,medio,sana,No,julio,48,verano,20:30,6:15
+10.0,0,7.0,29.5,71.8,mucho,sana,No,agosto,14,verano,22:00,7:45
+5.0,1,7.0,43.9,53.0,mucho,sana,Si,marzo,38,primavera,21:45,5:15
+5.0,3,1.0,18.7,63.8,medio,muy procesada,No,enero,73,invierno,1:45,6:30
+6.4,2,4.0,28.1,28.2,mucho,sana,No,abril,23,primavera,22:30,6:45
+9.9,0,5.0,21.5,79.6,mucho,sana,No,mayo,65,primavera,1:15,7:15
+4.9,3,1.0,38.9,54.2,poco,equilibrada,No,noviembre,9,otoño,21:00,6:00
+5.1,2,5.0,23.9,74.3,nada,procesada,No,noviembre,12,otoño,22:15,5:30
+6.3,2,3.0,33.1,48.7,poco,equilibrada,No,noviembre,41,otoño,0:00,7:15
+3.7,4,2.0,16.0,28.8,poco,procesada,No,febrero,37,invierno,22:15,5:45
+7.5,0,2.0,40.8,27.3,mucho,sana,Si,marzo,79,primavera,2:15,8:15
+7.8,2,6.0,15.9,45.5,medio,ayuno,No,junio,0,verano,21:15,11:15
+7.8,0,3.0,27.5,41.8,mucho,sana,Si,marzo,23,primavera,2:30,8:30
+6.0,2,3.0,16.0,39.0,nada,procesada,No,noviembre,53,otoño,0:15,5:45
+8.8,0,4.0,31.5,72.3,mucho,sana,Si,junio,34,verano,1:45,6:15
+3.2,3,5.0,39.0,29.8,nada,muy procesada,Si,enero,77,invierno,22:30,5:45
+4.5,4,6.0,21.6,40.7,medio,ayuno,No,agosto,26,verano,20:15,6:30
+1.7,3,7.0,21.0,60.2,nada,muy procesada,Si,diciembre,77,invierno,21:45,6:45
+7.8,1,3.0,21.9,65.4,mucho,sana,No,agosto,14,verano,0:45,8:00
+5.9,2,4.0,32.2,64.8,medio,ayuno,Si,abril,69,primavera,0:15,6:30
+4.2,3,3.0,20.8,39.2,poco,muy procesada,No,enero,76,invierno,2:30,8:15
+1.7,3,2.0,36.5,28.2,poco,muy procesada,Si,enero,9,invierno,23:30,5:45
+6.6,2,4.0,17.4,56.8,medio,sana,No,abril,19,primavera,1:45,6:45
+6.1,1,4.0,28.2,47.7,poco,procesada,Si,septiembre,63,otoño,1:45,9:30
+6.3,2,1.0,17.1,64.3,poco,muy procesada,No,febrero,22,invierno,2:15,8:00
+2.6,3,3.0,39.9,26.7,medio,muy procesada,Si,noviembre,16,otoño,1:15,6:00
+3.2,2,1.0,14.7,31.6,medio,muy procesada,Si,enero,64,invierno,2:45,8:45
+7.8,1,2.0,18.8,39.2,poco,equilibrada,No,septiembre,62,otoño,0:15,6:15
+5.4,2,7.0,38.8,77.2,poco,muy procesada,No,enero,48,invierno,1:15,9:45
+10.0,0,9.0,29.8,37.2,mucho,sana,No,mayo,33,primavera,20:45,10:00
+9.2,1,3.0,20.3,74.4,medio,sana,No,agosto,27,verano,2:00,7:30
+7.4,2,3.0,11.9,51.1,mucho,equilibrada,No,junio,46,verano,2:15,10:45
+6.4,3,2.0,25.5,46.4,poco,equilibrada,No,febrero,79,invierno,2:45,7:45
+1.0,4,5.0,23.5,25.4,poco,procesada,Si,noviembre,60,otoño,22:15,6:45
+5.1,2,Desconocido,38.5,70.2,poco,muy procesada,No,diciembre,29,invierno,20:00,10:30
+4.5,1,6.0,44.4,78.5,nada,equilibrada,Si,septiembre,3,otoño,22:45,6:15
+7.0,1,6.0,38.5,43.4,poco,procesada,No,diciembre,38,invierno,22:00,5:45
+2.5,4,3.0,27.9,75.2,medio,procesada,No,enero,3,invierno,0:45,5:30
+3.6,4,6.0,37.7,50.0,nada,procesada,No,enero,33,invierno,22:00,5:45
+7.5,1,3.0,37.2,52.2,poco,muy procesada,No,septiembre,24,otoño,20:15,7:45
+1.4,4,1.0,22.6,51.5,medio,equilibrada,Si,junio,20,verano,0:15,7:45
+6.3,2,2.0,22.2,72.6,mucho,sana,No,abril,26,primavera,0:15,6:30
+3.2,3,6.0,41.2,28.3,nada,equilibrada,Si,noviembre,2,otoño,0:30,7:15
+8.6,1,2.0,30.9,36.2,medio,equilibrada,No,mayo,19,primavera,1:30,6:45
+4.2,3,7.0,36.6,29.0,nada,procesada,No,febrero,51,invierno,22:15,6:15
+5.7,1,4.0,25.4,69.9,poco,muy procesada,Si,octubre,63,otoño,0:45,5:15
+4.4,1,1.0,39.3,60.7,mucho,equilibrada,Si,agosto,36,verano,1:30,9:30
+8.8,1,2.0,32.3,40.8,medio,ayuno,No,junio,7,verano,22:15,6:00
+4.3,4,1.0,11.9,44.6,medio,equilibrada,No,junio,63,verano,23:15,5:00
+3.7,2,5.0,41.9,64.4,nada,muy procesada,Si,enero,47,invierno,2:30,8:00
+3.7,4,4.0,11.8,53.1,medio,equilibrada,No,julio,13,verano,2:30,7:30
+7.2,1,6.0,10.3,42.4,poco,muy procesada,No,febrero,55,invierno,0:00,7:45
+9.2,1,5.0,11.9,43.2,mucho,sana,No,abril,34,primavera,21:15,5:00
+8.0,0,4.0,16.8,50.9,mucho,sana,Si,junio,60,verano,0:15,8:00
+5.9,1,4.0,31.9,40.6,mucho,ayuno,Si,mayo,17,primavera,1:30,8:00
+6.6,2,3.0,19.5,65.3,mucho,ayuno,No,marzo,40,primavera,2:00,7:30
+9.8,0,3.0,41.4,33.6,mucho,equilibrada,No,abril,1,primavera,20:45,5:15
+9.9,0,2.0,43.7,46.5,mucho,sana,No,marzo,35,primavera,1:45,6:30
+7.8,2,5.0,40.9,47.1,poco,equilibrada,No,febrero,14,invierno,1:45,8:45
+2.9,4,7.0,18.9,79.2,poco,muy procesada,No,octubre,47,otoño,20:45,11:00
+10.0,0,10.0,17.7,72.2,mucho,sana,No,julio,46,verano,21:30,9:00
+9.1,1,4.0,40.9,65.1,mucho,sana,No,agosto,75,verano,20:45,10:45
+6.8,1,1.0,34.2,39.8,nada,muy procesada,No,diciembre,37,invierno,21:00,5:30
+5.2,3,3.0,32.7,44.1,medio,muy procesada,No,noviembre,45,otoño,0:00,6:30
+7.4,2,1.0,20.0,71.5,mucho,sana,No,abril,69,primavera,20:45,11:15
+3.7,4,1.0,42.1,41.2,nada,equilibrada,No,diciembre,48,invierno,1:00,6:00
+7.6,1,2.0,11.7,78.1,medio,sana,No,marzo,17,primavera,2:45,10:15
+8.1,1,6.0,29.4,26.3,mucho,equilibrada,No,mayo,74,primavera,1:15,9:30
+6.2,2,4.0,38.5,48.8,mucho,ayuno,No,abril,14,primavera,2:30,10:45
+5.3,2,2.0,44.1,62.0,mucho,ayuno,Si,julio,77,verano,23:15,5:00
+5.9,1,7.0,44.3,70.1,mucho,sana,Si,julio,36,verano,0:15,8:45
+6.9,2,3.0,41.3,50.1,mucho,ayuno,No,julio,26,verano,0:00,6:15
+5.7,3,2.0,39.8,54.5,poco,equilibrada,No,octubre,12,otoño,22:15,5:15
+4.8,3,7.0,27.6,42.7,medio,ayuno,No,abril,66,primavera,0:15,8:45
+6.6,2,4.0,10.7,71.8,mucho,sana,No,abril,3,primavera,2:45,10:30
+2.9,3,2.0,40.0,39.2,medio,muy procesada,Si,febrero,72,invierno,20:15,10:45
+4.7,3,4.0,20.3,38.1,medio,procesada,No,diciembre,8,invierno,2:15,7:00
+6.5,1,2.0,34.4,70.3,medio,sana,Si,agosto,11,verano,21:45,11:15
+9.4,0,4.0,35.3,39.1,mucho,ayuno,No,julio,72,verano,22:30,6:45
+5.2,2,3.0,18.3,38.2,mucho,equilibrada,Si,abril,74,primavera,20:00,7:30
+6.4,2,3.0,44.6,47.1,medio,equilibrada,No,Desconocido,17,verano,1:45,8:15
+8.6,1,2.0,38.1,74.5,medio,equilibrada,No,noviembre,60,otoño,22:00,5:30
+7.8,1,6.0,10.4,56.0,mucho,sana,No,junio,37,verano,0:15,7:15
+1.9,3,3.0,25.6,60.1,nada,procesada,Si,febrero,17,invierno,0:00,6:45
+2.3,4,3.0,12.6,67.7,nada,procesada,No,noviembre,60,otoño,21:15,5:45
+4.2,4,7.0,13.1,65.3,medio,ayuno,No,mayo,77,primavera,0:00,8:30
+1.0,4,4.0,35.8,76.7,medio,muy procesada,Si,diciembre,43,invierno,23:00,7:00
+5.4,3,1.0,41.9,33.4,medio,equilibrada,No,febrero,16,invierno,0:00,5:45
+8.9,1,2.0,42.2,53.5,nada,equilibrada,No,septiembre,76,otoño,2:00,8:00
+1.6,4,3.0,30.0,26.2,medio,sana,Si,marzo,18,primavera,2:30,7:30
+3.0,4,1.0,11.0,35.7,medio,equilibrada,No,abril,54,primavera,21:30,8:30
+6.5,1,8.0,25.5,46.1,nada,procesada,No,noviembre,69,otoño,20:00,6:45
+4.0,3,7.0,39.7,64.6,medio,ayuno,Si,junio,12,verano,22:00,6:45
+2.3,3,5.0,42.3,30.3,nada,procesada,Si,febrero,51,invierno,20:45,8:45
+7.2,2,3.0,32.1,45.5,mucho,sana,No,julio,30,verano,22:45,5:15
+2.1,4,4.0,14.0,38.6,nada,muy procesada,No,octubre,50,otoño,1:30,7:00
+7.2,2,3.0,28.0,67.6,mucho,ayuno,No,marzo,59,primavera,0:30,8:30
+4.8,4,5.0,20.0,71.0,medio,sana,No,marzo,16,primavera,0:00,6:15
+9.1,0,1.0,40.4,31.5,mucho,equilibrada,No,agosto,66,verano,22:30,5:45
+7.2,1,3.0,33.9,43.5,medio,procesada,No,febrero,0,invierno,23:45,7:00
+10.0,0,1.0,30.9,40.3,mucho,ayuno,No,mayo,17,primavera,2:15,8:00
+4.8,4,1.0,16.9,41.8,medio,ayuno,No,agosto,76,verano,1:30,7:30
+5.5,1,12.0,14.0,45.8,nada,muy procesada,Si,enero,0,invierno,22:45,11:45
+10.0,0,4.0,33.1,71.9,mucho,ayuno,No,agosto,32,verano,21:00,9:45
+8.7,1,1.0,15.4,68.8,medio,ayuno,No,junio,44,verano,23:00,6:00
+6.1,3,4.0,24.8,72.7,poco,equilibrada,No,octubre,47,otoño,1:15,8:15
+Desconocido,4,5.0,13.7,71.3,medio,equilibrada,No,julio,48,verano,0:00,8:30
+3.4,4,1.0,24.2,51.8,medio,procesada,No,octubre,17,otoño,2:30,10:30
+6.4,3,4.0,14.3,42.3,nada,equilibrada,No,febrero,16,invierno,2:00,9:45
+9.0,1,2.0,27.9,41.0,mucho,equilibrada,No,junio,41,verano,22:45,9:15
+3.9,4,4.0,42.9,67.1,poco,muy procesada,No,septiembre,8,otoño,23:45,6:15
+6.4,1,1.0,22.4,26.7,poco,equilibrada,No,enero,11,invierno,22:15,5:15
+3.9,3,3.0,35.2,77.7,medio,sana,Si,abril,37,primavera,0:30,6:00
+5.8,2,4.0,21.6,25.6,nada,muy procesada,No,febrero,26,invierno,23:45,7:15
+3.4,3,2.0,11.9,53.1,medio,equilibrada,Si,junio,51,verano,21:15,5:00
+4.9,3,11.0,28.3,71.0,nada,muy procesada,No,diciembre,30,invierno,20:15,9:30
+6.2,0,7.0,42.3,27.4,poco,procesada,Si,febrero,50,invierno,21:15,11:15
+6.5,2,7.0,40.8,78.5,mucho,ayuno,No,marzo,11,primavera,23:45,7:45
+8.3,1,4.0,24.1,69.4,mucho,sana,No,agosto,31,verano,1:30,6:15
+6.6,2,2.0,21.3,60.2,medio,ayuno,No,agosto,73,verano,23:30,7:00
+6.2,2,3.0,43.1,59.4,medio,equilibrada,No,abril,70,primavera,2:30,9:15
+5.9,1,2.0,25.8,26.6,poco,equilibrada,Si,diciembre,66,invierno,2:30,8:00
+5.0,3,4.0,22.7,33.5,poco,muy procesada,No,octubre,10,otoño,1:30,8:15
+8.9,0,6.0,36.2,47.5,mucho,sana,Si,agosto,56,verano,20:30,11:45
+4.5,2,2.0,13.5,31.7,medio,equilibrada,No,agosto,58,verano,1:45,9:45
+7.9,2,3.0,43.5,70.3,mucho,equilibrada,No,agosto,55,verano,2:30,8:15
+4.8,4,2.0,22.8,78.5,medio,equilibrada,No,diciembre,79,invierno,2:45,7:00
+4.4,1,7.0,39.7,78.3,nada,muy procesada,Si,enero,43,invierno,0:00,8:45
+1.0,4,4.0,16.9,53.7,medio,procesada,Si,octubre,42,otoño,1:45,6:00
+7.7,2,5.0,20.1,79.1,medio,ayuno,No,mayo,34,primavera,0:30,8:15
+4.4,3,1.0,36.8,33.5,poco,muy procesada,No,octubre,17,otoño,22:15,5:00
+3.8,4,3.0,43.4,48.0,poco,equilibrada,No,octubre,18,otoño,2:45,7:15
+7.4,2,7.0,25.7,25.2,mucho,equilibrada,No,marzo,65,primavera,0:15,8:15
+2.1,4,1.0,27.6,39.4,nada,equilibrada,Si,diciembre,19,invierno,22:45,5:30
+8.8,1,3.0,38.8,77.2,medio,sana,No,marzo,9,primavera,21:15,6:00

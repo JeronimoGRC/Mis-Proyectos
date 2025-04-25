@@ -25,3 +25,20 @@ DATAFRAME
 Son un conjunto de SERIES, son una estructura bidimensional con columnas que pueden ser 
 de cualquier tipo.
 
+Referencia a los datos en un DataFrame:
+- data=diccionario
+- index=filas
+- columns=columnas
+
+Funciones de DataFrame:
+.info() : Devuelve información del dataframe (nº de filas, nº de columnas, índices)
+.shape : Devuelve una tupla con el número de filas y columnas del DataFrame
+.size : Devuelve el numero de elementos del DataFrame
+.columns : Devuelve una lista con los nombres de las columnas del DataFrame
+.index : Devuelve una lista con los nombres de la filas del DataFrame
+.dtypes : Devuelveuan serie con los tipos de datos de las columnas del DataFrame
+.head(n) : Devuelve las (n) primeras filas del DataFrame 
+.tail(n) : Devuelve las (n) últimas filas del DataFrame
+
+DATASET
+Es un conjunto de datos tabulados en cualquier sistema de alamcenamiento de datos estructurados

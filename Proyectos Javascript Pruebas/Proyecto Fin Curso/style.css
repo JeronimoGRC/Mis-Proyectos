@@ -1,0 +1,190 @@
+/*
+    Etiquetas HTML
+*/
+html {
+    scroll-behavior: smooth;
+}
+
+body{
+    margin: auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header{
+    border: transparent solid 1px;
+    color: white;
+    background-color: #46a550;
+}
+
+header > h2{
+    text-align: center;
+}
+
+nav > ul{
+    text-align: center;
+}
+
+nav > ul > li{
+    display: inline;
+    border-bottom: 1px solid white;
+    padding: 5px;
+    margin: 10px;
+}
+
+nav > ul > li:hover{    
+    background-color: white;
+    border-radius: 3px;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+nav a:hover{
+    color: #46a550;
+}
+a:visited,
+a:hover,
+a:active,
+a:focus {
+  color: white;
+  text-decoration: none;
+}
+
+main{
+    margin-top: -20px;
+    background-color: #e2dfe5;
+    padding: 5px;
+}
+
+input{
+    padding: 3px;
+    width: 125px;
+    border-radius: 4px;
+    border-color: rgb(180, 180, 180);
+}
+
+footer{
+    background-color: rgb(179, 171, 171);
+    height: 100px;
+
+}
+
+/*
+    Clases HTML
+*/
+.seccion{
+    margin: 5px;
+    padding: 4px;
+    background-color: white;
+}
+
+.agregar{
+    background-color: #46a550;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    padding: 6px;
+}
+
+.tarea {
+    border-bottom: #888888 solid 1px;
+    padding-bottom: 3px;
+}
+
+.finalizada {
+    color: rgb(255, 27, 27);
+    text-decoration: line-through;
+    text-decoration-color: red;
+    text-decoration-thickness: 1px;
+}
+
+/*
+    Ids HTML
+*/
+#lista_tareas{
+    padding-left: 0;
+}
+
+#carrito{
+    display: grid;
+    grid-template-areas: "titulo operaciones";
+    grid-template-columns: 250px auto;
+}
+
+#navegacion{
+    margin-bottom: 30px;
+}
+
+#titulo{
+    grid-area: titulo;
+}
+
+#operaciones{
+    grid-area: operaciones;
+    display: flex;
+    flex-direction: row;    
+}
+
+#disponibles > p{
+    font-weight: 700;
+}
+#disponibles{
+    margin-right: 5px;
+}
+
+#disponibles  ul{
+    padding-left: 0;
+}
+
+#disponibles  li{
+    border-bottom: #888888 solid 1px;
+    padding: 4px;
+    width: 500px; 
+}
+
+#seleccionados > p{
+    font-weight: 700;
+}
+
+#seleccionados  ul{
+    padding-left: 0;
+}
+
+#seleccionados  li{
+    border-bottom: #888888 solid 1px;
+    padding: 4px;
+    width: 450px; 
+}
+
+#inputs > input:nth-of-type(1){
+    height: 40px;
+    margin-right: 10px;
+}
+
+#inputs > input{
+    border: #888888 1px solid;
+    height: 50px;
+    text-align: justify;
+}
+
+#lista_notas > div{
+    border-radius: 3px;
+    width: 350px;
+    margin-top: 10px;
+    padding: 5px;
+    background-color: #c1c1c1;
+    transition: 0.5s;
+    border: transparent 2px solid;
+}
+
+#lista_notas > div:hover{
+    transition: 0.5s;
+    border: #46a550 2px solid;
+    cursor: pointer;
+}

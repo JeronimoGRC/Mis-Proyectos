@@ -1,0 +1,11 @@
+Visualización de los procesos para ver la información.
+
+Nos sirve para detectar patrones , valores anomalos y relaciones entre variables.
+
+Tipos de gráficos:
+- Histograma
+- KDE
+- Boxplot
+- Scatter Plot
+- Gráfica de violín
+- Gráficos de pastel

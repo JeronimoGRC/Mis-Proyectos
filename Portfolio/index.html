@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio - Jerónimo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <main>
+        <div id="presentacion">
+            <div id="foto">
+                <img src="assets/foto-perfil.png" alt="" srcset="" height="150px" width="150px">
+            </div>
+            <div id="nombre">
+                <h2>
+                    Jerónimo Gómez-Rodulfo Castro 
+                </h2>
+            </div>
+        </div>
+        
+        <div class="infoPersonal">
+           <div id="contenido">
+            <div id="texto">
+                <h3>Estudios y experiencia</h3>
+                <div>
+                    Estudie en el IES Valle del Jerte DAW(Desarrollo de aplicaciones Web), 
+                    he finalizado cursos de Analisis de datos y he desarrollado aplicaciones personales con
+                    Python y desarrollos de Arduino.
+                    Mi experiencia laboral reunida en este tiempo es 3 meses en el proyecto TIC-TAPSD: La vida conectada
+                    en el que utilizaba Angular para hacer peticiones API-REST y 13 meses 
+                    en la empresa Axpe Consulting en un proyecto en el que utilizaba Springboot y PL/SQL
+                </div>
+            </div>
+
+           </div>            
+        </div>
+        <div id="desarrollos">
+            <div id="imagenes">
+                <h3>Ejemplos de Desarrollos</h3>
+                <div id="assets">
+                    <img src="assets/calculadora.png" alt="" srcset="" height="150px" width="170px">
+                    <img src="assets/reproductor_musica.png" alt="" srcset="" height="150px" width="150px">
+                </div>
+                
+            </div>
+        </div>
+    </main>
+    <footer>
+        <div class="carrusel" style="position: relative;">
+            <button class="arrow left" onclick="moveSlide(-1)">←</button>
+            
+            <div class="carousel-container">
+              <div class="carousel-track" id="carouselTrack">
+                <div class="carousel-item">
+                    <img src="" alt="">
+                </div>
+                <div class="carousel-item">
+                    <img src="" alt="">
+                </div>                
+                <div class="carousel-item">
+                    <img src="" alt="">
+                </div>
+                <div class="carousel-item">
+                    <img src="" alt="">
+                </div>
+                <div class="carousel-item">
+                    <img src="" alt="">
+                </div>
+                <div class="carousel-item">
+                    <img src="" alt="">
+                </div>
+              </div>
+            </div>
+        
+            <button class="arrow right" onclick="moveSlide(1)">→</button>
+          </div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

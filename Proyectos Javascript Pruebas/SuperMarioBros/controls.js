@@ -1,3 +1,5 @@
+
+
 const MARIO_ANIMATIONS = {
     fire:{
         idle: 'mario-fire-idle',
@@ -51,6 +53,7 @@ export function checkControls({mario, keys, sound, scene},config){
     
     if(isSpaceKeyisDown && mario.isFire){
         mario.anims.play(marioAnimations.fire_ball,true)
+        mario.throwingFire = true
     }
 
     // Animación de muerte de Mario

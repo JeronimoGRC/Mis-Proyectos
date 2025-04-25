@@ -55,6 +55,16 @@ export const createAnimations = (game) => {
     })
 
     game.anims.create({
+        key:'fire-flower-movement',
+        frames: game.anims.generateFrameNumbers(
+            'fire-flower',
+            { start: 0, end: 3 }
+        ),
+        frameRate: 5,
+        repeat: -1
+    })
+
+    game.anims.create({
         key: 'mario-grown-idle',
         frames: [{key: 'mario-grown', frame: 0}],
     })
@@ -98,5 +108,15 @@ export const createAnimations = (game) => {
     game.anims.create({
         key: 'mario-fire-ball',
         frames: [{key: 'mario-fire', frame: 6}]
+    })
+
+    game.anims.create({
+        key: 'fire-ball-rotating',
+        frames: game.anims.generateFrameNumbers(
+            'fire-ball',
+            {start: 0, end: 3}
+        ),
+        frameRate: 10,
+        repeat: -1
     })
 }

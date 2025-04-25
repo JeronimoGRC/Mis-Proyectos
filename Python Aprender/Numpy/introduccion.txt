@@ -1,0 +1,17 @@
+Arrays
+np.array([]) -> declaración de array
+variable.ndim -> Devuelve las dimensiones del array
+
+1º índice Profundidad, 2º índice Fila, 3º indice columna
+matriz_con_profundidad[0,1,2]
+
+np.shape(array) -> Devuelve la forma del array (num de filas, columnas)
+array.reshape -> Cambiar la forma del array
+np.concatenate -> Concatenar arrays de forma indefinida
+np.array_split(arr, 3) -> Divido el array en este caso 3 arrays sin importar la cantidad de 
+datos dentro del array
+np.where() -> Nos devuelve la posición de donde se encuentre el datos dados dentro del parentesis
+np.sort() -> Ordena de menor a mayor un array
+
+Random:
+- Numeros pseudoaleatorios
